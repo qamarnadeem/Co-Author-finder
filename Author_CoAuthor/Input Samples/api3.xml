@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="13543">:facetid:stream:streams\"/\"journals\"/\"amses</query>
+<status code="200">OK</status>
+<time unit="msecs">126.28</time>
+<completions total="1" computed="1" sent="1">
+<c sc="185" dc="185" oc="185" id="17935694">:facetid:stream:streams/journals/amses</c>
+</completions>
+<hits total="185" computed="185" sent="185" first="0">
+<hit score="1" id="5798">
+<info><authors><author pid="287/3980">Matthew S. Bonney</author><author pid="18/6332">Richard Evans</author><author pid="287/3885">James Rouse</author><author pid="285/2666">Arthur Jones</author><author pid="36/10262">Pierre Kerfriden</author><author pid="285/2853">Maxime Hamadi</author></authors><title>Goal oriented error estimation in multi-scale shell element finite element problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>3</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/BonneyERJKH21</key><doi>10.1186/S40323-021-00189-2</doi><ee>https://doi.org/10.1186/s40323-021-00189-2</ee><url>https://dblp.org/rec/journals/amses/BonneyERJKH21</url></info>
+<url>URL#5798</url>
+</hit>
+<hit score="1" id="5799">
+<info><authors><author pid="230/7809">Mohamed Abdelsabour Fahmy</author></authors><title>A new boundary element algorithm for modeling and simulation of nonlinear thermal stresses in micropolar FGA composites with temperature-dependent properties.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>6</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/Fahmy21</key><doi>10.1186/S40323-021-00193-6</doi><ee>https://doi.org/10.1186/s40323-021-00193-6</ee><url>https://dblp.org/rec/journals/amses/Fahmy21</url></info>
+<url>URL#5799</url>
+</hit>
+<hit score="1" id="5800">
+<info><authors><author pid="289/7906">Sofia Farina</author><author pid="167/5551">Susanne Claus</author><author pid="182/2425">Jack S. Hale</author><author pid="79/11012">Alexander Skupin</author><author pid="51/6157">Stéphane P. A. Bordas</author></authors><title>A cut finite element method for spatially resolved energy metabolism models in complex neuro-cell morphologies with minimal remeshing.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>5</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/FarinaCHSB21</key><doi>10.1186/S40323-021-00191-8</doi><ee>https://doi.org/10.1186/s40323-021-00191-8</ee><url>https://dblp.org/rec/journals/amses/FarinaCHSB21</url></info>
+<url>URL#5800</url>
+</hit>
+<hit score="1" id="5801">
+<info><authors><author pid="133/9878">Jean-François Ganghoffer</author><author pid="282/8288">R. Rahouadj</author><author pid="80/1115">Alexei F. Cheviakov</author></authors><title>Symmetry analysis and equivalence transformations for the construction and reduction of constitutive models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>1</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/GanghofferRC21</key><doi>10.1186/S40323-020-00187-W</doi><ee>https://doi.org/10.1186/s40323-020-00187-w</ee><url>https://dblp.org/rec/journals/amses/GanghofferRC21</url></info>
+<url>URL#5801</url>
+</hit>
+<hit score="1" id="5802">
+<info><authors><author pid="131/3071">Alexandre Imperiale</author><author pid="76/4198">Dominique Chapelle</author><author pid="19/3940">Philippe Moireau</author></authors><title>Sequential data assimilation for mechanical systems with complex image data - application to tagged-MRI in cardiac mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>2</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/ImperialeCM21</key><doi>10.1186/S40323-020-00179-W</doi><ee>https://doi.org/10.1186/s40323-020-00179-w</ee><url>https://dblp.org/rec/journals/amses/ImperialeCM21</url></info>
+<url>URL#5802</url>
+</hit>
+<hit score="1" id="5803">
+<info><authors><author pid="273/4861">Vincent Magnoux</author><author pid="82/25">Benoît Ozell</author></authors><title>GPU-friendly data structures for real time simulation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>7</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/MagnouxO21</key><doi>10.1186/S40323-021-00192-7</doi><ee>https://doi.org/10.1186/s40323-021-00192-7</ee><url>https://dblp.org/rec/journals/amses/MagnouxO21</url></info>
+<url>URL#5803</url>
+</hit>
+<hit score="1" id="5804">
+<info><authors><author pid="287/3609">Paul-Baptiste Rubio</author><author pid="150/6195">Ludovic Chamoin</author><author pid="287/3785">François Louf</author></authors><title>Real-time data assimilation and control on mechanical systems under uncertainties.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>8</volume><number>1</number><pages>4</pages><year>2021</year><type>Journal Articles</type><key>journals/amses/RubioCL21</key><doi>10.1186/S40323-021-00188-3</doi><ee>https://doi.org/10.1186/s40323-021-00188-3</ee><url>https://dblp.org/rec/journals/amses/RubioCL21</url></info>
+<url>URL#5804</url>
+</hit>
+<hit score="1" id="106880">
+<info><authors><author pid="39/11202">Christopher J. Arthurs</author><author pid="47/2874">Nan Xiao</author><author pid="19/3940">Philippe Moireau</author><author pid="15/2699">Tobias Schaeffter</author><author pid="130/0637">C. Alberto Figueroa</author></authors><title>A flexible framework for sequential estimation of model parameters in computational hemodynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>48</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/ArthursXMSF20</key><doi>10.1186/S40323-020-00186-X</doi><ee>https://doi.org/10.1186/s40323-020-00186-x</ee><url>https://dblp.org/rec/journals/amses/ArthursXMSF20</url></info>
+<url>URL#106880</url>
+</hit>
+<hit score="1" id="106881">
+<info><authors><author pid="261/6854">Anna Ask</author><author pid="261/6585">Samuel Forest</author><author pid="261/6763">Benoît Appolaire</author><author pid="261/6711">Kais Ammar</author></authors><title>Microstructure evolution in deformed polycrystals predicted by a diffuse interface Cosserat approach.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>9</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/AskFAA20</key><doi>10.1186/S40323-020-00146-5</doi><ee>https://doi.org/10.1186/s40323-020-00146-5</ee><url>https://dblp.org/rec/journals/amses/AskFAA20</url></info>
+<url>URL#106881</url>
+</hit>
+<hit score="1" id="106882">
+<info><authors><author pid="261/6794">Kane C. Bennett</author><author pid="261/6798">Miroslav Zecevic</author><author pid="244/0742">Darby J. Luscher</author><author pid="230/2348">Ricardo A. Lebensohn</author></authors><title>A thermo-elastoplastic self-consistent homogenization method for inter-granular plasticity with application to thermal ratcheting of TATB.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>3</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/BennettZLL20</key><doi>10.1186/S40323-019-0139-6</doi><ee>https://doi.org/10.1186/s40323-019-0139-6</ee><url>https://dblp.org/rec/journals/amses/BennettZLL20</url></info>
+<url>URL#106882</url>
+</hit>
+<hit score="1" id="106883">
+<info><authors><author pid="16/3494">Erik Burman</author><author pid="13/9327">Peter Hansbo</author><author pid="68/3487">Mats G. Larson</author></authors><title>Cut Bogner-Fox-Schmit elements for plates.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>27</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/BurmanHL20</key><doi>10.1186/S40323-020-00164-3</doi><ee>https://doi.org/10.1186/s40323-020-00164-3</ee><url>https://dblp.org/rec/journals/amses/BurmanHL20</url></info>
+<url>URL#106883</url>
+</hit>
+<hit score="1" id="106884">
+<info><authors><author pid="136/6770">Fabien Casenave</author><author pid="265/3270">Asven Gariah</author><author pid="41/3106">Christian Rey</author><author pid="265/3116">Frederic Feyel</author></authors><title>A nonintrusive reduced order model for nonlinear transient thermal problems with nonparametrized variability.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>22</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/CasenaveGRF20</key><doi>10.1186/S40323-020-00156-3</doi><ee>https://doi.org/10.1186/s40323-020-00156-3</ee><url>https://dblp.org/rec/journals/amses/CasenaveGRF20</url></info>
+<url>URL#106884</url>
+</hit>
+<hit score="1" id="106885">
+<info><authors><author pid="19/3289">Thomas Daniel</author><author pid="136/6770">Fabien Casenave</author><author pid="150/1017">Nissrine Akkari</author><author pid="83/9391">David Ryckelynck</author></authors><title>Model order reduction assisted by deep neural networks (ROM-net).</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>16</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/DanielCAR20</key><doi>10.1186/S40323-020-00153-6</doi><ee>https://doi.org/10.1186/s40323-020-00153-6</ee><url>https://dblp.org/rec/journals/amses/DanielCAR20</url></info>
+<url>URL#106885</url>
+</hit>
+<hit score="1" id="106886">
+<info><authors><author pid="258/0669">Mauricio Fernández</author><author pid="258/5481">Shahed Rezaei</author><author pid="258/5439">Jaber Rezaei Mianroodi</author><author pid="188/6404">Felix Fritzen</author><author pid="154/9434">Stefanie Reese</author></authors><title>Application of artificial neural networks for the prediction of interface mechanics - a study on grain boundary constitutive behavior.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>1</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/FernandezRMFR20</key><doi>10.1186/S40323-019-0138-7</doi><ee>https://doi.org/10.1186/s40323-019-0138-7</ee><url>https://dblp.org/rec/journals/amses/FernandezRMFR20</url></info>
+<url>URL#106886</url>
+</hit>
+<hit score="1" id="106887">
+<info><authors><author pid="265/3225">Francesco Maria Filotto</author><author pid="265/3315">Falk Runkel</author><author pid="265/2488">Gerald Kress</author></authors><title>Cross section shape optimization of wire strands subjected to purely tensile loads using a reduced helical model.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>23</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/FilottoRK20</key><doi>10.1186/S40323-020-00159-0</doi><ee>https://doi.org/10.1186/s40323-020-00159-0</ee><url>https://dblp.org/rec/journals/amses/FilottoRK20</url></info>
+<url>URL#106887</url>
+</hit>
+<hit score="1" id="106888">
+<info><authors><author pid="270/3415">Brubeck L. Freeman</author><author pid="270/2886">Pedro Bonilla-Villalba</author><author pid="270/3181">Iulia C. Mihai</author><author pid="270/3804">Waled F. Alnaas</author><author pid="270/2923">Anthony D. Jefferson</author></authors><title>A specialised finite element for simulating self-healing quasi-brittle materials.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>32</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/FreemanBMAJ20</key><doi>10.1186/S40323-020-00171-4</doi><ee>https://doi.org/10.1186/s40323-020-00171-4</ee><url>https://dblp.org/rec/journals/amses/FreemanBMAJ20</url></info>
+<url>URL#106888</url>
+</hit>
+<hit score="1" id="106889">
+<info><authors><author pid="261/6672">Claude Fressengeas</author><author pid="261/6591">Manas V. Upadhyay</author></authors><title>A continuum model for slip transfer at grain boundaries.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>12</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/FressengeasU20</key><doi>10.1186/S40323-020-00145-6</doi><ee>https://doi.org/10.1186/s40323-020-00145-6</ee><url>https://dblp.org/rec/journals/amses/FressengeasU20</url></info>
+<url>URL#106889</url>
+</hit>
+<hit score="1" id="106890">
+<info><authors><author pid="279/5682">Hailu Shimels Gebremedhen</author><author pid="279/5810">Dereje Engida Woldemichael</author><author pid="156/4331">Fakhruldin Bin Mohd Hashim</author></authors><title>A firefly algorithm based hybrid method for structural topology optimization.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>44</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/GebremedhenWH20</key><doi>10.1186/S40323-020-00183-0</doi><ee>https://doi.org/10.1186/s40323-020-00183-0</ee><url>https://dblp.org/rec/journals/amses/GebremedhenWH20</url></info>
+<url>URL#106890</url>
+</hit>
+<hit score="1" id="106891">
+<info><authors><author pid="261/6775">J. Genée</author><author pid="261/6759">S. Berbenni</author><author pid="261/6833">N. Gey</author><author pid="230/2348">Ricardo A. Lebensohn</author><author pid="119/7608">F. Bonnet</author></authors><title>Particle interspacing effects on the mechanical behavior of a Fe-TiB2 metal matrix composite using FFT-based mesoscopic field dislocation mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>6</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/GeneeBGLB20</key><doi>10.1186/S40323-020-0141-Z</doi><ee>https://doi.org/10.1186/s40323-020-0141-z</ee><url>https://dblp.org/rec/journals/amses/GeneeBGLB20</url></info>
+<url>URL#106891</url>
+</hit>
+<hit score="1" id="106892">
+<info><authors><author pid="268/8580">Corentin Le Gourriérec</author><author pid="28/6811">Stéphane Roux</author><author pid="78/6934">François Hild</author></authors><title>Measuring acceleration fields via regularized digital image correlation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>30</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/GourrierecRH20</key><doi>10.1186/S40323-020-00170-5</doi><ee>https://doi.org/10.1186/s40323-020-00170-5</ee><url>https://dblp.org/rec/journals/amses/GourrierecRH20</url></info>
+<url>URL#106892</url>
+</hit>
+<hit score="1" id="106893">
+<info><authors><author pid="267/8454">Thomas Groensfelder</author><author pid="267/8787">Fabian Giebeler</author><author pid="267/8692">Marco Geupel</author><author pid="16/49">David Schneider</author><author pid="267/9145">Rebecca Jaeger</author></authors><title>Application of machine learning procedures for mechanical system modelling - capabilities and caveats to prediction-accuracy.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>26</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/GroensfelderGGS20</key><doi>10.1186/S40323-020-00163-4</doi><ee>https://doi.org/10.1186/s40323-020-00163-4</ee><url>https://dblp.org/rec/journals/amses/GroensfelderGGS20</url></info>
+<url>URL#106893</url>
+</hit>
+<hit score="1" id="106894">
+<info><authors><author pid="262/9715">Etienne Gstalter</author><author pid="262/9710">Sonia Assou</author><author pid="257/8826">Yves Tourbier</author><author pid="29/6096">Florian De Vuyst</author></authors><title>Toward new methods for optimization study in automotive industry including recent reduction techniques.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>17</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/GstalterATV20</key><doi>10.1186/S40323-020-00151-8</doi><ee>https://doi.org/10.1186/s40323-020-00151-8</ee><url>https://dblp.org/rec/journals/amses/GstalterATV20</url></info>
+<url>URL#106894</url>
+</hit>
+<hit score="1" id="106895">
+<info><authors><author pid="70/4528">J. K. Hammond</author><author pid="79/7029">R. Chen</author><author pid="136/1213">V. Mallet</author></authors><title>Meta-modeling of a simulation chain for urban air quality.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>37</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/HammondCM20</key><doi>10.1186/S40323-020-00173-2</doi><ee>https://doi.org/10.1186/s40323-020-00173-2</ee><url>https://dblp.org/rec/journals/amses/HammondCM20</url></info>
+<url>URL#106895</url>
+</hit>
+<hit score="1" id="106896">
+<info><authors><author pid="167/9920">Ryo Hatano</author><author pid="276/6695">Seishiro Matsubara</author><author pid="155/9218">Shuji Moriguchi</author><author pid="226/0096">Kenjiro Terada</author><author pid="126/2942">Julien Yvonnet</author></authors><title>FEr method with surrogate localization model for hyperelastic composite materials.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>39</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/HatanoMMTY20</key><doi>10.1186/S40323-020-00175-0</doi><ee>https://doi.org/10.1186/s40323-020-00175-0</ee><url>https://dblp.org/rec/journals/amses/HatanoMMTY20</url></info>
+<url>URL#106896</url>
+</hit>
+<hit score="1" id="106897">
+<info><authors><author pid="264/2361">Clément Jailin</author><author pid="264/2134">Thomas Jailin</author><author pid="28/6811">Stéphane Roux</author></authors><title>Measurement of 1-10 Hz 3D vibration modes with a CT-scanner.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>20</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/JailinJR20</key><doi>10.1186/S40323-020-00155-4</doi><ee>https://doi.org/10.1186/s40323-020-00155-4</ee><url>https://dblp.org/rec/journals/amses/JailinJR20</url></info>
+<url>URL#106897</url>
+</hit>
+<hit score="1" id="106898">
+<info><authors><author pid="36/10262">Pierre Kerfriden</author><author pid="167/5551">Susanne Claus</author><author pid="262/9680">I. Mihai</author></authors><title>A mixed-dimensional CutFEM methodology for the simulation of fibre-reinforced composites.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>18</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/KerfridenCM20</key><doi>10.1186/S40323-020-00154-5</doi><ee>https://doi.org/10.1186/s40323-020-00154-5</ee><url>https://dblp.org/rec/journals/amses/KerfridenCM20</url></info>
+<url>URL#106898</url>
+</hit>
+<hit score="1" id="106899">
+<info><authors><author pid="279/5700">Hanane Khatouri</author><author pid="279/5950">Tariq Benamara</author><author pid="44/4099">Piotr Breitkopf</author><author pid="279/5900">Jean Demange</author><author pid="163/8447">Paul Feliot</author></authors><title>Constrained multi-fidelity surrogate framework using Bayesian optimization with non-intrusive reduced-order basis.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>43</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/KhatouriBBDF20</key><doi>10.1186/S40323-020-00176-Z</doi><ee>https://doi.org/10.1186/s40323-020-00176-z</ee><url>https://dblp.org/rec/journals/amses/KhatouriBBDF20</url></info>
+<url>URL#106899</url>
+</hit>
+<hit score="1" id="106900">
+<info><authors><author pid="261/6627">Ronald Krueger</author><author pid="261/6563">Lyle Deobald</author><author pid="261/6643">Haozhong Gu</author></authors><title>A benchmark example for delamination growth predictions based on the Single Leg Bending specimen under fatigue loading.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>11</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/KruegerDG20</key><doi>10.1186/S40323-020-00148-3</doi><ee>https://doi.org/10.1186/s40323-020-00148-3</ee><url>https://dblp.org/rec/journals/amses/KruegerDG20</url></info>
+<url>URL#106900</url>
+</hit>
+<hit score="1" id="106901">
+<info><authors><author pid="124/0926">Carola Kruse</author><author pid="161/4766">Vincent Darrigrand</author><author pid="187/5731">Nicolas Tardieu</author><author pid="99/2052">Mario Arioli</author><author pid="75/2928">Ulrich Rüde</author></authors><title>Application of an iterative Golub-Kahan algorithm to structural mechanics problems with multi-point constraints.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>45</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/KruseDTAR20</key><doi>10.1186/S40323-020-00181-2</doi><ee>https://doi.org/10.1186/s40323-020-00181-2</ee><url>https://dblp.org/rec/journals/amses/KruseDTAR20</url></info>
+<url>URL#106901</url>
+</hit>
+<hit score="1" id="106902">
+<info><authors><author pid="279/5727">Mario Lovric</author><author pid="151/7426">Richard Meister</author><author pid="279/5764">Thomas Steck</author><author pid="260/5274">Leon Fadljevic</author><author pid="279/5899">Johann Gerdenitsch</author><author pid="81/4298">Stefan Schuster</author><author pid="279/5943">Lukas Schiefermüller</author><author pid="95/3263">Stefanie N. Lindstaedt</author><author pid="85/6799">Roman Kern</author></authors><title>Parasitic resistance as a predictor of faulty anodes in electro galvanizing - a comparison of machine learning, physical and hybrid models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>46</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/LovricMSFGSSLK20</key><doi>10.1186/S40323-020-00184-Z</doi><ee>https://doi.org/10.1186/s40323-020-00184-z</ee><url>https://dblp.org/rec/journals/amses/LovricMSFGSSLK20</url></info>
+<url>URL#106902</url>
+</hit>
+<hit score="1" id="106903">
+<info><authors><author pid="65/2151">Hermann G. Matthies</author><author pid="254/1966">Roger Ohayon</author></authors><title>Parametric models analysed with linear maps.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>41</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/MatthiesO20</key><doi>10.1186/S40323-020-00172-3</doi><ee>https://doi.org/10.1186/s40323-020-00172-3</ee><url>https://dblp.org/rec/journals/amses/MatthiesO20</url></info>
+<url>URL#106903</url>
+</hit>
+<hit score="1" id="106904">
+<info><authors><author pid="159/8775">Matthias Mayr</author><author pid="262/9596">Maximilian H. Noll</author><author pid="124/3309">Michael W. Gee</author></authors><title>A hybrid interface preconditioner for monolithic fluid-structure interaction solvers.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>15</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/MayrNG20</key><doi>10.1186/S40323-020-00150-9</doi><ee>https://doi.org/10.1186/s40323-020-00150-9</ee><url>https://dblp.org/rec/journals/amses/MayrNG20</url></info>
+<url>URL#106904</url>
+</hit>
+<hit score="1" id="106905">
+<info><authors><author pid="261/6767">Didac Costas Muñoz</author><author pid="261/6824">Michal Majzel</author></authors><title>Improving collapsibility robustness of an EPS-CD by means of simulation and six sigma.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>7</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/MunozM20</key><doi>10.1186/S40323-020-0144-9</doi><ee>https://doi.org/10.1186/s40323-020-0144-9</ee><url>https://dblp.org/rec/journals/amses/MunozM20</url></info>
+<url>URL#106905</url>
+</hit>
+<hit score="1" id="106906">
+<info><authors><author pid="265/2636">Márton Petö</author><author pid="256/6413">Fabian Duvigneau</author><author pid="265/3097">Sascha Eisenträger</author></authors><title>Enhanced numerical integration scheme based on image-compression techniques - application to fictitious domain methods.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>21</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/PetoDE20</key><doi>10.1186/S40323-020-00157-2</doi><ee>https://doi.org/10.1186/s40323-020-00157-2</ee><url>https://dblp.org/rec/journals/amses/PetoDE20</url></info>
+<url>URL#106906</url>
+</hit>
+<hit score="1" id="106907">
+<info><authors><author pid="265/2636">Márton Petö</author><author pid="256/6413">Fabian Duvigneau</author><author pid="265/3097">Sascha Eisenträger</author></authors><title>Correction to - Enhanced numerical integration scheme based on image-compression techniques - application to fictitious domain methods.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>34</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/PetoDE20a</key><doi>10.1186/S40323-020-00165-2</doi><ee>https://doi.org/10.1186/s40323-020-00165-2</ee><url>https://dblp.org/rec/journals/amses/PetoDE20a</url></info>
+<url>URL#106907</url>
+</hit>
+<hit score="1" id="106908">
+<info><authors><author pid="238/8407">Marco Petrolo</author><author pid="238/8148">Erasmo Carrera</author></authors><title>On the use of neural networks to evaluate performances of shell models for composites.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>31</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/PetroloC20</key><doi>10.1186/S40323-020-00169-Y</doi><ee>https://doi.org/10.1186/s40323-020-00169-y</ee><url>https://dblp.org/rec/journals/amses/PetroloC20</url></info>
+<url>URL#106908</url>
+</hit>
+<hit score="1" id="106909">
+<info><authors><author pid="273/6540">Pierre Phalippou</author><author pid="44/4099">Piotr Breitkopf</author><author pid="240/7754">Salim Bouabdallah</author><author pid="273/6541">Malek Zarroug</author><author pid="62/438">Pierre Villon</author></authors><title>Remarks on mixed-integer formulations for hyper-reduction schemes in nonlinear dynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>36</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/PhalippouBBZV20</key><doi>10.1186/S40323-020-00167-0</doi><ee>https://doi.org/10.1186/s40323-020-00167-0</ee><url>https://dblp.org/rec/journals/amses/PhalippouBBZV20</url></info>
+<url>URL#106909</url>
+</hit>
+<hit score="1" id="106910">
+<info><authors><author pid="272/8709">Elten Polukhov</author><author pid="272/8848">Marc-André Keip</author></authors><title>Computational homogenization of transient chemo-mechanical processes based on a variational minimization principle.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>35</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/PolukhovK20</key><doi>10.1186/S40323-020-00161-6</doi><ee>https://doi.org/10.1186/s40323-020-00161-6</ee><url>https://dblp.org/rec/journals/amses/PolukhovK20</url></info>
+<url>URL#106910</url>
+</hit>
+<hit score="1" id="106911">
+<info><authors><author pid="243/2890">Sebastian D. Proell</author><author pid="67/1025">Wolfgang A. Wall</author><author pid="12/6413-1">Christoph Meier 0001</author></authors><title>On phase change and latent heat models in metal additive manufacturing process simulation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>24</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/ProellWM20</key><doi>10.1186/S40323-020-00158-1</doi><ee>https://doi.org/10.1186/s40323-020-00158-1</ee><url>https://dblp.org/rec/journals/amses/ProellWM20</url></info>
+<url>URL#106911</url>
+</hit>
+<hit score="1" id="106912">
+<info><authors><author pid="278/0159">Jonatha Reis</author><author pid="278/0224">José Paulo Moitinho de Almeida</author><author pid="10/4069">Pedro Díez</author><author pid="60/676">Sergio Zlotnik</author></authors><title>Error estimation and adaptivity for PGD based on complementary solutions applied to a simple 1D problem.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>42</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/ReisADZ20</key><doi>10.1186/S40323-020-00180-3</doi><ee>https://doi.org/10.1186/s40323-020-00180-3</ee><url>https://dblp.org/rec/journals/amses/ReisADZ20</url></info>
+<url>URL#106912</url>
+</hit>
+<hit score="1" id="106913">
+<info><authors><author pid="191/7259">Annika Robens-Radermacher</author><author pid="56/9443">Jörg F. Unger</author></authors><title>Efficient structural reliability analysis by using a PGD model in an adaptive importance sampling schema.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>29</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/Robens-Radermacher20</key><doi>10.1186/S40323-020-00168-Z</doi><ee>https://doi.org/10.1186/s40323-020-00168-z</ee><url>https://dblp.org/rec/journals/amses/Robens-Radermacher20</url></info>
+<url>URL#106913</url>
+</hit>
+<hit score="1" id="106914">
+<info><authors><author pid="148/8392">Ondrej Rokos</author><author pid="54/3321">Jan Zeman</author><author pid="239/5684">Martin Doskár</author><author pid="89/6111">Petr Krysl</author></authors><title>Reduced integration schemes in micromorphic computational homogenization of elastomeric mechanical metamaterials.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>19</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/RokosZDK20</key><doi>10.1186/S40323-020-00152-7</doi><ee>https://doi.org/10.1186/s40323-020-00152-7</ee><url>https://dblp.org/rec/journals/amses/RokosZDK20</url></info>
+<url>URL#106914</url>
+</hit>
+<hit score="1" id="106915">
+<info><authors><author pid="148/8392">Ondrej Rokos</author><author pid="54/3321">Jan Zeman</author><author pid="239/5684">Martin Doskár</author><author pid="89/6111">Petr Krysl</author></authors><title>Correction to - Reduced integration schemes in micromorphic computational homogenization of elastomeric mechanical metamaterials.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>25</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/RokosZDK20b</key><doi>10.1186/S40323-020-00160-7</doi><ee>https://doi.org/10.1186/s40323-020-00160-7</ee><url>https://dblp.org/rec/journals/amses/RokosZDK20b</url></info>
+<url>URL#106915</url>
+</hit>
+<hit score="1" id="106916">
+<info><authors><author pid="259/0883">Luca Rosafalco</author><author pid="126/0449">Andrea Manzoni</author><author pid="65/964-2">Stefano Mariani 0002</author><author pid="132/2686">Alberto Corigliano</author></authors><title>Fully convolutional networks for structural health monitoring through multivariate time series classification.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>38</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/RosafalcoMMC20</key><doi>10.1186/S40323-020-00174-1</doi><ee>https://doi.org/10.1186/s40323-020-00174-1</ee><url>https://dblp.org/rec/journals/amses/RosafalcoMMC20</url></info>
+<url>URL#106916</url>
+</hit>
+<hit score="1" id="106917">
+<info><authors><author pid="258/5638">Lucille Salha</author><author pid="229/7391">Jérémy Bleyer</author><author pid="232/6373">Karam Sab</author><author pid="258/5605">Joanna Bodgi</author></authors><title>Mesh-adapted stress analysis of multilayered plates using a layerwise model.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>2</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/SalhaBSB20</key><doi>10.1186/S40323-020-0142-Y</doi><ee>https://doi.org/10.1186/s40323-020-0142-y</ee><url>https://dblp.org/rec/journals/amses/SalhaBSB20</url></info>
+<url>URL#106917</url>
+</hit>
+<hit score="1" id="106918">
+<info><authors><author pid="131/7425">Carlo Sansour</author><author pid="270/3282">Tien Long Nguyen</author><author pid="165/4873">Mohammed Hjiaj</author><author pid="270/3370">Sophy Chhang</author></authors><title>Geometrically exact planar Euler-Bernoulli beam and time integration procedure for multibody dynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>33</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/SansourNHC20</key><doi>10.1186/S40323-020-00166-1</doi><ee>https://doi.org/10.1186/s40323-020-00166-1</ee><url>https://dblp.org/rec/journals/amses/SansourNHC20</url></info>
+<url>URL#106918</url>
+</hit>
+<hit score="1" id="106919">
+<info><authors><author pid="281/7963">Muhammad S. Sarfaraz</author><author pid="01/10826">Bojana V. Rosic</author><author pid="65/2151">Hermann G. Matthies</author><author pid="148/8449">Adnan Ibrahimbegovic</author></authors><title>Bayesian stochastic multi-scale analysis via energy considerations.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>50</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/SarfarazRMI20</key><doi>10.1186/S40323-020-00185-Y</doi><ee>https://doi.org/10.1186/s40323-020-00185-y</ee><url>https://dblp.org/rec/journals/amses/SarfarazRMI20</url></info>
+<url>URL#106919</url>
+</hit>
+<hit score="1" id="106920">
+<info><authors><author pid="280/9066">Felix K. Schwab</author><author pid="70/10330">Andreas Reiter</author><author pid="47/1309">Christoph Herrmann</author><author pid="61/6003">Daniel Schneider</author><author pid="60/1348">Britta Nestler</author></authors><title>Phase-inherent linear visco-elasticity model for infinitesimal deformations in the multiphase-field context.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>47</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/SchwabRHSN20</key><doi>10.1186/S40323-020-00178-X</doi><ee>https://doi.org/10.1186/s40323-020-00178-x</ee><url>https://dblp.org/rec/journals/amses/SchwabRHSN20</url></info>
+<url>URL#106920</url>
+</hit>
+<hit score="1" id="106921">
+<info><authors><author pid="261/6784">Swee Hong Tan</author><author pid="261/6782">Leong Hien Poh</author></authors><title>Enriched homogenized model for viscoelastic plane wave propagation in periodic layered composites.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>4</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/TanP20</key><doi>10.1186/S40323-020-0143-X</doi><ee>https://doi.org/10.1186/s40323-020-0143-x</ee><url>https://dblp.org/rec/journals/amses/TanP20</url></info>
+<url>URL#106921</url>
+</hit>
+<hit score="1" id="106922">
+<info><authors><author pid="226/8532">Marco Tezzele</author><author pid="178/0681">Nicola Demo</author><author pid="215/5524">Giovanni Stabile</author><author pid="214/6622">Andrea Mola</author><author pid="99/600">Gianluigi Rozza</author></authors><title>Enhancing CFD predictions in shape design problems by model and parameter space reduction.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>40</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/TezzeleDSMR20</key><doi>10.1186/S40323-020-00177-Y</doi><ee>https://doi.org/10.1186/s40323-020-00177-y</ee><url>https://dblp.org/rec/journals/amses/TezzeleDSMR20</url></info>
+<url>URL#106922</url>
+</hit>
+<hit score="1" id="106923">
+<info><authors><author pid="268/8446">Werner Wagner</author><author pid="268/8413">Friedrich Gruttmann</author></authors><title>An improved quadrilateral shell element based on the Hu-Washizu functional.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>28</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/WagnerG20</key><doi>10.1186/S40323-020-00162-5</doi><ee>https://doi.org/10.1186/s40323-020-00162-5</ee><url>https://dblp.org/rec/journals/amses/WagnerG20</url></info>
+<url>URL#106923</url>
+</hit>
+<hit score="1" id="106924">
+<info><authors><author pid="262/9724">Abdullah Waseem</author><author pid="144/9668">Thomas Heuzé</author><author pid="222/0702">Laurent Stainier</author><author pid="67/8458">Marc G. D. Geers</author><author pid="97/9651">Varvara G. Kouznetsova</author></authors><title>Enriched continuum for multi-scale transient diffusion coupled to mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>14</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/WaseemHSGK20</key><doi>10.1186/S40323-020-00149-2</doi><ee>https://doi.org/10.1186/s40323-020-00149-2</ee><url>https://dblp.org/rec/journals/amses/WaseemHSGK20</url></info>
+<url>URL#106924</url>
+</hit>
+<hit score="1" id="106925">
+<info><authors><author pid="14/9247">Benjamin Wassermann</author><author pid="255/6085">Nina Korshunova</author><author pid="121/5375">Stefan Kollmannsberger</author><author pid="11/6534">Ernst Rank</author><author pid="40/1705">Gershon Elber</author></authors><title>Finite cell method for functionally graded materials based on V-models and homogenized microstructures.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>49</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/WassermannKKRE20</key><doi>10.1186/S40323-020-00182-1</doi><ee>https://doi.org/10.1186/s40323-020-00182-1</ee><url>https://dblp.org/rec/journals/amses/WassermannKKRE20</url></info>
+<url>URL#106925</url>
+</hit>
+<hit score="1" id="106926">
+<info><authors><author pid="79/10883">Louise Wright</author><author pid="33/6428">Stuart Davidson</author></authors><title>How to tell the difference between a model and a digital twin.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>13</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/WrightD20</key><doi>10.1186/S40323-020-00147-4</doi><ee>https://doi.org/10.1186/s40323-020-00147-4</ee><url>https://dblp.org/rec/journals/amses/WrightD20</url></info>
+<url>URL#106926</url>
+</hit>
+<hit score="1" id="106927">
+<info><authors><author pid="261/6772">Patrick Zarnas</author><author pid="261/6904">Rémi Dingreville</author><author pid="261/6722">Brittany Muntifering</author><author pid="261/6791">Khalid Hattar</author><author pid="261/6844">Brad L. Boyce</author><author pid="88/8552">Jianmin Qu</author></authors><title>Statistical analysis of the interaction between irradiation-induced defects and triple junctions.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>7</volume><number>1</number><pages>5</pages><year>2020</year><type>Journal Articles</type><key>journals/amses/ZarnasDMHBQ20</key><doi>10.1186/S40323-020-0140-0</doi><ee>https://doi.org/10.1186/s40323-020-0140-0</ee><url>https://dblp.org/rec/journals/amses/ZarnasDMHBQ20</url></info>
+<url>URL#106927</url>
+</hit>
+<hit score="1" id="504046">
+<info><authors><author pid="238/8394">François Kimmig</author><author pid="76/4198">Dominique Chapelle</author><author pid="19/3940">Philippe Moireau</author></authors><title>Thermodynamic properties of muscle contraction models and associated discrete-time principles.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>6:1-6:36</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/KimmigCM19</key><doi>10.1186/S40323-019-0128-9</doi><ee>https://doi.org/10.1186/s40323-019-0128-9</ee><url>https://dblp.org/rec/journals/amses/KimmigCM19</url></info>
+<url>URL#504046</url>
+</hit>
+<hit score="1" id="504047">
+<info><authors><author pid="117/5352">Angel León</author><author pid="256/2008">Sebastien Mueller</author><author pid="256/1999">Patrick de Luca</author><author pid="256/1912">Rajab Said</author><author pid="234/4009">Jean-Louis Duval</author><author pid="33/5936">Francisco Chinesta</author></authors><title>Non-intrusive proper generalized decomposition involving space and parameters - application to the mechanical modeling of 3D woven fabrics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>13</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/LeonMLSDC19</key><doi>10.1186/S40323-019-0137-8</doi><ee>https://doi.org/10.1186/s40323-019-0137-8</ee><url>https://dblp.org/rec/journals/amses/LeonMLSDC19</url></info>
+<url>URL#504047</url>
+</hit>
+<hit score="1" id="504048">
+<info><authors><author pid="25/10892">Guohong Li</author><author pid="238/8148">Erasmo Carrera</author><author pid="243/0984">Maria Cinefra</author><author pid="243/0787">Alberto G. de Miguel</author><author pid="243/1040">Gennady M. Kulikov</author><author pid="243/0819">Alfonso Pagani</author><author pid="243/0825">Enrico Zappino</author></authors><title>Evaluation of shear and membrane locking in refined hierarchical shell finite elements for laminated structures.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>8:1-8:24</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/LiCCMKPZ19</key><doi>10.1186/S40323-019-0131-1</doi><ee>https://doi.org/10.1186/s40323-019-0131-1</ee><url>https://dblp.org/rec/journals/amses/LiCCMKPZ19</url></info>
+<url>URL#504048</url>
+</hit>
+<hit score="1" id="504049">
+<info><authors><author pid="256/1959">Rodrigo Britto Maria</author><author pid="19/8602">Marcus de Freitas Leal</author><author pid="256/1918">Edgard Sousa Junior</author><author pid="256/1998">Vinicius Leite Lemos</author><author pid="256/1859">Patrick Magalhães Cardoso</author><author pid="256/1935">Leonardo Cosme de Oliveira</author><author pid="256/1907">Saullo Giovani Pereira Castro</author><author pid="256/1936">Marcelo de Lima Marcolin</author><author pid="256/1944">Darshan Joshi</author></authors><title>Applications of SPDM in aircraft structural analysis at Embraer.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>12</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/MariaLJLCOCMJ19</key><doi>10.1186/S40323-019-0136-9</doi><ee>https://doi.org/10.1186/s40323-019-0136-9</ee><url>https://dblp.org/rec/journals/amses/MariaLJLCOCMJ19</url></info>
+<url>URL#504049</url>
+</hit>
+<hit score="1" id="504050">
+<info><authors><author pid="238/8407">Marco Petrolo</author><author pid="238/8148">Erasmo Carrera</author></authors><title>Best theory diagrams for multilayered structures via shell finite elements.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>4:1-4:23</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/PetroloC19</key><doi>10.1186/S40323-019-0129-8</doi><ee>https://doi.org/10.1186/s40323-019-0129-8</ee><url>https://dblp.org/rec/journals/amses/PetroloC19</url></info>
+<url>URL#504050</url>
+</hit>
+<hit score="1" id="504051">
+<info><authors><author pid="234/4004">Giacomo Quaranta</author><author pid="222/9300">Mustapha Ziane</author><author pid="234/4022">Fatima Daim</author><author pid="133/6430">Emmanuelle Abisset-Chavanne</author><author pid="234/4009">Jean-Louis Duval</author><author pid="33/5936">Francisco Chinesta</author></authors><title>On the coupling of local 3D solutions and global 2D shell theory in structural mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>1:1-1:25</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/QuarantaZDADC19</key><doi>10.1186/S40323-019-0125-Z</doi><ee>https://doi.org/10.1186/s40323-019-0125-z</ee><url>https://dblp.org/rec/journals/amses/QuarantaZDADC19</url></info>
+<url>URL#504051</url>
+</hit>
+<hit score="1" id="504052">
+<info><authors><author pid="234/4004">Giacomo Quaranta</author><author pid="222/9300">Mustapha Ziane</author><author pid="49/5727">Eberhard Haug</author><author pid="234/4009">Jean-Louis Duval</author><author pid="33/5936">Francisco Chinesta</author></authors><title>A minimally-intrusive fully 3D separated plate formulation in computational structural mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>11:1-11:22</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/QuarantaZHDC19</key><doi>10.1186/S40323-019-0135-X</doi><ee>https://doi.org/10.1186/s40323-019-0135-x</ee><url>https://dblp.org/rec/journals/amses/QuarantaZHDC19</url></info>
+<url>URL#504052</url>
+</hit>
+<hit score="1" id="504053">
+<info><authors><author pid="79/9135">Dina Razafindralandy</author><author pid="150/6290">Vladimir N. Salnikov</author><author pid="10/9139">Aziz Hamdouni</author><author pid="238/8260">Ahmad Deeb</author></authors><title>Some robust integrators for large time dynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>5:1-5:29</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/Razafindralandy19</key><doi>10.1186/S40323-019-0130-2</doi><ee>https://doi.org/10.1186/s40323-019-0130-2</ee><url>https://dblp.org/rec/journals/amses/Razafindralandy19</url></info>
+<url>URL#504053</url>
+</hit>
+<hit score="1" id="504054">
+<info><authors><author pid="237/4829">Jean Di Stasio</author><author pid="38/1007">David Dureisseix</author><author pid="182/4783">Anthony Gravouil</author><author pid="173/5696">Gabriel Georges</author><author pid="131/7857">Thomas M. M. Homolle</author></authors><title>Benchmark cases for robust explicit time integrators in non-smooth transient dynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>2:1-2:31</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/StasioDGGH19</key><doi>10.1186/S40323-019-0126-Y</doi><ee>https://doi.org/10.1186/s40323-019-0126-y</ee><url>https://dblp.org/rec/journals/amses/StasioDGGH19</url></info>
+<url>URL#504054</url>
+</hit>
+<hit score="1" id="504055">
+<info><authors><author pid="238/8406">Bing Tie</author></authors><title>Some comparisons and analyses of time or space discontinuous Galerkin methods applied to elastic wave propagation in anisotropic and heterogeneous media.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>3:1-3:27</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/Tie19</key><doi>10.1186/S40323-019-0127-X</doi><ee>https://doi.org/10.1186/s40323-019-0127-x</ee><url>https://dblp.org/rec/journals/amses/Tie19</url></info>
+<url>URL#504055</url>
+</hit>
+<hit score="1" id="504056">
+<info><authors><author pid="57/13">Philippe Vidal</author><author pid="243/0973">Olivier Polit</author><author pid="166/5886">Laurent Gallimard</author><author pid="243/1016">Michele D'Ottavio</author></authors><title>Modeling of cylindrical composite shell structures based on the Reissner's Mixed Variational Theorem with a variable separation method.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>7:1-7:25</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/VidalPGD19</key><doi>10.1186/S40323-019-0132-0</doi><ee>https://doi.org/10.1186/s40323-019-0132-0</ee><url>https://dblp.org/rec/journals/amses/VidalPGD19</url></info>
+<url>URL#504056</url>
+</hit>
+<hit score="1" id="504057">
+<info><authors><author pid="243/0837">Nils Viebahn</author><author pid="26/4707">Jörg Schröder</author><author pid="96/2477">Peter Wriggers</author></authors><title>An extension of assumed stress finite elements to a general hyperelastic framework.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>9:1-9:22</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/ViebahnSW19</key><doi>10.1186/S40323-019-0133-Z</doi><ee>https://doi.org/10.1186/s40323-019-0133-z</ee><url>https://dblp.org/rec/journals/amses/ViebahnSW19</url></info>
+<url>URL#504057</url>
+</hit>
+<hit score="1" id="504058">
+<info><authors><author pid="55/2531">Yao Yue</author><author pid="08/5708">Lihong Feng</author><author pid="64/6061">Peter Benner</author></authors><title>Reduced-order modelling of parametric systems via interpolation of heterogeneous surrogates.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>6</volume><number>1</number><pages>10:1-10:33</pages><year>2019</year><type>Journal Articles</type><key>journals/amses/YueFB19</key><doi>10.1186/S40323-019-0134-Y</doi><ee>https://doi.org/10.1186/s40323-019-0134-y</ee><url>https://dblp.org/rec/journals/amses/YueFB19</url></info>
+<url>URL#504058</url>
+</hit>
+<hit score="1" id="896718">
+<info><authors><author pid="71/4456">Reza Abedi</author><author pid="59/2064">Robert B. Haber</author></authors><title>Spacetime simulation of dynamic fracture with crack closure and frictional sliding.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>22:1-22:22</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/AbediH18</key><doi>10.1186/S40323-018-0116-5</doi><ee>https://doi.org/10.1186/s40323-018-0116-5</ee><url>https://dblp.org/rec/journals/amses/AbediH18</url></info>
+<url>URL#896718</url>
+</hit>
+<hit score="1" id="896719">
+<info><authors><author pid="220/2350">E. Azinpour</author><author pid="220/2234">J. P. S. Ferreira</author><author pid="151/6155">Marco P. L. Parente</author><author pid="220/2209">J. Cesar de Sa</author></authors><title>A simple and unified implementation of phase field and gradient damage models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>15:1-15:24</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/AzinpourFPS18</key><doi>10.1186/S40323-018-0106-7</doi><ee>https://doi.org/10.1186/s40323-018-0106-7</ee><url>https://dblp.org/rec/journals/amses/AzinpourFPS18</url></info>
+<url>URL#896719</url>
+</hit>
+<hit score="1" id="896720">
+<info><authors><author pid="225/6080">Daniel Baumgärtner</author><author pid="11/8007">Johannes Wolf</author><author pid="40/9621">Riccardo Rossi</author><author pid="225/5766">Pooyan Dadvand</author><author pid="155/7399">Roland Wüchner</author></authors><title>A robust algorithm for implicit description of immersed geometries within a background mesh.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>21:1-21:40</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/BaumgartnerWRDW18</key><doi>10.1186/S40323-018-0113-8</doi><ee>https://doi.org/10.1186/s40323-018-0113-8</ee><url>https://dblp.org/rec/journals/amses/BaumgartnerWRDW18</url></info>
+<url>URL#896720</url>
+</hit>
+<hit score="1" id="896721">
+<info><authors><author pid="220/2193">Hamid Reza Bayat</author><author pid="220/2361">Stephan Wulfinghoff</author><author pid="220/2169">Steffen Kastian</author><author pid="154/9434">Stefanie Reese</author></authors><title>On the use of reduced integration in combination with discontinuous Galerkin discretization - application to volumetric and shear locking problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>10:1-10:16</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/BayatWKR18</key><doi>10.1186/S40323-018-0103-X</doi><ee>https://doi.org/10.1186/s40323-018-0103-x</ee><url>https://dblp.org/rec/journals/amses/BayatWKR18</url></info>
+<url>URL#896721</url>
+</hit>
+<hit score="1" id="896722">
+<info><authors><author pid="232/9266">Federica Caforio</author><author pid="155/8265">Sébastien Imperiale</author></authors><title>A conservative penalisation strategy for the semi-implicit time discretisation of the incompressible elastodynamics equation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>30:1-30:27</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/CaforioI18</key><doi>10.1186/S40323-018-0121-8</doi><ee>https://doi.org/10.1186/s40323-018-0121-8</ee><url>https://dblp.org/rec/journals/amses/CaforioI18</url></info>
+<url>URL#896722</url>
+</hit>
+<hit score="1" id="896723">
+<info><authors><author pid="226/8209">Gianluca Caramiello</author><author pid="226/8499">Andrea Montanino</author><author pid="226/8370">Gabriele Della Vecchia</author><author pid="08/4446">Anna Pandolfi</author></authors><title>An approach to hydraulic fracture in geomaterials through a porous brittle damage material model.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>23:1-23:22</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/CaramielloMVP18</key><doi>10.1186/S40323-018-0117-4</doi><ee>https://doi.org/10.1186/s40323-018-0117-4</ee><url>https://dblp.org/rec/journals/amses/CaramielloMVP18</url></info>
+<url>URL#896723</url>
+</hit>
+<hit score="1" id="896724">
+<info><authors><author pid="220/2254">V. Carollo</author><author pid="220/2229">T. Guillén-Hernández</author><author pid="220/2142">José Reinoso</author><author pid="201/2353">Marco Paggi</author></authors><title>Recent advancements on the phase field approach to brittle fracture for heterogeneous materials and structures.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>8:1-8:29</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/CarolloGRP18</key><doi>10.1186/S40323-018-0102-Y</doi><ee>https://doi.org/10.1186/s40323-018-0102-y</ee><url>https://dblp.org/rec/journals/amses/CarolloGRP18</url></info>
+<url>URL#896724</url>
+</hit>
+<hit score="1" id="896725">
+<info><authors><author pid="226/8459">Andreea Carpiuc</author><author pid="226/8415">Martin Poncelet</author><author pid="226/8780">Julien Réthoré</author><author pid="28/6811">Stéphane Roux</author></authors><title>CARPIUC benchmark overview - crack advance, reorientation, propagation and initiation under complex loadings.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>24:1-24:15</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/CarpiucPRR18</key><doi>10.1186/S40323-018-0115-6</doi><ee>https://doi.org/10.1186/s40323-018-0115-6</ee><url>https://dblp.org/rec/journals/amses/CarpiucPRR18</url></info>
+<url>URL#896725</url>
+</hit>
+<hit score="1" id="896726">
+<info><authors><author pid="220/2155">Michael Caspari</author><author pid="170/8318">Philipp Landkammer</author><author pid="16/2464">Paul Steinmann</author></authors><title>A non-invasive node-based form finding approach with discretization-independent target configuration.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>11:1-11:18</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/CaspariLS18</key><doi>10.1186/S40323-018-0104-9</doi><ee>https://doi.org/10.1186/s40323-018-0104-9</ee><url>https://dblp.org/rec/journals/amses/CaspariLS18</url></info>
+<url>URL#896726</url>
+</hit>
+<hit score="1" id="896727">
+<info><authors><author pid="68/6953">Franz Chouly</author><author pid="01/5727">Yves Renard</author></authors><title>Explicit Verlet time-integration for a Nitsche-based approximation of elastodynamic contact problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>31:1-31:38</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/ChoulyR18</key><doi>10.1186/S40323-018-0124-5</doi><ee>https://doi.org/10.1186/s40323-018-0124-5</ee><url>https://dblp.org/rec/journals/amses/ChoulyR18</url></info>
+<url>URL#896727</url>
+</hit>
+<hit score="1" id="896728">
+<info><authors><author pid="139/1267">Daniel Elfverson</author><author pid="68/3487">Mats G. Larson</author><author pid="86/9396">Karl Larsson 0001</author></authors><title>CutIGA with basis function removal.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>6:1-6:19</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/ElfversonLL18</key><doi>10.1186/S40323-018-0099-2</doi><ee>https://doi.org/10.1186/s40323-018-0099-2</ee><url>https://dblp.org/rec/journals/amses/ElfversonLL18</url></info>
+<url>URL#896728</url>
+</hit>
+<hit score="1" id="896729">
+<info><authors><author pid="215/0129">Travis B. Fillmore</author><author pid="183/8888">C. Armando Duarte</author></authors><title>A hierarchical non-intrusive algorithm for the generalized finite element method.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>2:1-2:28</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/FillmoreD18</key><doi>10.1186/S40323-018-0096-5</doi><ee>https://doi.org/10.1186/s40323-018-0096-5</ee><url>https://dblp.org/rec/journals/amses/FillmoreD18</url></info>
+<url>URL#896729</url>
+</hit>
+<hit score="1" id="896730">
+<info><authors><author pid="122/6205">Tymofiy Gerasimov</author><author pid="220/2296">Nima Noii</author><author pid="90/10262">Olivier Allix</author><author pid="146/0761">Laura De Lorenzis</author></authors><title>A non-intrusive global/local approach applied to phase-field modeling of brittle fracture.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>14:1-14:30</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/GerasimovNAL18</key><doi>10.1186/S40323-018-0105-8</doi><ee>https://doi.org/10.1186/s40323-018-0105-8</ee><url>https://dblp.org/rec/journals/amses/GerasimovNAL18</url></info>
+<url>URL#896730</url>
+</hit>
+<hit score="1" id="896731">
+<info><authors><author pid="95/10262">Pierre Gosselet</author><author pid="216/8816">Maxime Blanchard</author><author pid="90/10262">Olivier Allix</author><author pid="182/4893">Guillaume Guguin</author></authors><title>Non-invasive global-local coupling as a Schwarz domain decomposition method - acceleration and generalization.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>4:1-4:23</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/GosseletBAG18</key><doi>10.1186/S40323-018-0097-4</doi><ee>https://doi.org/10.1186/s40323-018-0097-4</ee><url>https://dblp.org/rec/journals/amses/GosseletBAG18</url></info>
+<url>URL#896731</url>
+</hit>
+<hit score="1" id="896732">
+<info><authors><author pid="182/4876">Stéphane Guinard</author><author pid="212/8698">Robin Bouclier</author><author pid="212/8762">Mateus Toniolli</author><author pid="212/8680">Jean-Charles Passieux</author></authors><title>Multiscale analysis of complex aeronautical structures using robust non-intrusive coupling.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>1:1-1:27</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/GuinardBTP18</key><doi>10.1186/S40323-017-0094-Z</doi><ee>https://doi.org/10.1186/s40323-017-0094-z</ee><url>https://dblp.org/rec/journals/amses/GuinardBTP18</url></info>
+<url>URL#896732</url>
+</hit>
+<hit score="1" id="896733">
+<info><authors><author pid="144/9668">Thomas Heuzé</author></authors><title>Simulation of impacts on elastic-viscoplastic solids with the flux-difference splitting finite volume method applied to non-uniform quadrilateral meshes.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>9:1-9:32</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/Heuze18</key><doi>10.1186/S40323-018-0101-Z</doi><ee>https://doi.org/10.1186/s40323-018-0101-z</ee><url>https://dblp.org/rec/journals/amses/Heuze18</url></info>
+<url>URL#896733</url>
+</hit>
+<hit score="1" id="896734">
+<info><authors><author pid="05/511">Ye Lu</author><author pid="215/0056">N. Blal</author><author pid="211/5982">A. Gravouil</author></authors><title>Space-time POD based computational vademecums for parametric studies - application to thermo-mechanical problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>3:1-3:27</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/LuBG18</key><doi>10.1186/S40323-018-0095-6</doi><ee>https://doi.org/10.1186/s40323-018-0095-6</ee><url>https://dblp.org/rec/journals/amses/LuBG18</url></info>
+<url>URL#896734</url>
+</hit>
+<hit score="1" id="896735">
+<info><authors><author pid="148/7022">José M. Navarro-Jimenez</author><author pid="148/7060">Manuel Tur</author><author pid="119/4780">Francisco Javier Fuenmayor Fernández</author><author pid="56/10670">Juan José Ródenas</author></authors><title>On the effect of the contact surface definition in the Cartesian grid finite element method.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>12:1-12:19</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/Navarro-Jimenez18</key><doi>10.1186/S40323-018-0108-5</doi><ee>https://doi.org/10.1186/s40323-018-0108-5</ee><url>https://dblp.org/rec/journals/amses/Navarro-Jimenez18</url></info>
+<url>URL#896735</url>
+</hit>
+<hit score="1" id="896736">
+<info><authors><author pid="159/7963">Alfonso Panunzio</author><author pid="160/8930">Régis Cottereau</author><author pid="115/6802">Guillaume Puel</author></authors><title>Large scale random fields generation using localized Karhunen-Loève expansion.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>20:1-20:29</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/PanunzioCP18</key><doi>10.1186/S40323-018-0114-7</doi><ee>https://doi.org/10.1186/s40323-018-0114-7</ee><url>https://dblp.org/rec/journals/amses/PanunzioCP18</url></info>
+<url>URL#896736</url>
+</hit>
+<hit score="1" id="896737">
+<info><authors><author pid="79/9135">Dina Razafindralandy</author><author pid="10/9139">Aziz Hamdouni</author><author pid="32/9139">Marx Chhay</author></authors><title>A review of some geometric integrators.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>16:1-16:67</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/Razafindralandy18</key><doi>10.1186/S40323-018-0110-Y</doi><ee>https://doi.org/10.1186/s40323-018-0110-y</ee><url>https://dblp.org/rec/journals/amses/Razafindralandy18</url></info>
+<url>URL#896737</url>
+</hit>
+<hit score="1" id="896738">
+<info><authors><author pid="231/4463">Ricardo Reyes</author><author pid="48/5430">Ramon Codina</author><author pid="80/9755">Joan Baiges</author><author pid="145/8324">Sergio R. Idelsohn</author></authors><title>Reduced order models for thermally coupled low Mach flows.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>28:1-28:20</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/ReyesCBI18</key><doi>10.1186/S40323-018-0122-7</doi><ee>https://doi.org/10.1186/s40323-018-0122-7</ee><url>https://dblp.org/rec/journals/amses/ReyesCBI18</url></info>
+<url>URL#896738</url>
+</hit>
+<hit score="1" id="896739">
+<info><authors><author pid="43/2682">Marc Alexander Schweitzer</author><author pid="220/2162">Albert Ziegenhagel</author></authors><title>Multilevel preconditioners for embedded enriched partition of unity approximations.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>13:1-13:16</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/SchweitzerZ18</key><doi>10.1186/S40323-018-0107-6</doi><ee>https://doi.org/10.1186/s40323-018-0107-6</ee><url>https://dblp.org/rec/journals/amses/SchweitzerZ18</url></info>
+<url>URL#896739</url>
+</hit>
+<hit score="1" id="896740">
+<info><authors><author pid="51/502">Alexander Seitz</author><author pid="67/1025">Wolfgang A. Wall</author><author pid="174/8731">Alexander Popp</author></authors><title>A computational approach for thermo-elasto-plastic frictional contact based on a monolithic formulation using non-smooth nonlinear complementarity functions.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>5:1-5:37</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/SeitzWP18</key><doi>10.1186/S40323-018-0098-3</doi><ee>https://doi.org/10.1186/s40323-018-0098-3</ee><url>https://dblp.org/rec/journals/amses/SeitzWP18</url></info>
+<url>URL#896740</url>
+</hit>
+<hit score="1" id="896741">
+<info><authors><author pid="99/984">Tapan K. Sengupta</author><author pid="228/2093">Lucas Lestandi</author><author pid="228/1910">S. I. Haider</author><author pid="228/2377">Atchyut Gullapalli</author><author pid="68/5356">Mejdi Azaïez</author></authors><title>Reduced order model of flows by time-scaling interpolation of DNS data.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>26:1-26:20</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/SenguptaLHGA18</key><doi>10.1186/S40323-018-0119-2</doi><ee>https://doi.org/10.1186/s40323-018-0119-2</ee><url>https://dblp.org/rec/journals/amses/SenguptaLHGA18</url></info>
+<url>URL#896741</url>
+</hit>
+<hit score="1" id="896742">
+<info><authors><author pid="99/984">Tapan K. Sengupta</author><author pid="228/2093">Lucas Lestandi</author><author pid="228/1910">S. I. Haider</author><author pid="228/2377">Atchyut Gullapalli</author><author pid="68/5356">Mejdi Azaïez</author></authors><title>Correction to - Reduced order model of flows by time-scaling interpolation of DNS data.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>27:1-27:3</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/SenguptaLHGA18a</key><doi>10.1186/S40323-018-0120-9</doi><ee>https://doi.org/10.1186/s40323-018-0120-9</ee><url>https://dblp.org/rec/journals/amses/SenguptaLHGA18a</url></info>
+<url>URL#896742</url>
+</hit>
+<hit score="1" id="896743">
+<info><authors><author pid="217/9021">Luv Sharma</author><author pid="76/8457">Ron H. J. Peerlings</author><author pid="217/8717">Pratheek Shanthraj</author><author pid="217/9089">Franz Roters</author><author pid="67/8458">Marc G. D. Geers</author></authors><title>FFT-based interface decohesion modelling by a nonlocal interphase.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>7:1-7:17</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/SharmaPSRG18</key><doi>10.1186/S40323-018-0100-0</doi><ee>https://doi.org/10.1186/s40323-018-0100-0</ee><url>https://dblp.org/rec/journals/amses/SharmaPSRG18</url></info>
+<url>URL#896743</url>
+</hit>
+<hit score="1" id="896744">
+<info><authors><author pid="226/8532">Marco Tezzele</author><author pid="183/3146">Filippo Salmoiraghi</author><author pid="214/6622">Andrea Mola</author><author pid="99/600">Gianluigi Rozza</author></authors><title>Dimension reduction in heterogeneous parametric spaces with application to naval engineering shape design problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>25:1-25:19</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/TezzeleSMR18</key><doi>10.1186/S40323-018-0118-3</doi><ee>https://doi.org/10.1186/s40323-018-0118-3</ee><url>https://dblp.org/rec/journals/amses/TezzeleSMR18</url></info>
+<url>URL#896744</url>
+</hit>
+<hit score="1" id="896745">
+<info><authors><author pid="207/7086-2">Andreas Winterstein 0002</author><author pid="140/0339">Christopher Lerch</author><author pid="26/9002">Kai-Uwe Bletzinger</author><author pid="155/7399">Roland Wüchner</author></authors><title>Partitioned simulation strategies for fluid-structure-control interaction problems by Gauss-Seidel formulations.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>5</volume><number>1</number><pages>29:1-29:29</pages><year>2018</year><type>Journal Articles</type><key>journals/amses/WintersteinLBW18</key><doi>10.1186/S40323-018-0123-6</doi><ee>https://doi.org/10.1186/s40323-018-0123-6</ee><url>https://dblp.org/rec/journals/amses/WintersteinLBW18</url></info>
+<url>URL#896745</url>
+</hit>
+<hit score="1" id="1254919">
+<info><authors><author pid="196/2784">José Vicente Aguado</author><author pid="191/7276">Domenico Borzacchiello</author><author pid="177/0243">Chady Ghnatios</author><author pid="196/2463">François Lebel</author><author pid="196/2590">Ram Upadhyay</author><author pid="196/2565">Christophe Binetruy</author><author pid="33/5936">Francisco Chinesta</author></authors><title>A Simulation App based on reduced order modeling for manufacturing optimization of composite outlet guide vanes.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>1:1-1:26</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/AguadoBGLUBC17</key><doi>10.1186/S40323-017-0087-Y</doi><ee>https://doi.org/10.1186/s40323-017-0087-y</ee><url>https://dblp.org/rec/journals/amses/AguadoBGLUBC17</url></info>
+<url>URL#1254919</url>
+</hit>
+<hit score="1" id="1254920">
+<info><authors><author pid="195/4697">Abir Boujelben</author><author pid="148/8449">Adnan Ibrahimbegovic</author></authors><title>Finite-strain three-dimensional solids with rotational degrees of freedom - non-linear statics and dynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>3:1-3:24</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/BoujelbenI17</key><doi>10.1186/S40323-017-0089-9</doi><ee>https://doi.org/10.1186/s40323-017-0089-9</ee><url>https://dblp.org/rec/journals/amses/BoujelbenI17</url></info>
+<url>URL#1254920</url>
+</hit>
+<hit score="1" id="1254921">
+<info><authors><author pid="156/7077">Denis Davydov</author><author pid="122/6205">Tymofiy Gerasimov</author><author pid="211/0575">Jean-Paul Pelteret</author><author pid="16/2464">Paul Steinmann</author></authors><title>Convergence study of the h-adaptive PUM and the hp-adaptive FEM applied to eigenvalue problems in quantum mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>7:1-7:23</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/DavydovGPS17</key><doi>10.1186/S40323-017-0093-0</doi><ee>https://doi.org/10.1186/s40323-017-0093-0</ee><url>https://dblp.org/rec/journals/amses/DavydovGPS17</url></info>
+<url>URL#1254921</url>
+</hit>
+<hit score="1" id="1254922">
+<info><authors><author pid="170/8232">Andrés Parrilla Gómez</author><author pid="170/8303">Nicolas Moës</author><author pid="122/0140">Claude Stolz</author></authors><title>Correction to - Comparison between thick level set (TLS) and cohesive zone models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>4:1-4:2</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/GomezMS17</key><doi>10.1186/S40323-017-0091-2</doi><ee>https://doi.org/10.1186/s40323-017-0091-2</ee><url>https://dblp.org/rec/journals/amses/GomezMS17</url></info>
+<url>URL#1254922</url>
+</hit>
+<hit score="1" id="1254923">
+<info><authors><author pid="211/0578">T. Madani</author><author pid="127/3339">Yann Monerie</author><author pid="127/3358">Stéphane Pagano</author><author pid="211/0562">C. Pelissou</author><author pid="211/0609">B. Wattrisse</author></authors><title>Enhanced features of a constitutive equation gap identification method for heterogeneous elastoplastic behaviours.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>5:1-5:13</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/MadaniMPPW17</key><doi>10.1186/S40323-017-0092-1</doi><ee>https://doi.org/10.1186/s40323-017-0092-1</ee><url>https://dblp.org/rec/journals/amses/MadaniMPPW17</url></info>
+<url>URL#1254923</url>
+</hit>
+<hit score="1" id="1254924">
+<info><authors><author pid="211/0582">M. Ndeffo</author><author pid="211/0535">P. Massin</author><author pid="170/8303">Nicolas Moës</author><author pid="96/6833">A. Martin</author><author pid="53/4304">S. Gopalakrishnan</author></authors><title>On the construction of approximation space to model discontinuities and cracks with linear and quadratic extended finite elements.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>6:1-6:51</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/NdeffoMMMG17</key><doi>10.1186/S40323-017-0090-3</doi><ee>https://doi.org/10.1186/s40323-017-0090-3</ee><url>https://dblp.org/rec/journals/amses/NdeffoMMMG17</url></info>
+<url>URL#1254924</url>
+</hit>
+<hit score="1" id="1254925">
+<info><authors><author pid="146/9610">Y. Sudhakar</author><author pid="67/1025">Wolfgang A. Wall</author></authors><title>Mesh refitting approach - a simple method to model mixed-mode crack propagation in nonlinear elastic solids.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>4</volume><number>1</number><pages>2:1-2:23</pages><year>2017</year><type>Journal Articles</type><key>journals/amses/SudhakarW17</key><doi>10.1186/S40323-017-0088-X</doi><ee>https://doi.org/10.1186/s40323-017-0088-x</ee><url>https://dblp.org/rec/journals/amses/SudhakarW17</url></info>
+<url>URL#1254925</url>
+</hit>
+<hit score="1" id="1583410">
+<info><authors><author pid="12/4799">Rémi Abgrall</author><author pid="50/10166">David Amsallem</author><author pid="176/2188">Roxana Crisovan</author></authors><title>Robust model reduction by L1-norm minimization and approximation via dictionaries - application to nonlinear hyperbolic problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>1:1-1:16</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/AbgrallAC16</key><doi>10.1186/S40323-015-0055-3</doi><ee>https://doi.org/10.1186/s40323-015-0055-3</ee><url>https://dblp.org/rec/journals/amses/AbgrallAC16</url></info>
+<url>URL#1583410</url>
+</hit>
+<hit score="1" id="1583411">
+<info><authors><author pid="50/10166">David Amsallem</author><author pid="85/1953">Bernard Haasdonk</author></authors><title>PEBL-ROM - Projection-error based local reduced-order models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>6:1-6:25</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/AmsallemH16</key><doi>10.1186/S40323-016-0059-7</doi><ee>https://doi.org/10.1186/s40323-016-0059-7</ee><url>https://dblp.org/rec/journals/amses/AmsallemH16</url></info>
+<url>URL#1583411</url>
+</hit>
+<hit score="1" id="1583412">
+<info><authors><author pid="68/5356">Mejdi Azaïez</author><author pid="99/715">Faker Ben Belgacem</author><author pid="90/2061">Tomás Chacón Rebollo</author></authors><title>Recursive POD expansion for reaction-diffusion equation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>3:1-3:22</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/AzaiezBR16</key><doi>10.1186/S40323-016-0060-1</doi><ee>https://doi.org/10.1186/s40323-016-0060-1</ee><url>https://dblp.org/rec/journals/amses/AzaiezBR16</url></info>
+<url>URL#1583412</url>
+</hit>
+<hit score="1" id="1583413">
+<info><authors><author pid="177/0259">Nicolas Bur</author><author pid="51/9591">Pierre Joyot</author><author pid="177/0243">Chady Ghnatios</author><author pid="62/438">Pierre Villon</author><author pid="33/6659">Elías Cueto</author><author pid="33/5936">Francisco Chinesta</author></authors><title>On the use of model order reduction for simulating automated fibre placement processes.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>4:1-4:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/BurJGVCC16</key><doi>10.1186/S40323-016-0056-X</doi><ee>https://doi.org/10.1186/s40323-016-0056-x</ee><url>https://dblp.org/rec/journals/amses/BurJGVCC16</url></info>
+<url>URL#1583413</url>
+</hit>
+<hit score="1" id="1583414">
+<info><authors><author pid="177/0114">Ba-Trung Cao</author><author pid="09/1832">Steffen Freitag</author><author pid="177/0179">Günther Meschke</author></authors><title>A hybrid RNN-GPOD surrogate model for real-time settlement predictions in mechanised tunnelling.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>5:1-5:22</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/CaoFM16</key><doi>10.1186/S40323-016-0057-9</doi><ee>https://doi.org/10.1186/s40323-016-0057-9</ee><url>https://dblp.org/rec/journals/amses/CaoFM16</url></info>
+<url>URL#1583414</url>
+</hit>
+<hit score="1" id="1583415">
+<info><authors><author pid="150/6195">Ludovic Chamoin</author><author pid="170/8235">Pierre-Eric Allier</author><author pid="182/4926">Basile Marchand</author></authors><title>Synergies between the constitutive relation error concept and PGD model reduction for simplified V&amp;V procedures.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>18:1-18:26</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/ChamoinAM16</key><doi>10.1186/S40323-016-0073-9</doi><ee>https://doi.org/10.1186/s40323-016-0073-9</ee><url>https://dblp.org/rec/journals/amses/ChamoinAM16</url></info>
+<url>URL#1583415</url>
+</hit>
+<hit score="1" id="1583416">
+<info><authors><author pid="132/2686">Alberto Corigliano</author><author pid="138/9388">Federica Confalonieri</author><author pid="191/7123">Martino Dossi</author><author pid="65/964-2">Stefano Mariani 0002</author></authors><title>Coupled domain decomposition-proper orthogonal decomposition methods for the simulation of quasi-brittle fracture processes.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>28:1-28:24</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/CoriglianoCDM16</key><doi>10.1186/S40323-016-0081-9</doi><ee>https://doi.org/10.1186/s40323-016-0081-9</ee><url>https://dblp.org/rec/journals/amses/CoriglianoCDM16</url></info>
+<url>URL#1583416</url>
+</hit>
+<hit score="1" id="1583417">
+<info><authors><author pid="177/0232">Alejandro Cosimo</author><author pid="47/1660">Alberto Cardona</author><author pid="145/8324">Sergio R. Idelsohn</author></authors><title>General treatment of essential boundary conditions in reduced order models for non-linear problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>7:1-7:14</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/CosimoCI16</key><doi>10.1186/S40323-016-0058-8</doi><ee>https://doi.org/10.1186/s40323-016-0058-8</ee><url>https://dblp.org/rec/journals/amses/CosimoCI16</url></info>
+<url>URL#1583417</url>
+</hit>
+<hit score="1" id="1583418">
+<info><authors><author pid="193/4719">Davide D'Angella</author><author pid="121/5029">Nils Zander</author><author pid="121/5375">Stefan Kollmannsberger</author><author pid="139/4746">Felix Frischmann</author><author pid="11/6534">Ernst Rank</author><author pid="72/6958">Andreas Schröder</author><author pid="141/4804">Alessandro Reali</author></authors><title>Multi-level hp-adaptivity and explicit error estimation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>33:1-33:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/DAngellaZKFRSR16</key><doi>10.1186/S40323-016-0085-5</doi><ee>https://doi.org/10.1186/s40323-016-0085-5</ee><url>https://dblp.org/rec/journals/amses/DAngellaZKFRSR16</url></info>
+<url>URL#1583418</url>
+</hit>
+<hit score="1" id="1583419">
+<info><authors><author pid="191/7126">Ralston Fernandes</author><author pid="191/7120">Sami El-Borgi</author><author pid="174/3487-2">Khaled Ahmed 0002</author><author pid="81/7480">Michael I. Friswell</author><author pid="191/7274">Nidhal Jamia</author></authors><title>Static fracture and modal analysis simulation of a gas turbine compressor blade and bladed disk system.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>30:1-30:23</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/FernandesEAFJ16</key><doi>10.1186/S40323-016-0083-7</doi><ee>https://doi.org/10.1186/s40323-016-0083-7</ee><url>https://dblp.org/rec/journals/amses/FernandesEAFJ16</url></info>
+<url>URL#1583419</url>
+</hit>
+<hit score="1" id="1583420">
+<info><authors><author pid="183/7548">Alex Ferrer</author><author pid="06/708-3">Javier Oliver 0003</author><author pid="183/7506">Juan Carlos Cante</author><author pid="183/7577">Oriol Lloberas-Valls</author></authors><title>Vademecum-based approach to multi-scale topological material design.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>23:1-23:22</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/Ferrer0CL16</key><doi>10.1186/S40323-016-0078-4</doi><ee>https://doi.org/10.1186/s40323-016-0078-4</ee><url>https://dblp.org/rec/journals/amses/Ferrer0CL16</url></info>
+<url>URL#1583420</url>
+</hit>
+<hit score="1" id="1583421">
+<info><authors><author pid="182/4791">Anthony Giacoma</author><author pid="38/1007">David Dureisseix</author><author pid="182/4783">Anthony Gravouil</author></authors><title>An efficient quasi-optimal space-time PGD application to frictional contact mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>12:1-12:17</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/GiacomaDG16</key><doi>10.1186/S40323-016-0067-7</doi><ee>https://doi.org/10.1186/s40323-016-0067-7</ee><url>https://dblp.org/rec/journals/amses/GiacomaDG16</url></info>
+<url>URL#1583421</url>
+</hit>
+<hit score="1" id="1583422">
+<info><authors><author pid="182/4953">Dennis Grunert</author><author pid="09/9983">Jörg Fehr</author></authors><title>Identification of nonlinear behavior with clustering techniques in car crash simulations for better model reduction.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>20:1-20:19</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/GrunertF16</key><doi>10.1186/S40323-016-0072-X</doi><ee>https://doi.org/10.1186/s40323-016-0072-x</ee><url>https://dblp.org/rec/journals/amses/GrunertF16</url></info>
+<url>URL#1583422</url>
+</hit>
+<hit score="1" id="1583423">
+<info><authors><author pid="182/4953">Dennis Grunert</author><author pid="09/9983">Jörg Fehr</author></authors><title>Erratum to - Identification of nonlinear behavior with clustering techniques in car crash simulations for better model reduction.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>32:1</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/GrunertF16a</key><doi>10.1186/S40323-016-0086-4</doi><ee>https://doi.org/10.1186/s40323-016-0086-4</ee><url>https://dblp.org/rec/journals/amses/GrunertF16a</url></info>
+<url>URL#1583423</url>
+</hit>
+<hit score="1" id="1583424">
+<info><authors><author pid="182/4893">Guillaume Guguin</author><author pid="90/10262">Olivier Allix</author><author pid="95/10262">Pierre Gosselet</author><author pid="182/4876">Stéphane Guinard</author></authors><title>On the computation of plate assemblies using realistic 3D joint model - a non-intrusive approach.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>16:1-16:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/GuguinAGG16</key><doi>10.1186/S40323-016-0069-5</doi><ee>https://doi.org/10.1186/s40323-016-0069-5</ee><url>https://dblp.org/rec/journals/amses/GuguinAGG16</url></info>
+<url>URL#1583424</url>
+</hit>
+<hit score="1" id="1583425">
+<info><authors><author pid="78/6934">François Hild</author><author pid="182/4809">Amine Bouterf</author><author pid="150/6195">Ludovic Chamoin</author><author pid="81/5169">Hugo Leclerc</author><author pid="182/4756">Florent Mathieu</author><author pid="182/4823">Jan Neggers</author><author pid="150/6458">Florent Henri Marc Rémy Pled</author><author pid="182/4891">Zvonimir Tomicevic</author><author pid="28/6811">Stéphane Roux</author></authors><title>Toward 4D mechanical correlation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>17:1-17:26</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/HildBCLMNPTR16</key><doi>10.1186/S40323-016-0070-Z</doi><ee>https://doi.org/10.1186/s40323-016-0070-z</ee><url>https://dblp.org/rec/journals/amses/HildBCLMNPTR16</url></info>
+<url>URL#1583425</url>
+</hit>
+<hit score="1" id="1583426">
+<info><authors><author pid="182/4932">H. R. Javani</author><author pid="76/8457">Ron H. J. Peerlings</author><author pid="67/8458">Marc G. D. Geers</author></authors><title>Three-dimensional finite element modeling of ductile crack initiation and propagation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>19:1-19:25</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/JavaniPG16</key><doi>10.1186/S40323-016-0071-Y</doi><ee>https://doi.org/10.1186/s40323-016-0071-y</ee><url>https://dblp.org/rec/journals/amses/JavaniPG16</url></info>
+<url>URL#1583426</url>
+</hit>
+<hit score="1" id="1583427">
+<info><authors><author pid="176/2585">Irineu L. Palhares Junior</author><author pid="12/7576">Cassio M. Oishi</author><author pid="171/3588">Alexandre M. Afonso</author><author pid="131/7337">Manuel A. Alves</author><author pid="30/10008">Fernando Pinho</author></authors><title>Numerical study of the square-root conformation tensor formulation for confined and free-surface viscoelastic fluid flows.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>2:1-2:23</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/JuniorOAAP16</key><doi>10.1186/S40323-015-0054-4</doi><ee>https://doi.org/10.1186/s40323-015-0054-4</ee><url>https://dblp.org/rec/journals/amses/JuniorOAAP16</url></info>
+<url>URL#1583427</url>
+</hit>
+<hit score="1" id="1583428">
+<info><authors><author pid="85/11154">Tianyi Li</author><author pid="72/8753">Jean-Jacques Marigo</author><author pid="185/3382">Daniel Guilbaud</author><author pid="185/3170">Serguei Potapov</author></authors><title>Numerical investigation of dynamic brittle fracture via gradient damage models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>26:1-26:24</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/LiMGP16</key><doi>10.1186/S40323-016-0080-X</doi><ee>https://doi.org/10.1186/s40323-016-0080-x</ee><url>https://dblp.org/rec/journals/amses/LiMGP16</url></info>
+<url>URL#1583428</url>
+</hit>
+<hit score="1" id="1583429">
+<info><authors><author pid="132/9437">Alejandro C. Limache</author><author pid="145/8324">Sergio R. Idelsohn</author></authors><title>On the issue that Finite Element discretizations violate, nodally, Clausius's postulate of the second law of thermodynamics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>13:1-13:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/LimacheI16</key><doi>10.1186/S40323-016-0066-8</doi><ee>https://doi.org/10.1186/s40323-016-0066-8</ee><url>https://dblp.org/rec/journals/amses/LimacheI16</url></info>
+<url>URL#1583429</url>
+</hit>
+<hit score="1" id="1583430">
+<info><authors><author pid="191/7134">Muhammad Haris Malik</author><author pid="191/7276">Domenico Borzacchiello</author><author pid="33/5936">Francisco Chinesta</author><author pid="10/4069">Pedro Díez</author></authors><title>Reduced order modeling for transient simulation of power systems using trajectory piece-wise linear approximation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>31:1-31:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/MalikBCD16</key><doi>10.1186/S40323-016-0084-6</doi><ee>https://doi.org/10.1186/s40323-016-0084-6</ee><url>https://dblp.org/rec/journals/amses/MalikBCD16</url></info>
+<url>URL#1583430</url>
+</hit>
+<hit score="1" id="1583431">
+<info><authors><author pid="65/2151">Hermann G. Matthies</author><author pid="132/5745">Elmar Zander</author><author pid="01/10826">Bojana V. Rosic</author><author pid="17/3774">Alexander Litvinenko</author></authors><title>Parameter estimation via conditional expectation - a Bayesian inversion.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>24:1-24:21</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/MatthiesZRL16</key><doi>10.1186/S40323-016-0075-7</doi><ee>https://doi.org/10.1186/s40323-016-0075-7</ee><url>https://dblp.org/rec/journals/amses/MatthiesZRL16</url></info>
+<url>URL#1583431</url>
+</hit>
+<hit score="1" id="1583432">
+<info><authors><author pid="177/7748">Laurent Montier</author><author pid="163/2019">Thomas Henneron</author><author pid="21/4558">Stéphane Clénet</author><author pid="15/10871">Benjamin Goursaud</author></authors><title>Transient simulation of an electrical rotating machine achieved through model order reduction.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>10:1-10:17</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/MontierHCG16</key><doi>10.1186/S40323-016-0062-Z</doi><ee>https://doi.org/10.1186/s40323-016-0062-z</ee><url>https://dblp.org/rec/journals/amses/MontierHCG16</url></info>
+<url>URL#1583432</url>
+</hit>
+<hit score="1" id="1583433">
+<info><authors><author pid="99/1713">Eugenio Oñate</author></authors><title>Finite increment calculus (FIC) - a framework for deriving enhanced computational methods in mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>14:1-14:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/Onate16</key><doi>10.1186/S40323-016-0065-9</doi><ee>https://doi.org/10.1186/s40323-016-0065-9</ee><url>https://dblp.org/rec/journals/amses/Onate16</url></info>
+<url>URL#1583433</url>
+</hit>
+<hit score="1" id="1583434">
+<info><authors><author pid="96/8557">Benjamin Peherstorfer</author><author pid="31/3851">Karen Willcox</author></authors><title>Dynamic data-driven model reduction - adapting reduced models from incomplete data.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>11:1-11:22</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/PeherstorferW16</key><doi>10.1186/S40323-016-0064-X</doi><ee>https://doi.org/10.1186/s40323-016-0064-x</ee><url>https://dblp.org/rec/journals/amses/PeherstorferW16</url></info>
+<url>URL#1583434</url>
+</hit>
+<hit score="1" id="1583435">
+<info><authors><author pid="191/7259">Annika Radermacher</author><author pid="191/7224">Brett A. Bednarcyk</author><author pid="154/9475">Bertram Stier</author><author pid="154/9444">Jaan-Willem Simon</author><author pid="72/5749">Lei Zhou</author><author pid="154/9434">Stefanie Reese</author></authors><title>Displacement-based multiscale modeling of fiber-reinforced composites by means of proper orthogonal decomposition.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>29:1-29:23</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/RadermacherBSSZ16</key><doi>10.1186/S40323-016-0082-8</doi><ee>https://doi.org/10.1186/s40323-016-0082-8</ee><url>https://dblp.org/rec/journals/amses/RadermacherBSSZ16</url></info>
+<url>URL#1583435</url>
+</hit>
+<hit score="1" id="1583436">
+<info><authors><author pid="169/9991">Thomas Rüberg</author><author pid="10/1110">José Manuel García Aznar</author></authors><title>Numerical simulation of solid deformation driven by creeping flow using an immersed finite element method.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>9:1-9:31</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/RubergA16</key><doi>10.1186/S40323-016-0061-0</doi><ee>https://doi.org/10.1186/s40323-016-0061-0</ee><url>https://dblp.org/rec/journals/amses/RubergA16</url></info>
+<url>URL#1583436</url>
+</hit>
+<hit score="1" id="1583437">
+<info><authors><author pid="169/9991">Thomas Rüberg</author><author pid="96/5839">Fehmi Cirak</author><author pid="10/1110">José Manuel García Aznar</author></authors><title>An unstructured immersed finite element method for nonlinear solid mechanics.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>22:1-22:28</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/RubergCA16</key><doi>10.1186/S40323-016-0077-5</doi><ee>https://doi.org/10.1186/s40323-016-0077-5</ee><url>https://dblp.org/rec/journals/amses/RubergCA16</url></info>
+<url>URL#1583437</url>
+</hit>
+<hit score="1" id="1583438">
+<info><authors><author pid="83/9391">David Ryckelynck</author><author pid="182/4861">Djamel Missoum Benziane</author></authors><title>Hyper-reduction framework for model calibration in plasticity-induced fatigue.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>15:1-15:16</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/RyckelynckB16</key><doi>10.1186/S40323-016-0068-6</doi><ee>https://doi.org/10.1186/s40323-016-0068-6</ee><url>https://dblp.org/rec/journals/amses/RyckelynckB16</url></info>
+<url>URL#1583438</url>
+</hit>
+<hit score="1" id="1583439">
+<info><authors><author pid="183/3146">Filippo Salmoiraghi</author><author pid="149/3287">Francesco Ballarin</author><author pid="139/0673">Luca Heltai</author><author pid="99/600">Gianluigi Rozza</author></authors><title>Isogeometric analysis-based reduced order modelling for incompressible linear viscous flows in parametrized shapes.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>21:1-21:22</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/SalmoiraghiBHR16</key><doi>10.1186/S40323-016-0076-6</doi><ee>https://doi.org/10.1186/s40323-016-0076-6</ee><url>https://dblp.org/rec/journals/amses/SalmoiraghiBHR16</url></info>
+<url>URL#1583439</url>
+</hit>
+<hit score="1" id="1583440">
+<info><authors><author pid="164/0031">Christian Schröppel</author><author pid="163/9879">Jens Wackerfuß</author></authors><title>Introducing the Logarithmic finite element method - a geometrically exact planar Bernoulli beam element.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>27:1-27:42</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/SchroppelW16</key><doi>10.1186/S40323-016-0074-8</doi><ee>https://doi.org/10.1186/s40323-016-0074-8</ee><url>https://dblp.org/rec/journals/amses/SchroppelW16</url></info>
+<url>URL#1583440</url>
+</hit>
+<hit score="1" id="1583441">
+<info><authors><author pid="29/6096">Florian De Vuyst</author></authors><title>Efficient solvers for time-dependent problems - a review of IMEX, LATIN, PARAEXP and PARAREAL algorithms for heat-type problems with potential use of approximate exponential integrators and reduced-order models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>8:1-8:14</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/Vuyst16</key><doi>10.1186/S40323-016-0063-Y</doi><ee>https://doi.org/10.1186/s40323-016-0063-y</ee><url>https://dblp.org/rec/journals/amses/Vuyst16</url></info>
+<url>URL#1583441</url>
+</hit>
+<hit score="1" id="1583442">
+<info><authors><author pid="96/2477">Peter Wriggers</author><author pid="26/4707">Jörg Schröder</author><author pid="137/5575">Ferdinando Auricchio</author></authors><title>Finite element formulations for large strain anisotropic material with inextensible fibers.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>3</volume><number>1</number><pages>25:1-25:18</pages><year>2016</year><type>Journal Articles</type><key>journals/amses/WriggersSA16</key><doi>10.1186/S40323-016-0079-3</doi><ee>https://doi.org/10.1186/s40323-016-0079-3</ee><url>https://dblp.org/rec/journals/amses/WriggersSA16</url></info>
+<url>URL#1583442</url>
+</hit>
+<hit score="1" id="1889701">
+<info><authors><author pid="79/4677">Icíar Alfaro</author><author pid="85/3217-2">David González 0002</author><author pid="60/676">Sergio Zlotnik</author><author pid="10/4069">Pedro Díez</author><author pid="33/6659">Elías Cueto</author><author pid="33/5936">Francisco Chinesta</author></authors><title>An error estimator for real-time simulators based on model order reduction.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>30:1-30:16</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/AlfaroGZDCC15</key><doi>10.1186/S40323-015-0050-8</doi><ee>https://doi.org/10.1186/s40323-015-0050-8</ee><url>https://dblp.org/rec/journals/amses/AlfaroGZDCC15</url></info>
+<url>URL#1889701</url>
+</hit>
+<hit score="1" id="1889702">
+<info><authors><author pid="170/8235">Pierre-Eric Allier</author><author pid="150/6195">Ludovic Chamoin</author><author pid="15/5154">Pierre Ladevèze</author></authors><title>Proper Generalized Decomposition computational methods on a benchmark problem - introducing a new strategy based on Constitutive Relation Error minimization.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>17:1-17:25</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/AllierCL15</key><doi>10.1186/S40323-015-0038-4</doi><ee>https://doi.org/10.1186/s40323-015-0038-4</ee><url>https://dblp.org/rec/journals/amses/AllierCL15</url></info>
+<url>URL#1889702</url>
+</hit>
+<hit score="1" id="1889703">
+<info><authors><author pid="172/9993">Philippe Bussetta</author><author pid="172/9596">Narges Dialami</author><author pid="172/9591">Michele Chiumenti</author><author pid="172/9852">Carlos Agelet de Saracibar</author><author pid="172/9488">Miguel Cervera</author><author pid="08/125">Romain Boman</author><author pid="73/3638">Jean-Philippe Ponthot</author></authors><title>3D numerical models using a fluid or a solid formulation of FSW processes with a non-cylindrical pin.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>27:1-27:19</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/BussettaDCSCBP15</key><doi>10.1186/S40323-015-0048-2</doi><ee>https://doi.org/10.1186/s40323-015-0048-2</ee><url>https://dblp.org/rec/journals/amses/BussettaDCSCBP15</url></info>
+<url>URL#1889703</url>
+</hit>
+<hit score="1" id="1889704">
+<info><authors><author pid="87/10753">Jaehyun Cho</author><author pid="170/8359">Till Junge</author><author pid="131/2838">Jean-François Molinari</author><author pid="69/1676">Guillaume Anciaux</author></authors><title>Toward a 3D coupled atomistic and discrete dislocation dynamics simulation - dislocation core structures and Peierls stresses with several character angles in FCC aluminum.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>12:1-12:17</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/ChoJMA15</key><doi>10.1186/S40323-015-0028-6</doi><ee>https://doi.org/10.1186/s40323-015-0028-6</ee><url>https://dblp.org/rec/journals/amses/ChoJMA15</url></info>
+<url>URL#1889704</url>
+</hit>
+<hit score="1" id="1889705">
+<info><authors><author pid="129/3940">Alain Combescure</author><author pid="170/8256">Jean-Francois Jullien</author></authors><title>ASTER Shell - a simple concept to significantly increase the plastic buckling strength of short cylinders subjected to combined external pressure and axial compression.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>26:1-26:27</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/CombescureJ15</key><doi>10.1186/S40323-015-0047-3</doi><ee>https://doi.org/10.1186/s40323-015-0047-3</ee><url>https://dblp.org/rec/journals/amses/CombescureJ15</url></info>
+<url>URL#1889705</url>
+</hit>
+<hit score="1" id="1889706">
+<info><authors><author pid="120/8900">Gaetano D'Avino</author><author pid="131/7386">Martien A. Hulsen</author><author pid="57/21">Pier Luca Maffettone</author></authors><title>Separation of particles in non-Newtonian fluids flowing in T-shaped microchannels.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>9:1-9:23</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/DAvinoHM15</key><doi>10.1186/S40323-015-0033-9</doi><ee>https://doi.org/10.1186/s40323-015-0033-9</ee><url>https://dblp.org/rec/journals/amses/DAvinoHM15</url></info>
+<url>URL#1889706</url>
+</hit>
+<hit score="1" id="1889707">
+<info><authors><author pid="172/9750">Michael M. W. Dogge</author><author pid="76/8457">Ron H. J. Peerlings</author><author pid="67/8458">Marc G. D. Geers</author></authors><title>Extended modelling of dislocation transport-formulation and finite element implementation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>29:1-29:18</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/DoggePG15</key><doi>10.1186/S40323-015-0051-7</doi><ee>https://doi.org/10.1186/s40323-015-0051-7</ee><url>https://dblp.org/rec/journals/amses/DoggePG15</url></info>
+<url>URL#1889707</url>
+</hit>
+<hit score="1" id="1889708">
+<info><authors><author pid="170/8232">Andrés Parrilla Gómez</author><author pid="170/8303">Nicolas Moës</author><author pid="122/0140">Claude Stolz</author></authors><title>Comparison between thick level set (TLS) and cohesive zone models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>18:1-18:22</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/GomezMS15</key><doi>10.1186/S40323-015-0041-9</doi><ee>https://doi.org/10.1186/s40323-015-0041-9</ee><url>https://dblp.org/rec/journals/amses/GomezMS15</url></info>
+<url>URL#1889708</url>
+</hit>
+<hit score="1" id="1889709">
+<info><authors><author pid="80/476">Jayadeep Gopalakrishnan</author><author pid="98/3471">Stéphane Lanteri</author><author pid="142/8995">Nicole Olivares</author><author pid="36/120">Ronan Perrussel</author></authors><title>Stabilization in relation to wavenumber in HDG methods.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>13:1-13:24</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/GopalakrishnanL15</key><doi>10.1186/S40323-015-0032-X</doi><ee>https://doi.org/10.1186/s40323-015-0032-x</ee><url>https://dblp.org/rec/journals/amses/GopalakrishnanL15</url></info>
+<url>URL#1889709</url>
+</hit>
+<hit score="1" id="1889710">
+<info><authors><author pid="170/8412">Matthieu Graveleau</author><author pid="57/5976">Nicolas Chevaugeon</author><author pid="170/8303">Nicolas Moës</author></authors><title>The inequality level-set approach to handle contact - membrane case.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>16:1-16:25</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/GraveleauCM15</key><doi>10.1186/S40323-015-0034-8</doi><ee>https://doi.org/10.1186/s40323-015-0034-8</ee><url>https://dblp.org/rec/journals/amses/GraveleauCM15</url></info>
+<url>URL#1889710</url>
+</hit>
+<hit score="1" id="1889711">
+<info><authors><author pid="44/5030">August Johansson</author><author pid="68/3487">Mats G. Larson</author><author pid="52/4474">Anders Logg</author></authors><title>High order cut finite element methods for the Stokes problem.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>24:1-24:23</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/JohanssonLL15</key><doi>10.1186/S40323-015-0043-7</doi><ee>https://doi.org/10.1186/s40323-015-0043-7</ee><url>https://dblp.org/rec/journals/amses/JohanssonLL15</url></info>
+<url>URL#1889711</url>
+</hit>
+<hit score="1" id="1889712">
+<info><authors><author pid="170/8208">László Kudela</author><author pid="121/5029">Nils Zander</author><author pid="148/8476">Tino Bog</author><author pid="121/5375">Stefan Kollmannsberger</author><author pid="11/6534">Ernst Rank</author></authors><title>Efficient and accurate numerical quadrature for immersed boundary methods.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>10:1-10:22</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/KudelaZBKR15</key><doi>10.1186/S40323-015-0031-Y</doi><ee>https://doi.org/10.1186/s40323-015-0031-y</ee><url>https://dblp.org/rec/journals/amses/KudelaZBKR15</url></info>
+<url>URL#1889712</url>
+</hit>
+<hit score="1" id="1889713">
+<info><authors><author pid="170/8329">Jeffrey T. Lloyd</author><author pid="170/8241">John D. Clayton</author><author pid="170/8342">Ryan A. Austin</author><author pid="120/2151">David L. McDowell</author></authors><title>Shock compression modeling of metallic single crystals - comparison of finite difference, steady wave, and analytical solutions.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>14:1-14:19</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/LloydCAM15</key><doi>10.1186/S40323-015-0036-6</doi><ee>https://doi.org/10.1186/s40323-015-0036-6</ee><url>https://dblp.org/rec/journals/amses/LloydCAM15</url></info>
+<url>URL#1889713</url>
+</hit>
+<hit score="1" id="1889714">
+<info><authors><author pid="151/5975">Andrés Mena</author><author pid="172/9679">David Bel</author><author pid="79/4677">Icíar Alfaro</author><author pid="85/3217-2">David González 0002</author><author pid="33/6659">Elías Cueto</author><author pid="33/5936">Francisco Chinesta</author></authors><title>Towards a pancreatic surgery simulator based on model order reduction.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>31:1-31:16</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/MenaBA0CC15</key><doi>10.1186/S40323-015-0049-1</doi><ee>https://doi.org/10.1186/s40323-015-0049-1</ee><url>https://dblp.org/rec/journals/amses/MenaBA0CC15</url></info>
+<url>URL#1889714</url>
+</hit>
+<hit score="1" id="1889715">
+<info><authors><author pid="52/1958">Ophir Nave</author></authors><title>Analysis of the two-dimensional polydisperse liquid sprays in a laminar boundary layer flow using the similarity transformation method.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>20:1-20:15</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/Nave15</key><doi>10.1186/S40323-015-0042-8</doi><ee>https://doi.org/10.1186/s40323-015-0042-8</ee><url>https://dblp.org/rec/journals/amses/Nave15</url></info>
+<url>URL#1889715</url>
+</hit>
+<hit score="1" id="1889716">
+<info><authors><author pid="76/3371">J. Tinsley Oden</author><author pid="163/6324">Kathryn Farrell</author><author pid="130/5732">Danial Faghihi</author></authors><title>Estimation of error in observables of coarse-grained models of atomic systems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>5:1-5:20</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/OdenFF15</key><doi>10.1186/S40323-015-0025-9</doi><ee>https://doi.org/10.1186/s40323-015-0025-9</ee><url>https://dblp.org/rec/journals/amses/OdenFF15</url></info>
+<url>URL#1889716</url>
+</hit>
+<hit score="1" id="1889717">
+<info><authors><author pid="170/8244">Sunday M. Ofochebe</author><author pid="170/8388">Chigbogu G. Ozoegwu</author><author pid="170/8308">Samuel O. Enibe</author></authors><title>Performance evaluation of vehicle front structure in crash energy management using lumped mass spring system.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>2:1-2:18</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/OfochebeOE15</key><doi>10.1186/S40323-015-0020-1</doi><ee>https://doi.org/10.1186/s40323-015-0020-1</ee><url>https://dblp.org/rec/journals/amses/OfochebeOE15</url></info>
+<url>URL#1889717</url>
+</hit>
+<hit score="1" id="1889718">
+<info><authors><author pid="170/8335">Mikael Öhman</author><author pid="89/3089">Kenneth Runesson</author><author pid="85/2313">Fredrik Larsson</author></authors><title>On the variationally consistent computational homogenization of elasticity in the incompressible limit.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>1:1-1:29</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/OhmanRL15</key><doi>10.1186/S40323-014-0017-1</doi><ee>https://doi.org/10.1186/s40323-014-0017-1</ee><url>https://dblp.org/rec/journals/amses/OhmanRL15</url></info>
+<url>URL#1889718</url>
+</hit>
+<hit score="1" id="1889719">
+<info><authors><author pid="47/5603">Marta Pérez</author><author pid="133/6430">Emmanuelle Abisset-Chavanne</author><author pid="170/8266">Anais Barasinski</author><author pid="33/5936">Francisco Chinesta</author><author pid="133/6413">Amine Ammar</author><author pid="170/8413">Roland Keunings</author></authors><title>On the multi-scale description of electrical conducting suspensions involving perfectly dispersed rods.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>23:1-23:24</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/PerezABCAK15</key><doi>10.1186/S40323-015-0044-6</doi><ee>https://doi.org/10.1186/s40323-015-0044-6</ee><url>https://dblp.org/rec/journals/amses/PerezABCAK15</url></info>
+<url>URL#1889719</url>
+</hit>
+<hit score="1" id="1889720">
+<info><authors><author pid="62/7812">Simona Perotto</author><author pid="170/8248">Alessandro Zilio</author></authors><title>Space-time adaptive hierarchical model reduction for parabolic equations.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>25:1-25:45</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/PerottoZ15</key><doi>10.1186/S40323-015-0046-4</doi><ee>https://doi.org/10.1186/s40323-015-0046-4</ee><url>https://dblp.org/rec/journals/amses/PerottoZ15</url></info>
+<url>URL#1889720</url>
+</hit>
+<hit score="1" id="1889721">
+<info><authors><author pid="86/1407">Serge Prudhomme</author><author pid="137/9698">Corey M. Bryant</author></authors><title>Adaptive surrogate modeling for response surface approximations with application to bayesian inference.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>22:1-22:21</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/PrudhommeB15</key><doi>10.1186/S40323-015-0045-5</doi><ee>https://doi.org/10.1186/s40323-015-0045-5</ee><url>https://dblp.org/rec/journals/amses/PrudhommeB15</url></info>
+<url>URL#1889721</url>
+</hit>
+<hit score="1" id="1889722">
+<info><authors><author pid="115/6802">Guillaume Puel</author><author pid="60/1057">Denis Aubry</author></authors><title>Parameter identification of two-time-scale nonlinear transient models.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>8:1-8:20</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/PuelA15</key><doi>10.1186/S40323-015-0030-Z</doi><ee>https://doi.org/10.1186/s40323-015-0030-z</ee><url>https://dblp.org/rec/journals/amses/PuelA15</url></info>
+<url>URL#1889722</url>
+</hit>
+<hit score="1" id="1889723">
+<info><authors><author pid="141/4802">Daniel Rabinovich</author><author pid="82/2155">Dan Givoli</author><author pid="08/4958">Jacobo Bielak</author><author pid="31/5263">Thomas M. Hagstrom</author></authors><title>The double absorbing boundary method for elastodynamics in homogeneous and layered media.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>3:1-3:27</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/RabinovichGBH15</key><doi>10.1186/S40323-015-0026-8</doi><ee>https://doi.org/10.1186/s40323-015-0026-8</ee><url>https://dblp.org/rec/journals/amses/RabinovichGBH15</url></info>
+<url>URL#1889723</url>
+</hit>
+<hit score="1" id="1889724">
+<info><authors><author pid="170/8407">Ugo Ripert</author><author pid="170/8237">Lionel Fourment</author><author pid="97/6138">Jean-Loup Chenot</author></authors><title>An upwind least square formulation for free surfaces calculation of viscoplastic steady-state metal forming problems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>15:1-15:27</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/RipertFC15</key><doi>10.1186/S40323-015-0037-5</doi><ee>https://doi.org/10.1186/s40323-015-0037-5</ee><url>https://dblp.org/rec/journals/amses/RipertFC15</url></info>
+<url>URL#1889724</url>
+</hit>
+<hit score="1" id="1889725">
+<info><authors><author pid="83/9391">David Ryckelynck</author><author pid="166/5886">Laurent Gallimard</author><author pid="170/8337">Samuel Jules</author></authors><title>Estimation of the validity domain of hyper-reduction approximations in generalized standard elastoviscoplasticity.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>6:1-6:19</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/RyckelynckGJ15</key><doi>10.1186/S40323-015-0027-7</doi><ee>https://doi.org/10.1186/s40323-015-0027-7</ee><url>https://dblp.org/rec/journals/amses/RyckelynckGJ15</url></info>
+<url>URL#1889725</url>
+</hit>
+<hit score="1" id="1889726">
+<info><authors><author pid="170/8269">Carl Sandström</author><author pid="85/2313">Fredrik Larsson</author><author pid="89/3089">Kenneth Runesson</author></authors><title>Erratum to - Weakly periodic boundary conditions for the homogenization of flow in porous media.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>4:1</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/SandstromLR15</key><doi>10.1186/S40323-015-0024-X</doi><ee>https://doi.org/10.1186/s40323-015-0024-x</ee><url>https://dblp.org/rec/journals/amses/SandstromLR15</url></info>
+<url>URL#1889726</url>
+</hit>
+<hit score="1" id="1889727">
+<info><authors><author pid="170/8409">Raffaella Santagiuliana</author><author pid="268/6848">Cinzia Stigliano</author><author pid="170/8310">Pietro Mascheroni</author><author pid="52/7407">M. Ferrari</author><author pid="214/0150">Paolo Decuzzi</author><author pid="s/BernhardASchrefler">Bernhard A. Schrefler</author></authors><title>The role of cell lysis and matrix deposition in tumor growth modeling.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>19:1-19:26</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/SantagiulianaSM15</key><doi>10.1186/S40323-015-0040-X</doi><ee>https://doi.org/10.1186/s40323-015-0040-x</ee><url>https://dblp.org/rec/journals/amses/SantagiulianaSM15</url></info>
+<url>URL#1889727</url>
+</hit>
+<hit score="1" id="1889728">
+<info><authors><author pid="170/8324">Scott E. Stapleton</author><author pid="52/10194">Ricardo Moreira</author><author pid="134/2815">Stefan Jockenhoevel</author><author pid="170/8361">Petra Mela</author><author pid="154/9434">Stefanie Reese</author></authors><title>Effect of reinforcement volume fraction and orientation on a hybrid tissue engineered aortic heart valve with a tubular leaflet design.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>21:1-21:17</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/StapletonMJMR15</key><doi>10.1186/S40323-015-0039-3</doi><ee>https://doi.org/10.1186/s40323-015-0039-3</ee><url>https://dblp.org/rec/journals/amses/StapletonMJMR15</url></info>
+<url>URL#1889728</url>
+</hit>
+<hit score="1" id="1889729">
+<info><authors><author pid="170/8233">Keiko Takeda</author><author pid="36/6059">Sathish K. Sukumaran</author><author pid="170/8272">Masataka Sugimoto</author><author pid="170/8394">Kiyohito Koyama</author><author pid="78/5049">Yuichi Masubuchi</author></authors><title>Primitive chain network simulations for elongational viscosity of bidisperse polystyrene melts.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>11:1-11:13</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/TakedaSSKM15</key><doi>10.1186/S40323-015-0035-7</doi><ee>https://doi.org/10.1186/s40323-015-0035-7</ee><url>https://dblp.org/rec/journals/amses/TakedaSSKM15</url></info>
+<url>URL#1889729</url>
+</hit>
+<hit score="1" id="1889730">
+<info><authors><author pid="32/5792">Sylvain Vallaghé</author><author pid="140/7533">Phuong Huynh</author><author pid="75/8096">David J. Knezevic</author><author pid="170/8281">Loi Nguyen</author><author pid="49/4496">Anthony T. Patera</author></authors><title>Component-based reduced basis for parametrized symmetric eigenproblems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>7:1-7:30</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/VallagheHKNP15</key><doi>10.1186/S40323-015-0021-0</doi><ee>https://doi.org/10.1186/s40323-015-0021-0</ee><url>https://dblp.org/rec/journals/amses/VallagheHKNP15</url></info>
+<url>URL#1889730</url>
+</hit>
+<hit score="1" id="1889731">
+<info><authors><author pid="173/0026">J. Vivas</author><author pid="92/9390">Diego Alexander Garzón-Alvarado</author><author pid="172/9581">M. Cerrolaza</author></authors><title>Modeling cell adhesion and proliferation - a cellular-automata based approach.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>32:1-32:12</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/VivasGC15</key><doi>10.1186/S40323-015-0053-5</doi><ee>https://doi.org/10.1186/s40323-015-0053-5</ee><url>https://dblp.org/rec/journals/amses/VivasGC15</url></info>
+<url>URL#1889731</url>
+</hit>
+<hit score="1" id="1889732">
+<info><authors><author pid="60/676">Sergio Zlotnik</author><author pid="10/4069">Pedro Díez</author><author pid="85/3217-2">David González 0002</author><author pid="33/6659">Elías Cueto</author><author pid="99/4907">Antonio Huerta</author></authors><title>Effect of the separated approximation of input data in the accuracy of the resulting PGD solution.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>2</volume><number>1</number><pages>28:1-28:14</pages><year>2015</year><type>Journal Articles</type><key>journals/amses/ZlotnikD0CH15</key><doi>10.1186/S40323-015-0052-6</doi><ee>https://doi.org/10.1186/s40323-015-0052-6</ee><url>https://dblp.org/rec/journals/amses/ZlotnikD0CH15</url></info>
+<url>URL#1889732</url>
+</hit>
+<hit score="1" id="2185574">
+<info><authors><author pid="150/1017">Nissrine Akkari</author><author pid="10/9139">Aziz Hamdouni</author><author pid="43/9139">Erwan Liberge</author><author pid="150/1066">Mustapha Jazar</author></authors><title>On the sensitivity of the POD technique for a parameterized quasi-nonlinear parabolic equation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>14:1-14:16</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/AkkariHLJ14</key><doi>10.1186/S40323-014-0014-4</doi><ee>https://doi.org/10.1186/s40323-014-0014-4</ee><url>https://dblp.org/rec/journals/amses/AkkariHLJ14</url></info>
+<url>URL#2185574</url>
+</hit>
+<hit score="1" id="2185575">
+<info><authors><author pid="139/4787">Tristan Carrier Baudouin</author><author pid="11/2100">Jean-François Remacle</author><author pid="24/10753">Emilie Marchandise</author><author pid="139/4773">François Henrotte</author><author pid="30/9756">Christophe Geuzaine</author></authors><title>A frontal approach to hex-dominant mesh generation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>8:1-8:30</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/BaudouinRMHG14</key><doi>10.1186/2213-7467-1-8</doi><ee>https://doi.org/10.1186/2213-7467-1-8</ee><url>https://dblp.org/rec/journals/amses/BaudouinRMHG14</url></info>
+<url>URL#2185575</url>
+</hit>
+<hit score="1" id="2185576">
+<info><authors><author pid="170/8215">Brice Bognet</author><author pid="115/6527">Adrien Leygue</author><author pid="33/5936">Francisco Chinesta</author></authors><title>Separated representations of 3D elastic solutions in shell geometries.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>4:1-4:34</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/BognetLC14</key><doi>10.1186/2213-7467-1-4</doi><ee>https://doi.org/10.1186/2213-7467-1-4</ee><url>https://dblp.org/rec/journals/amses/BognetLC14</url></info>
+<url>URL#2185576</url>
+</hit>
+<hit score="1" id="2185577">
+<info><authors><author pid="37/9300">Wolfgang Boiger</author><author pid="36/6330">Carsten Carstensen</author></authors><title>A posteriori error analysis of stabilised FEM for degenerate convex minimisation problems under weak regularity assumptions.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>5:1-5:23</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/BoigerC14</key><doi>10.1186/2213-7467-1-5</doi><ee>https://doi.org/10.1186/2213-7467-1-5</ee><url>https://dblp.org/rec/journals/amses/BoigerC14</url></info>
+<url>URL#2185577</url>
+</hit>
+<hit score="1" id="2185578">
+<info><authors><author pid="129/3940">Alain Combescure</author></authors><title>Modeling elastic-plastic buckling of sandwich axisymmetric shells - on the limits of "shell" models and analytical solutions.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>2:1-2:27</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/Combescure14</key><doi>10.1186/2213-7467-1-2</doi><ee>https://doi.org/10.1186/2213-7467-1-2</ee><url>https://dblp.org/rec/journals/amses/Combescure14</url></info>
+<url>URL#2185578</url>
+</hit>
+<hit score="1" id="2185579">
+<info><authors><author pid="33/6659">Elías Cueto</author><author pid="33/5936">Francisco Chinesta</author></authors><title>Real time simulation for computational surgery - a review.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>11:1-11:18</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/CuetoC14</key><doi>10.1186/2213-7467-1-11</doi><ee>https://doi.org/10.1186/2213-7467-1-11</ee><url>https://dblp.org/rec/journals/amses/CuetoC14</url></info>
+<url>URL#2185579</url>
+</hit>
+<hit score="1" id="2185580">
+<info><authors><author pid="30/9751">Noureddine Damil</author><author pid="95/9751">Michel Potier-Ferry</author><author pid="15/6636">Heng Hu</author></authors><title>Membrane wrinkling revisited from a multi-scale point of view.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>6:1-6:35</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/DamilPH14</key><doi>10.1186/2213-7467-1-6</doi><ee>https://doi.org/10.1186/2213-7467-1-6</ee><url>https://dblp.org/rec/journals/amses/DamilPH14</url></info>
+<url>URL#2185580</url>
+</hit>
+<hit score="1" id="2185581">
+<info><authors><author pid="254/4684">Vikram V. Garg</author><author pid="86/1407">Serge Prudhomme</author><author pid="183/3271">Kris G. van der Zee</author><author pid="85/3476">Graham F. Carey</author></authors><title>Adjoint-consistent formulations of slip models for coupled electroosmotic flow systems.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>15:1-15:29</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/GargPZC14</key><doi>10.1186/S40323-014-0015-3</doi><ee>https://doi.org/10.1186/s40323-014-0015-3</ee><url>https://dblp.org/rec/journals/amses/GargPZC14</url></info>
+<url>URL#2185581</url>
+</hit>
+<hit score="1" id="2185582">
+<info><authors><author pid="170/8375">Sandrine Germain</author><author pid="170/8318">Philipp Landkammer</author><author pid="16/2464">Paul Steinmann</author></authors><title>On a recursive formulation for solving inverse form finding problems in isotropic elastoplasticity.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>10:1-10:19</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/GermainLS14</key><doi>10.1186/2213-7467-1-10</doi><ee>https://doi.org/10.1186/2213-7467-1-10</ee><url>https://dblp.org/rec/journals/amses/GermainLS14</url></info>
+<url>URL#2185582</url>
+</hit>
+<hit score="1" id="2185583">
+<info><authors><author pid="154/4489">Thomas Horger</author><author pid="121/5375">Stefan Kollmannsberger</author><author pid="139/4746">Felix Frischmann</author><author pid="11/6534">Ernst Rank</author><author pid="48/580">Barbara I. Wohlmuth</author></authors><title>A new mortar formulation for modeling elastomer bedded structures with modal-analysis in 3D.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>18:1-18:19</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/HorgerKFRW14</key><doi>10.1186/S40323-014-0018-0</doi><ee>https://doi.org/10.1186/s40323-014-0018-0</ee><url>https://dblp.org/rec/journals/amses/HorgerKFRW14</url></info>
+<url>URL#2185583</url>
+</hit>
+<hit score="1" id="2185584">
+<info><authors><author pid="15/5154">Pierre Ladevèze</author></authors><title>Editorial - Advanced modeling and simulation in engineering sciences.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>1:1</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/Ladeveze14</key><doi>10.1186/2213-7467-1-1</doi><ee>https://doi.org/10.1186/2213-7467-1-1</ee><url>https://dblp.org/rec/journals/amses/Ladeveze14</url></info>
+<url>URL#2185584</url>
+</hit>
+<hit score="1" id="2185585">
+<info><authors><author pid="15/5154">Pierre Ladevèze</author><author pid="170/8297">Federica Daghia</author><author pid="133/6430">Emmanuelle Abisset</author><author pid="170/8332">Camille Le Mauff</author></authors><title>A micromechanics-based interface mesomodel for virtual testing of laminated composites.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>7:1-7:16</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/LadevezeDAM14</key><doi>10.1186/2213-7467-1-7</doi><ee>https://doi.org/10.1186/2213-7467-1-7</ee><url>https://dblp.org/rec/journals/amses/LadevezeDAM14</url></info>
+<url>URL#2185585</url>
+</hit>
+<hit score="1" id="2185586">
+<info><authors><author pid="170/8227">Grégory Legrain</author><author pid="170/8303">Nicolas Moës</author></authors><title>Treatment of nearly-singular problems with the X-FEM.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>13:1-13:25</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/LegrainM14</key><doi>10.1186/S40323-014-0013-5</doi><ee>https://doi.org/10.1186/s40323-014-0013-5</ee><url>https://dblp.org/rec/journals/amses/LegrainM14</url></info>
+<url>URL#2185586</url>
+</hit>
+<hit score="1" id="2185587">
+<info><authors><author pid="170/8303">Nicolas Moës</author><author pid="122/0140">Claude Stolz</author><author pid="57/5976">Nicolas Chevaugeon</author></authors><title>Coupling local and non-local damage evolutions with the Thick Level Set model.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>16:1-16:21</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/MoesSC14</key><doi>10.1186/S40323-014-0016-2</doi><ee>https://doi.org/10.1186/s40323-014-0016-2</ee><url>https://dblp.org/rec/journals/amses/MoesSC14</url></info>
+<url>URL#2185587</url>
+</hit>
+<hit score="1" id="2185588">
+<info><authors><author pid="170/8210">Matthew L. Rossi</author><author pid="170/8389">Christopher D. Taylor</author><author pid="38/7516">Adri C. T. van Duin</author></authors><title>Reduced yield stress for zirconium exposed to iodine - reactive force field simulation.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>19:1-19:8</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/RossiTD14</key><doi>10.1186/S40323-014-0019-Z</doi><ee>https://doi.org/10.1186/s40323-014-0019-z</ee><url>https://dblp.org/rec/journals/amses/RossiTD14</url></info>
+<url>URL#2185588</url>
+</hit>
+<hit score="1" id="2185589">
+<info><authors><author pid="170/8269">Carl Sandström</author><author pid="85/2313">Fredrik Larsson</author><author pid="89/3089">Kenneth Runesson</author></authors><title>Weakly periodic boundary conditions for the homogenization of flow in porous media.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>12:1-12:24</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/SandstomLR14</key><doi>10.1186/S40323-014-0012-6</doi><ee>https://doi.org/10.1186/s40323-014-0012-6</ee><url>https://dblp.org/rec/journals/amses/SandstomLR14</url></info>
+<url>URL#2185589</url>
+</hit>
+<hit score="1" id="2185590">
+<info><authors><author pid="57/6837">Masao Yokoyama</author><author pid="90/8536">Yoshihiro Kubota</author><author pid="58/5081">Kenji Kikuchi</author><author pid="74/1604">Genki Yagawa</author><author pid="63/8537">Osamu Mochizuki</author></authors><title>Some remarks on surface conditions of solid body plunging into water with particle method.</title><venue>Adv. Model. Simul. Eng. Sci.</venue><volume>1</volume><number>1</number><pages>9:1-9:14</pages><year>2014</year><type>Journal Articles</type><key>journals/amses/YokoyamaKKYM14</key><doi>10.1186/2213-7467-1-9</doi><ee>https://doi.org/10.1186/2213-7467-1-9</ee><url>https://dblp.org/rec/journals/amses/YokoyamaKKYM14</url></info>
+<url>URL#2185590</url>
+</hit>
+</hits>
+</result>

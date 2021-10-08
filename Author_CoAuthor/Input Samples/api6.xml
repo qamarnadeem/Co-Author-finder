@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="13717">:facetid:stream:streams\"/\"journals\"/\"ansoft</query>
+<status code="200">OK</status>
+<time unit="msecs">116.98</time>
+<completions total="1" computed="1" sent="1">
+<c sc="197" dc="197" oc="197" id="17935700">:facetid:stream:streams/journals/ansoft</c>
+</completions>
+<hits total="197" computed="197" sent="197" first="0">
+<hit score="1" id="4646242">
+<info><authors><author pid="71/5809">Pekka Abrahamsson</author></authors><title>Commitment Nets in Software Process Improvement.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>407-438</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Abrahamsson02</key><doi>10.1023/A:1020526329708</doi><ee>https://doi.org/10.1023/A:1020526329708</ee><url>https://dblp.org/rec/journals/ansoft/Abrahamsson02</url></info>
+<url>URL#4646242</url>
+</hit>
+<hit score="1" id="4646243">
+<info><authors><author pid="a/PauloSCAlencar">Paulo S. C. Alencar</author><author pid="c/DonaldDCowan">Donald D. Cowan</author><author pid="40/6664">Martin Luo</author></authors><title>A Framework for Community Information Systems.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>381-411</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/AlencarCL02</key><doi>10.1023/A:1016518115185</doi><ee>https://doi.org/10.1023/A:1016518115185</ee><url>https://dblp.org/rec/journals/ansoft/AlencarCL02</url></info>
+<url>URL#4646243</url>
+</hit>
+<hit score="1" id="4646244">
+<info><authors><author pid="16/5013">Selma Arbaoui</author><author pid="48/3962">Jean-Claude Derniame</author><author pid="32/153">Flávio Oquendo</author><author pid="40/1653">Hervé Verjus</author></authors><title>A Comparative Review of Process-Centered Software Engineering Environments.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>311-340</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/ArbaouiDOV02</key><doi>10.1023/A:1020513911052</doi><ee>https://doi.org/10.1023/A:1020513911052</ee><url>https://dblp.org/rec/journals/ansoft/ArbaouiDOV02</url></info>
+<url>URL#4646244</url>
+</hit>
+<hit score="1" id="4646245">
+<info><authors><author pid="a/ColinAtkinson">Colin Atkinson 0001</author><author pid="12/6986">Christian Bunse</author><author pid="13/3913">Hans-Gerhard Groß</author><author pid="k/ThomasKuhne">Thomas Kühne 0001</author></authors><title>Towards a General Component Model for Web-Based Applications.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>35-69</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/AtkinsonBGK02</key><doi>10.1023/A:1016589208824</doi><ee>https://doi.org/10.1023/A:1016589208824</ee><url>https://dblp.org/rec/journals/ansoft/AtkinsonBGK02</url></info>
+<url>URL#4646245</url>
+</hit>
+<hit score="1" id="4646246">
+<info><authors><author pid="b/MBrianBlake">M. Brian Blake</author><author pid="13/2803">Gail Hamilton</author><author pid="99/2440">Jeffrey Hoyt</author></authors><title>Using Component-Based Development and Web Technologies to Support a Distributed Data Management System.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>13-34</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/BlakeHH02</key><doi>10.1023/A:1016537224754</doi><ee>https://doi.org/10.1023/A:1016537224754</ee><url>https://dblp.org/rec/journals/ansoft/BlakeHH02</url></info>
+<url>URL#4646246</url>
+</hit>
+<hit score="1" id="4646247">
+<info><authors><author pid="62/6036">Luca Bompani</author><author pid="c/PCiancarini">Paolo Ciancarini</author><author pid="80/2302">Fabio Vitali</author></authors><title>XML-Based Hypertext Functionalities for Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>231-247</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/BompaniCV02</key><doi>10.1023/A:1016553628389</doi><ee>https://doi.org/10.1023/A:1016553628389</ee><url>https://dblp.org/rec/journals/ansoft/BompaniCV02</url></info>
+<url>URL#4646247</url>
+</hit>
+<hit score="1" id="4646248">
+<info><authors><author pid="15/1517">Davide Brugali</author></authors><title>Mediating the Internet.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>285-308</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Brugali02</key><doi>10.1023/A:1016509813368</doi><ee>https://doi.org/10.1023/A:1016509813368</ee><url>https://dblp.org/rec/journals/ansoft/Brugali02</url></info>
+<url>URL#4646248</url>
+</hit>
+<hit score="1" id="4646249">
+<info><authors><author pid="94/658">Stéphane Calderoni</author><author pid="83/2574">Jean-Christophe Soulié</author></authors><title>JAAFAAR - A Web-Based Multi-Agent Toolkit for Collective Research.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>265-283</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/CalderoniS02</key><doi>10.1023/A:1016557729297</doi><ee>https://doi.org/10.1023/A:1016557729297</ee><url>https://dblp.org/rec/journals/ansoft/CalderoniS02</url></info>
+<url>URL#4646249</url>
+</hit>
+<hit score="1" id="4646250">
+<info><authors><author pid="71/6513">Keith C. C. Chan</author><author pid="37/4841">Lawrence Chung</author></authors><title>Integrating Process and Project Management for Multi-Site Software Development.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>115-143</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/ChanC02</key><doi>10.1023/A:1020553624256</doi><ee>https://doi.org/10.1023/A:1020553624256</ee><url>https://dblp.org/rec/journals/ansoft/ChanC02</url></info>
+<url>URL#4646250</url>
+</hit>
+<hit score="1" id="4646251">
+<info><authors><author pid="37/695">Christof Ebert</author><author pid="40/5215">Jozef De Man</author></authors><title>e-R&amp;D - Effectively Managing Process Diversity.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>73-91</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/EbertM02</key><doi>10.1023/A:1020545406509</doi><ee>https://doi.org/10.1023/A:1020545406509</ee><url>https://dblp.org/rec/journals/ansoft/EbertM02</url></info>
+<url>URL#4646251</url>
+</hit>
+<hit score="1" id="4646252">
+<info><authors><author pid="f/MohamedFayad">Mohamed Fayad</author><author pid="54/3895">Marcus Fontoura</author><author pid="17/1486">Wolfgang Pree</author></authors><title>Editors' Introduction.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>9-11</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/FayadFP02</key><url>https://dblp.org/rec/journals/ansoft/FayadFP02</url></info>
+<url>URL#4646252</url>
+</hit>
+<hit score="1" id="4646253">
+<info><authors><author pid="59/1161">Lidia Fuentes</author><author pid="t/JoseMTroya">José M. Troya</author><author pid="94/1351">Antonio Vallecillo</author></authors><title>Using UML Profiles for Documenting Web-Based Application Frameworks.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>249-264</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/FuentesTV02</key><doi>10.1023/A:1016505712459</doi><ee>https://doi.org/10.1023/A:1016505712459</ee><url>https://dblp.org/rec/journals/ansoft/FuentesTV02</url></info>
+<url>URL#4646253</url>
+</hit>
+<hit score="1" id="4646254">
+<info><authors><author pid="g/VolkerGruhn">Volker Gruhn</author></authors><title>Process-Centered Software Engineering Environments, A Brief History and Future Challenges.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>363-382</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Gruhn02</key><doi>10.1023/A:1020522111961</doi><ee>https://doi.org/10.1023/A:1020522111961</ee><url>https://dblp.org/rec/journals/ansoft/Gruhn02</url></info>
+<url>URL#4646254</url>
+</hit>
+<hit score="1" id="4646255">
+<info><authors><author pid="32/2343">Noriko Hanakawa</author><author pid="73/942">Ken-ichi Matsumoto</author><author pid="56/2801">Koji Torii</author></authors><title>A Knowledge-Based Software Process Simulation Model.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>383-406</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/HanakawaMT02</key><doi>10.1023/A:1020574228799</doi><ee>https://doi.org/10.1023/A:1020574228799</ee><url>https://dblp.org/rec/journals/ansoft/HanakawaMT02</url></info>
+<url>URL#4646255</url>
+</hit>
+<hit score="1" id="4646256">
+<info><authors><author pid="45/5440">Brian Henderson-Sellers</author></authors><title>Process Metamodelling and Process Construction - Examples Using the OPEN Process Framework (OPF).</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>341-362</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Henderson-Sellers02</key><doi>10.1023/A:1020570027891</doi><ee>https://doi.org/10.1023/A:1020570027891</ee><url>https://dblp.org/rec/journals/ansoft/Henderson-Sellers02</url></info>
+<url>URL#4646256</url>
+</hit>
+<hit score="1" id="4646257">
+<info><authors><author pid="45/5440">Brian Henderson-Sellers</author><author pid="l/DavidLowe">David B. Lowe</author><author pid="46/6673">Brendan Haire</author></authors><title>OPEN Process Support for Web Development.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>163-201</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Henderson-SellersLH02</key><doi>10.1023/A:1016549527480</doi><ee>https://doi.org/10.1023/A:1016549527480</ee><url>https://dblp.org/rec/journals/ansoft/Henderson-SellersLH02</url></info>
+<url>URL#4646257</url>
+</hit>
+<hit score="1" id="4646258">
+<info><authors><author pid="63/1672">Watts S. Humphrey</author></authors><title>Three Process Perspectives - Organizations, Teams, and People.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>39-72</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Humphrey02</key><doi>10.1023/A:1020593305601</doi><ee>https://doi.org/10.1023/A:1020593305601</ee><url>https://dblp.org/rec/journals/ansoft/Humphrey02</url></info>
+<url>URL#4646258</url>
+</hit>
+<hit score="1" id="4646259">
+<info><authors><author pid="21/5195">Grant Larsen</author><author pid="72/1193">Jim Conallen</author></authors><title>Engineering Web-Based Systems with UML Assets.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>203-230</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/LarsenC02</key><doi>10.1023/A:1016501611550</doi><ee>https://doi.org/10.1023/A:1016501611550</ee><url>https://dblp.org/rec/journals/ansoft/LarsenC02</url></info>
+<url>URL#4646259</url>
+</hit>
+<hit score="1" id="4646260">
+<info><authors><author pid="l/MeirMLehman">Meir M. Lehman</author><author pid="f/JuanFernandezRamil">Juan F. Ramil</author></authors><title>Software Evolution and Software Evolution Processes.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>275-309</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/LehmanR02</key><doi>10.1023/A:1020557525901</doi><ee>https://doi.org/10.1023/A:1020557525901</ee><url>https://dblp.org/rec/journals/ansoft/LehmanR02</url></info>
+<url>URL#4646260</url>
+</hit>
+<hit score="1" id="4646261">
+<info><authors><author pid="l/WelfLowe">Welf Löwe</author><author pid="70/794">Markus L. Noga</author><author pid="94/4352">Thilo S. Gaul</author></authors><title>Foundations of Fast Communication via XML.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>357-379</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/LoweNG02</key><doi>10.1023/A:1016566031114</doi><ee>https://doi.org/10.1023/A:1016566031114</ee><url>https://dblp.org/rec/journals/ansoft/LoweNG02</url></info>
+<url>URL#4646261</url>
+</hit>
+<hit score="1" id="4646262">
+<info><authors><author pid="74/3113">Marcus E. Markiewicz</author><author pid="l/CarlosJosePereiradeLucena">Carlos José Pereira de Lucena</author><author pid="a/PauloSCAlencar">Paulo S. C. Alencar</author><author pid="c/DonaldDCowan">Donald D. Cowan</author></authors><title>Views and Patterns in E-Commerce Application Design.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>111-140</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/MarkiewiczLAC02</key><doi>10.1023/A:1016545426571</doi><ee>https://doi.org/10.1023/A:1016545426571</ee><url>https://dblp.org/rec/journals/ansoft/MarkiewiczLAC02</url></info>
+<url>URL#4646262</url>
+</hit>
+<hit score="1" id="4646263">
+<info><authors><author pid="m/FrankMaurer">Frank Maurer</author><author pid="62/1301">Harald Holz</author></authors><title>Integrating Process Support and Knowledge Management for Virtual Software Development Teams.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>145-168</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/MaurerH02</key><doi>10.1023/A:1020505708326</doi><ee>https://doi.org/10.1023/A:1020505708326</ee><url>https://dblp.org/rec/journals/ansoft/MaurerH02</url></info>
+<url>URL#4646263</url>
+</hit>
+<hit score="1" id="4646264">
+<info><authors><author pid="57/3210">Guido Menkhaus</author></authors><title>An Architecture for Supporting Multi-Device, Client-Adaptive Services.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>309-327</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Menkhaus02</key><doi>10.1023/A:1016561830206</doi><ee>https://doi.org/10.1023/A:1016561830206</ee><url>https://dblp.org/rec/journals/ansoft/Menkhaus02</url></info>
+<url>URL#4646264</url>
+</hit>
+<hit score="1" id="4646265">
+<info><authors><author pid="08/3239">Balasubramaniam Ramesh</author><author pid="45/5879">Jan Pries-Heje</author><author pid="15/5668">Richard L. Baskerville</author></authors><title>Internet Software Engineering - A Different Class of Processes.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>169-195</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/RameshPB02</key><doi>10.1023/A:1020557725165</doi><ee>https://doi.org/10.1023/A:1020557725165</ee><url>https://dblp.org/rec/journals/ansoft/RameshPB02</url></info>
+<url>URL#4646265</url>
+</hit>
+<hit score="1" id="4646266">
+<info><authors><author pid="71/1374">Iris Reinhartz-Berger</author><author pid="d/DovDori">Dov Dori</author><author pid="k/ShmuelKatz">Shmuel Katz</author></authors><title>OPM/Web - Object-Process Methodology for Developing Web Applications.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>141-161</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Reinhartz-BergerDK02</key><doi>10.1023/A:1016597410642</doi><ee>https://doi.org/10.1023/A:1016597410642</ee><url>https://dblp.org/rec/journals/ansoft/Reinhartz-BergerDK02</url></info>
+<url>URL#4646266</url>
+</hit>
+<hit score="1" id="4646267">
+<info><authors><author pid="36/2696">Rodrigo Quites Reis</author><author pid="02/3285">Carla Alessandra Lima Reis</author><author pid="94/5658">Heribert Schlebbe</author><author pid="15/1379">Daltro José Nunes</author></authors><title>Automatic Verification of Static Policies on Software Process Models.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>197-234</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/ReisRSN02</key><doi>10.1023/A:1020509809235</doi><ee>https://doi.org/10.1023/A:1020509809235</ee><url>https://dblp.org/rec/journals/ansoft/ReisRSN02</url></info>
+<url>URL#4646267</url>
+</hit>
+<hit score="1" id="4646268">
+<info><authors><author pid="88/555">Filippo Ricca</author><author pid="54/2734">Paolo Tonella</author></authors><title>Testing Processes of Web Applications.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>93-114</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/RiccaT02</key><doi>10.1023/A:1020549507418</doi><ee>https://doi.org/10.1023/A:1020549507418</ee><url>https://dblp.org/rec/journals/ansoft/RiccaT02</url></info>
+<url>URL#4646268</url>
+</hit>
+<hit score="1" id="4646269">
+<info><authors><author pid="r/GustavoRossi">Gustavo Rossi</author><author pid="s/DanielSchwabe">Daniel Schwabe</author></authors><title>Object-Oriented Design Structures in Web Application Models.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>97-110</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/RossiS02</key><doi>10.1023/A:1016593309733</doi><ee>https://doi.org/10.1023/A:1016593309733</ee><url>https://dblp.org/rec/journals/ansoft/RossiS02</url></info>
+<url>URL#4646269</url>
+</hit>
+<hit score="1" id="4646270">
+<info><authors><author pid="s/HosseinSaiedian">Hossein Saiedian</author><author pid="38/1302">Nabil Ghanem</author><author pid="23/3060">Jeyabarathi Natarajan</author></authors><title>A Framework for Evaluating Distributed Object Models and its Application to Web Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>71-96</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/SaiedianGN02</key><doi>10.1023/A:1016541325663</doi><ee>https://doi.org/10.1023/A:1016541325663</ee><url>https://dblp.org/rec/journals/ansoft/SaiedianGN02</url></info>
+<url>URL#4646270</url>
+</hit>
+<hit score="1" id="4646271">
+<info><authors><author pid="s/JingSun2">Jing Sun 0002</author><author pid="33/6517">Jin Song Dong</author><author pid="72/2590">Jing Liu</author><author pid="45/1539">Hai H. Wang</author></authors><title>A Formal Object Approach to the Design of ZML.</title><venue>Ann. Softw. Eng.</venue><volume>13</volume><number>1-4</number><pages>329-356</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/SunDLW02</key><doi>10.1023/A:1016513914276</doi><ee>https://doi.org/10.1023/A:1016513914276</ee><url>https://dblp.org/rec/journals/ansoft/SunDLW02</url></info>
+<url>URL#4646271</url>
+</hit>
+<hit score="1" id="4646272">
+<info><authors><author pid="w/YingxuWang">Yingxu Wang</author></authors><title>The Real-Time Process Algebra (RTPA).</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>235-274</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/Wang02</key><doi>10.1023/A:1020561826073</doi><ee>https://doi.org/10.1023/A:1020561826073</ee><url>https://dblp.org/rec/journals/ansoft/Wang02</url></info>
+<url>URL#4646272</url>
+</hit>
+<hit score="1" id="4646273">
+<info><authors><author pid="w/YingxuWang">Yingxu Wang</author><author pid="01/3344">Antony Bryant</author></authors><title>Process-Based Software Engineering - Building the Infrastructures.</title><venue>Ann. Softw. Eng.</venue><volume>14</volume><number>1-4</number><pages>9-37</pages><year>2002</year><type>Journal Articles</type><key>journals/ansoft/WangB02</key><doi>10.1023/A:1020537121530</doi><ee>https://doi.org/10.1023/A:1020537121530</ee><url>https://dblp.org/rec/journals/ansoft/WangB02</url></info>
+<url>URL#4646273</url>
+</hit>
+<hit score="1" id="4739761">
+<info><authors><author pid="85/964">Abderrahim Benslimane</author></authors><title>Multimedia Multicast in Mobile Computing - Handoff Management.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>77-93</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Benslimane01</key><doi>10.1023/A:1013306603440</doi><ee>https://doi.org/10.1023/A:1013306603440</ee><url>https://dblp.org/rec/journals/ansoft/Benslimane01</url></info>
+<url>URL#4739761</url>
+</hit>
+<hit score="1" id="4739762">
+<info><authors><author pid="b/TerryBollinger">Terry Bollinger</author></authors><title>Managing Technical Change in Legacy Systems.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>237-257</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Bollinger01</key><doi>10.1023/A:1012503622419</doi><ee>https://doi.org/10.1023/A:1012503622419</ee><url>https://dblp.org/rec/journals/ansoft/Bollinger01</url></info>
+<url>URL#4739762</url>
+</hit>
+<hit score="1" id="4739763">
+<info><authors><author pid="c/CarlKChang">Carl K. Chang</author></authors><title>Annals of Software Engineering Special Volume on Software Management.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>11-14</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Chang01</key><doi>10.1023/A:1012579501037</doi><ee>https://doi.org/10.1023/A:1012579501037</ee><url>https://dblp.org/rec/journals/ansoft/Chang01</url></info>
+<url>URL#4739763</url>
+</hit>
+<hit score="1" id="4739764">
+<info><authors><author pid="c/CarlKChang">Carl K. Chang</author><author pid="96/6025">Mark J. Christensen</author><author pid="15/4777">Tao Zhang</author></authors><title>Genetic Algorithms for Project Management.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>107-139</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/ChangCZ01</key><doi>10.1023/A:1012543203763</doi><ee>https://doi.org/10.1023/A:1012543203763</ee><url>https://dblp.org/rec/journals/ansoft/ChangCZ01</url></info>
+<url>URL#4739764</url>
+</hit>
+<hit score="1" id="4739765">
+<info><authors><author pid="93/2440">Betty H. C. Cheng</author><author pid="91/2138">Gerald C. Gannod</author></authors><title>Developing and Maintaining an Object-Oriented Distributed Multimedia Information System.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>95-118</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/ChengG01</key><doi>10.1023/A:1013358620279</doi><ee>https://doi.org/10.1023/A:1013358620279</ee><url>https://dblp.org/rec/journals/ansoft/ChengG01</url></info>
+<url>URL#4739765</url>
+</hit>
+<hit score="1" id="4739766">
+<info><authors><author pid="g/JosephAGoguen">Joseph A. Goguen</author><author pid="94/207">Kai Lin</author></authors><title>Web-Based Support for Cooperative Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>167-191</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/GoguenL01</key><doi>10.1023/A:1013323127548</doi><ee>https://doi.org/10.1023/A:1013323127548</ee><url>https://dblp.org/rec/journals/ansoft/GoguenL01</url></info>
+<url>URL#4739766</url>
+</hit>
+<hit score="1" id="4739767">
+<info><authors><author pid="14/5167">Abdul S. Haji-Ismail</author><author pid="50/6996-1">Min Chen 0001</author><author pid="15/472">Phil W. Grant</author><author pid="73/5802">Mark Kiddell</author></authors><title>JACIE - an Authoring Language for Rapid Prototyping Net-Centric, Multimedia and Collaborative Applications.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>47-75</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Haji-IsmailCGK01</key><doi>10.1023/A:1013354519370</doi><ee>https://doi.org/10.1023/A:1013354519370</ee><url>https://dblp.org/rec/journals/ansoft/Haji-IsmailCGK01</url></info>
+<url>URL#4739767</url>
+</hit>
+<hit score="1" id="4739768">
+<info><authors><author pid="86/5070">Masahito Hirakawa</author><author pid="14/3435">K. Priyantha Hewagamage</author></authors><title>Situated Computing - A Paradigm for the Mobile User-Interaction with Multimedia Sources.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>213-239</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/HirakawaH01</key><doi>10.1023/A:1013395612527</doi><ee>https://doi.org/10.1023/A:1013395612527</ee><url>https://dblp.org/rec/journals/ansoft/HirakawaH01</url></info>
+<url>URL#4739768</url>
+</hit>
+<hit score="1" id="4739769">
+<info><authors><author pid="i/HohPeterIn">Hoh In</author><author pid="b/BarryWBoehm">Barry W. Boehm</author></authors><title>Using WinWin Quality Requirements Management Tools - A Case Study.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>141-174</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/InB01</key><doi>10.1023/A:1012547320602</doi><ee>https://doi.org/10.1023/A:1012547320602</ee><url>https://dblp.org/rec/journals/ansoft/InB01</url></info>
+<url>URL#4739769</url>
+</hit>
+<hit score="1" id="4739770">
+<info><authors><author pid="20/2895">Karama Kanoun</author></authors><title>A Measurement-Based Framework for Software Reliability Improvement.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>89-106</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Kanoun01</key><doi>10.1023/A:1012591102855</doi><ee>https://doi.org/10.1023/A:1012591102855</ee><url>https://dblp.org/rec/journals/ansoft/Kanoun01</url></info>
+<url>URL#4739770</url>
+</hit>
+<hit score="1" id="4739771">
+<info><authors><author pid="13/4874">Supanat Kitcharoensakkul</author><author pid="95/2980">Vilas Wuwongse</author></authors><title>Unified Versioning Using Resource Description Framework.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>259-297</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/KitcharoensakkulW01</key><doi>10.1023/A:1012507706489</doi><ee>https://doi.org/10.1023/A:1012507706489</ee><url>https://dblp.org/rec/journals/ansoft/KitcharoensakkulW01</url></info>
+<url>URL#4739771</url>
+</hit>
+<hit score="1" id="4739772">
+<info><authors><author pid="l/MeirMLehman">M. M. Lehman</author><author pid="f/JuanFernandezRamil">Juan F. Ramil</author></authors><title>Rules and Tools for Software Evolution Planning and Management.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>15-44</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/LehmanR01</key><doi>10.1023/A:1012535017876</doi><ee>https://doi.org/10.1023/A:1012535017876</ee><url>https://dblp.org/rec/journals/ansoft/LehmanR01</url></info>
+<url>URL#4739772</url>
+</hit>
+<hit score="1" id="4739773">
+<info><authors><author pid="91/4770">Nancy R. Mead</author><author pid="49/1435">Richard C. Linger</author><author pid="66/4447">John McHugh</author><author pid="26/6909">Howard F. Lipson</author></authors><title>Managing Software Development for Survivable Systems.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>45-78</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/MeadLML01</key><doi>10.1023/A:1012587001946</doi><ee>https://doi.org/10.1023/A:1012587001946</ee><url>https://dblp.org/rec/journals/ansoft/MeadLML01</url></info>
+<url>URL#4739773</url>
+</hit>
+<hit score="1" id="4739774">
+<info><authors><author pid="14/2036">Hong Mei</author></authors><title>A Component Model for Perspective Management of Enterprise Software Reuse.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>219-236</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Mei01</key><doi>10.1023/A:1012551421510</doi><ee>https://doi.org/10.1023/A:1012551421510</ee><url>https://dblp.org/rec/journals/ansoft/Mei01</url></info>
+<url>URL#4739774</url>
+</hit>
+<hit score="1" id="4739775">
+<info><authors><author pid="m/AliMili">Ali Mili</author><author pid="11/450">Senta Fowler Chmiel</author><author pid="59/3637">Ravi Gottumukkala</author><author pid="z/LisaZhang">Lisa Zhang</author></authors><title>Managing Software Reuse Economics - An Integrated ROI-based Model.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>175-218</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/MiliCGZ01</key><doi>10.1023/A:1012599304672</doi><ee>https://doi.org/10.1023/A:1012599304672</ee><url>https://dblp.org/rec/journals/ansoft/MiliCGZ01</url></info>
+<url>URL#4739775</url>
+</hit>
+<hit score="1" id="4739776">
+<info><authors><author pid="p/DanielPort">Daniel Port</author><author pid="27/1062">Ebru Dincel</author></authors><title>Experiences Using Domain Specific Techniques within Multimedia Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>11-45</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/PortD01</key><doi>10.1023/A:1013303202532</doi><ee>https://doi.org/10.1023/A:1013303202532</ee><url>https://dblp.org/rec/journals/ansoft/PortD01</url></info>
+<url>URL#4739776</url>
+</hit>
+<hit score="1" id="4739777">
+<info><authors><author pid="92/5316">Zon-Yin Shae</author><author pid="96/2990">Belle L. Tseng</author><author pid="95/6573">Wing Ho Leung</author></authors><title>Immersive Whiteboard Collaborative System.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>193-212</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/ShaeTL01</key><doi>10.1023/A:1013343611618</doi><ee>https://doi.org/10.1023/A:1013343611618</ee><url>https://dblp.org/rec/journals/ansoft/ShaeTL01</url></info>
+<url>URL#4739777</url>
+</hit>
+<hit score="1" id="4739778">
+<info><authors><author pid="34/6910">Timothy K. Shih</author><author pid="c/ShiKuoChang">Shi-Kuo Chang</author><author pid="t/JeffreyJPTsai">Jeffrey J. P. Tsai</author><author pid="49/1832">Jianhua Ma</author><author pid="14/5444">Runhe Huang</author></authors><title>Supporting Well-Engineered Web Documentation Development - a Multimedia Software Engineering Approach toward Virtual University Courseware Designs.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>139-165</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/ShihCTMH01</key><doi>10.1023/A:1013366823005</doi><ee>https://doi.org/10.1023/A:1013366823005</ee><url>https://dblp.org/rec/journals/ansoft/ShihCTMH01</url></info>
+<url>URL#4739778</url>
+</hit>
+<hit score="1" id="4739779">
+<info><authors><author pid="27/5522">Jeffrey M. Voas</author></authors><title>Discovering Unanticipated Software Output Modes.</title><venue>Ann. Softw. Eng.</venue><volume>11</volume><number>1</number><pages>79-88</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/Voas01</key><doi>10.1023/A:1012539118784</doi><ee>https://doi.org/10.1023/A:1012539118784</ee><url>https://dblp.org/rec/journals/ansoft/Voas01</url></info>
+<url>URL#4739779</url>
+</hit>
+<hit score="1" id="4739780">
+<info><authors><author pid="23/85">Stephen J. H. Yang</author><author pid="c/IreneYLChen">Irene Y. L. Chen</author><author pid="80/4061">Chyun-Chyi Chen</author><author pid="88/1397">Chi-Hsing Chu</author><author pid="24/4795">Kevin H. W. Shen</author><author pid="70/21">Chi-Wei Lan</author></authors><title>Building XML-Based Unified User Interface System under J2EE Architecture.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>241-256</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/YangCCCSL01</key><doi>10.1023/A:1013620130273</doi><ee>https://doi.org/10.1023/A:1013620130273</ee><url>https://dblp.org/rec/journals/ansoft/YangCCCSL01</url></info>
+<url>URL#4739780</url>
+</hit>
+<hit score="1" id="4739781">
+<info><authors><author pid="29/177-1">Kang Zhang 0001</author><author pid="03/439">Da-Qian Zhang</author><author pid="d/YiDeng">Yi Deng 0001</author></authors><title>Graphical Transformation of Multimedia XML Documents.</title><venue>Ann. Softw. Eng.</venue><volume>12</volume><number>1</number><pages>119-137</pages><year>2001</year><type>Journal Articles</type><key>journals/ansoft/ZhangZD01</key><doi>10.1023/A:1013310705258</doi><ee>https://doi.org/10.1023/A:1013310705258</ee><url>https://dblp.org/rec/journals/ansoft/ZhangZD01</url></info>
+<url>URL#4739781</url>
+</hit>
+<hit score="1" id="4822701">
+<info><authors><author pid="a/HanyHAmmar">Hany H. Ammar</author><author pid="07/1027">Bojan Cukic</author><author pid="m/AliMili">Ali Mili</author><author pid="86/2932">Christopher P. Fuhrman</author></authors><title>A comparative analysis of hardware and software fault tolerance - Impact on software reliability engineering.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>103-150</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/AmmarCMF00</key><doi>10.1023/A:1018987616443</doi><ee>https://doi.org/10.1023/A:1018987616443</ee><url>https://dblp.org/rec/journals/ansoft/AmmarCMF00</url></info>
+<url>URL#4822701</url>
+</hit>
+<hit score="1" id="4822702">
+<info><authors><author pid="73/3515">Giuliano Antoniol</author><author pid="88/4393">Bruno Caprile</author><author pid="31/3006">Alessandra Potrich</author><author pid="54/2734">Paolo Tonella</author></authors><title>Design-code traceability for object-oriented systems.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>35-58</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/AntoniolCPT00</key><doi>10.1023/A:1018916522804</doi><ee>https://doi.org/10.1023/A:1018916522804</ee><url>https://dblp.org/rec/journals/ansoft/AntoniolCPT00</url></info>
+<url>URL#4822702</url>
+</hit>
+<hit score="1" id="4822703">
+<info><authors><author pid="32/4770">Bakul Banerjee</author></authors><title>Mapping software - Are we nearing standardization?</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>373-387</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Banerjee00</key><doi>10.1023/A:1018908320986</doi><ee>https://doi.org/10.1023/A:1018908320986</ee><url>https://dblp.org/rec/journals/ansoft/Banerjee00</url></info>
+<url>URL#4822703</url>
+</hit>
+<hit score="1" id="4822704">
+<info><authors><author pid="13/4588">Franck Barbier</author><author pid="45/5440">Brian Henderson-Sellers</author></authors><title>Object modelling languages - An evaluation and some key expectations for the future.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>67-101</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/BarbierH00</key><doi>10.1023/A:1018935632373</doi><ee>https://doi.org/10.1023/A:1018935632373</ee><url>https://dblp.org/rec/journals/ansoft/BarbierH00</url></info>
+<url>URL#4822704</url>
+</hit>
+<hit score="1" id="4822705">
+<info><authors><author pid="48/5283">PerOlof Bengtsson</author><author pid="60/6845">Jan Bosch</author></authors><title>An experiment on creating scenario profiles for software change.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>59-78</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/BengtssonB00</key><doi>10.1023/A:1018968506874</doi><ee>https://doi.org/10.1023/A:1018968506874</ee><url>https://dblp.org/rec/journals/ansoft/BengtssonB00</url></info>
+<url>URL#4822705</url>
+</hit>
+<hit score="1" id="4822706">
+<info><authors><author pid="b/DinesBjorner">Dines Bjørner</author></authors><title>Pinnacles of software engineering - 25 years of formal methods.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>11-66</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Bjorner00</key><doi>10.1023/A:1018983515535</doi><ee>https://doi.org/10.1023/A:1018983515535</ee><url>https://dblp.org/rec/journals/ansoft/Bjorner00</url></info>
+<url>URL#4822706</url>
+</hit>
+<hit score="1" id="4822707">
+<info><authors><author pid="b/BarryWBoehm">Barry W. Boehm</author><author pid="27/4154">Chris Abts</author><author pid="55/4299">Sunita Chulani</author></authors><title>Software development cost estimation approaches - A survey.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>177-205</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/BoehmAC00</key><doi>10.1023/A:1018991717352</doi><ee>https://doi.org/10.1023/A:1018991717352</ee><url>https://dblp.org/rec/journals/ansoft/BoehmAC00</url></info>
+<url>URL#4822707</url>
+</hit>
+<hit score="1" id="4822708">
+<info><authors><author pid="01/3344">Antony Bryant</author></authors><title>Metaphor, myth and mimicry - The bases of software engineering.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>273-292</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Bryant00</key><doi>10.1023/A:1018947902331</doi><ee>https://doi.org/10.1023/A:1018947902331</ee><url>https://dblp.org/rec/journals/ansoft/Bryant00</url></info>
+<url>URL#4822708</url>
+</hit>
+<hit score="1" id="4822709">
+<info><authors><author pid="b/ElizabethBurd">Elizabeth Burd</author><author pid="m/MalcolmMunro">Malcolm Munro</author></authors><title>Supporting program comprehension using dominance trees.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>193-213</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/BurdM00</key><doi>10.1023/A:1018928825530</doi><ee>https://doi.org/10.1023/A:1018928825530</ee><url>https://dblp.org/rec/journals/ansoft/BurdM00</url></info>
+<url>URL#4822709</url>
+</hit>
+<hit score="1" id="4822710">
+<info><authors><author pid="94/309">Cristina Cifuentes</author><author pid="96/5088">Anne Fitzgerald</author></authors><title>The legal status of reverse engineering of computer software.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>337-351</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/CifuentesF00</key><doi>10.1023/A:1018993212326</doi><ee>https://doi.org/10.1023/A:1018993212326</ee><url>https://dblp.org/rec/journals/ansoft/CifuentesF00</url></info>
+<url>URL#4822710</url>
+</hit>
+<hit score="1" id="4822711">
+<info><authors><author pid="02/4125">Wiebe Hordijk</author><author pid="26/2728">Sascha Molterer</author><author pid="s/ChrisSalzmann">Christian Salzmann</author><author pid="p/BarbaraPaech">Barbara Paech</author><author pid="98/4793">Panagiotis K. Linos</author></authors><title>Maintainable systems with a business object approach.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>273-292</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/HordijkMSPL00</key><doi>10.1023/A:1018937127347</doi><ee>https://doi.org/10.1023/A:1018937127347</ee><url>https://dblp.org/rec/journals/ansoft/HordijkMSPL00</url></info>
+<url>URL#4822711</url>
+</hit>
+<hit score="1" id="4822712">
+<info><authors><author pid="63/1672">Watts S. Humphrey</author></authors><title>Software - A performing science?</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>261-271</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Humphrey00</key><doi>10.1023/A:1018995818261</doi><ee>https://doi.org/10.1023/A:1018995818261</ee><url>https://dblp.org/rec/journals/ansoft/Humphrey00</url></info>
+<url>URL#4822712</url>
+</hit>
+<hit score="1" id="4822713">
+<info><authors><author pid="90/3774">Rick Kazman</author><author pid="73/5245">S. Jeromy Carrière</author><author pid="14/5901">Steven G. Woods</author></authors><title>Toward a discipline of scenario-based architectural engineering.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>5-33</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/KazmanCW00</key><doi>10.1023/A:1018964405965</doi><ee>https://doi.org/10.1023/A:1018964405965</ee><url>https://dblp.org/rec/journals/ansoft/KazmanCW00</url></info>
+<url>URL#4822713</url>
+</hit>
+<hit score="1" id="4822714">
+<info><authors><author pid="k/TMKhoshgoftaar">Taghi M. Khoshgoftaar</author><author pid="a/EBAllen">Edward B. Allen</author><author pid="67/2719">Wendell D. Jones</author><author pid="17/6624">John P. Hudepohl</author></authors><title>Accuracy of software quality models over multiple releases.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>103-116</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/KhoshgoftaarAJH00</key><doi>10.1023/A:1018972607783</doi><ee>https://doi.org/10.1023/A:1018972607783</ee><url>https://dblp.org/rec/journals/ansoft/KhoshgoftaarAJH00</url></info>
+<url>URL#4822714</url>
+</hit>
+<hit score="1" id="4822715">
+<info><authors><author pid="32/4354">Graham A. King</author></authors><title>Quality technique transfer - Manufacturing and software.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>359-372</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/King00</key><doi>10.1023/A:1018956204148</doi><ee>https://doi.org/10.1023/A:1018956204148</ee><url>https://dblp.org/rec/journals/ansoft/King00</url></info>
+<url>URL#4822715</url>
+</hit>
+<hit score="1" id="4822716">
+<info><authors><author pid="l/CLewerentz">Claus Lewerentz</author><author pid="82/6779">Heinrich Rust</author></authors><title>Are software engineers true engineers?</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>311-328</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/LewerentzR00</key><doi>10.1023/A:1018952103240</doi><ee>https://doi.org/10.1023/A:1018952103240</ee><url>https://dblp.org/rec/journals/ansoft/LewerentzR00</url></info>
+<url>URL#4822716</url>
+</hit>
+<hit score="1" id="4822717">
+<info><authors><author pid="48/2488">Jean Mayrand</author><author pid="79/4605">Jean-François Patenaude</author><author pid="47/4667">Ettore Merlo</author><author pid="60/309">Michel Dagenais</author><author pid="52/2471">Bruno Laguë</author></authors><title>Software assessment using metrics - A comparison across large C++ and Java systems.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>117-141</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/MayrandPMDL00</key><doi>10.1023/A:1018924724621</doi><ee>https://doi.org/10.1023/A:1018924724621</ee><url>https://dblp.org/rec/journals/ansoft/MayrandPMDL00</url></info>
+<url>URL#4822717</url>
+</hit>
+<hit score="1" id="4822718">
+<info><authors><author pid="03/2391">Nader Nada</author><author pid="46/827">David C. Rine</author></authors><title>Three empirical evaluations of a software reuse reference model.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>225-259</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/NadaR00</key><doi>10.1023/A:1018943801422</doi><ee>https://doi.org/10.1023/A:1018943801422</ee><url>https://dblp.org/rec/journals/ansoft/NadaR00</url></info>
+<url>URL#4822718</url>
+</hit>
+<hit score="1" id="4822719">
+<info><authors><author pid="r/VaclavRajlich">Václav Rajlich</author></authors><title>Modeling software evolution by evolving interoperation graphs.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>235-248</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Rajlich00</key><doi>10.1023/A:1018933026438</doi><ee>https://doi.org/10.1023/A:1018933026438</ee><url>https://dblp.org/rec/journals/ansoft/Rajlich00</url></info>
+<url>URL#4822719</url>
+</hit>
+<hit score="1" id="4822720">
+<info><authors><author pid="r/DJanakiRam">D. Janaki Ram</author><author pid="08/899">K. N. Anantharaman</author><author pid="14/6420">K. N. Guruprasad</author><author pid="63/776">M. Sreekanth</author><author pid="29/1855">S. V. G. K. Raju</author><author pid="16/5355">A. Ananda Rao</author></authors><title>An approach for pattern oriented software development based on a design handbook.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>329-358</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/RamAGSRR00</key><doi>10.1023/A:1018904220078</doi><ee>https://doi.org/10.1023/A:1018904220078</ee><url>https://dblp.org/rec/journals/ansoft/RamAGSRR00</url></info>
+<url>URL#4822720</url>
+</hit>
+<hit score="1" id="4822721">
+<info><authors><author pid="r/CRolland">Colette Rolland</author><author pid="55/3343">Naveen Prakash</author></authors><title>From conceptual modelling to requirements engineering.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>151-176</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/RollandP00</key><doi>10.1023/A:1018939700514</doi><ee>https://doi.org/10.1023/A:1018939700514</ee><url>https://dblp.org/rec/journals/ansoft/RollandP00</url></info>
+<url>URL#4822721</url>
+</hit>
+<hit score="1" id="4822722">
+<info><authors><author pid="75/4670">Spencer Rugaber</author></authors><title>The use of domain knowledge in program understanding.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>143-192</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Rugaber00</key><doi>10.1023/A:1018976708691</doi><ee>https://doi.org/10.1023/A:1018976708691</ee><url>https://dblp.org/rec/journals/ansoft/Rugaber00</url></info>
+<url>URL#4822722</url>
+</hit>
+<hit score="1" id="4822723">
+<info><authors><author pid="64/3016">Norman F. Schneidewind</author></authors><title>Software quality control and prediction model for maintenance.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>79-101</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Schneidewind00</key><doi>10.1023/A:1018920623712</doi><ee>https://doi.org/10.1023/A:1018920623712</ee><url>https://dblp.org/rec/journals/ansoft/Schneidewind00</url></info>
+<url>URL#4822723</url>
+</hit>
+<hit score="1" id="4822724">
+<info><authors><author pid="16/1833">Harry M. Sneed</author></authors><title>Encapsulation of legacy software - A technique for reusing legacy software components.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>293-313</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Sneed00</key><doi>10.1023/A:1018989111417</doi><ee>https://doi.org/10.1023/A:1018989111417</ee><url>https://dblp.org/rec/journals/ansoft/Sneed00</url></info>
+<url>URL#4822724</url>
+</hit>
+<hit score="1" id="4822725">
+<info><authors><author pid="61/3026">Scott R. Tilley</author></authors><title>The canonical activities of reverse engineering.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>249-271</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Tilley00</key><doi>10.1023/A:1018985010508</doi><ee>https://doi.org/10.1023/A:1018985010508</ee><url>https://dblp.org/rec/journals/ansoft/Tilley00</url></info>
+<url>URL#4822725</url>
+</hit>
+<hit score="1" id="4822726">
+<info><authors><author pid="t/JeffreyJPTsai">Jeffrey J. P. Tsai</author><author pid="67/1187">Kuang Xu</author></authors><title>A comparative study of formal verification techniques for software architecture specifications.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>207-223</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/TsaiX00</key><doi>10.1023/A:1018960305057</doi><ee>https://doi.org/10.1023/A:1018960305057</ee><url>https://dblp.org/rec/journals/ansoft/TsaiX00</url></info>
+<url>URL#4822726</url>
+</hit>
+<hit score="1" id="4822727">
+<info><authors><author pid="v/ChrisVerhoef">Chris Verhoef</author></authors><title>Towards automated modification of legacy assets.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>315-336</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Verhoef00</key><doi>10.1023/A:1018941228255</doi><ee>https://doi.org/10.1023/A:1018941228255</ee><url>https://dblp.org/rec/journals/ansoft/Verhoef00</url></info>
+<url>URL#4822727</url>
+</hit>
+<hit score="1" id="4822728">
+<info><authors><author pid="94/4920">Giuseppe Visaggio</author></authors><title>Value-based decision model for renewal processes in software maintenance.</title><venue>Ann. Softw. Eng.</venue><volume>9</volume><pages>215-233</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/Visaggio00</key><doi>10.1023/A:1018980809600</doi><ee>https://doi.org/10.1023/A:1018980809600</ee><url>https://dblp.org/rec/journals/ansoft/Visaggio00</url></info>
+<url>URL#4822728</url>
+</hit>
+<hit score="1" id="4822729">
+<info><authors><author pid="w/YingxuWang">Yingxu Wang</author><author pid="p/DilipPatel">Dilip Patel</author></authors><title>Editors' introduction - Comparative software engineering - Review and perspectives.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>1-10</pages><year>2000</year><type>Journal Articles</type><key>journals/ansoft/WangP00</key><doi>10.1023/A:1018931531464</doi><ee>https://doi.org/10.1023/A:1018931531464</ee><url>https://dblp.org/rec/journals/ansoft/WangP00</url></info>
+<url>URL#4822729</url>
+</hit>
+<hit score="1" id="4897195">
+<info><title>Software is different.</title><venue>Ann. Softw. Eng.</venue><volume>10</volume><pages>293-310</pages><year>2000</year><type>Withdrawn Items</type><key>journals/ansoft/Beizer00</key><doi>10.1023/A:1018999919169</doi><ee>https://doi.org/10.1023/A:1018999919169</ee><url>https://dblp.org/rec/journals/ansoft/Beizer00</url></info>
+<url>URL#4897195</url>
+</hit>
+<hit score="1" id="4900597">
+<info><authors><author pid="11/774">Imran Bashir</author><author pid="83/6873">Raymond A. Paul</author></authors><title>Object-oriented integration testing.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>187-202</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/BashirP99</key><doi>10.1023/A:1018975313718</doi><ee>https://doi.org/10.1023/A:1018975313718</ee><url>https://dblp.org/rec/journals/ansoft/BashirP99</url></info>
+<url>URL#4900597</url>
+</hit>
+<hit score="1" id="4900598">
+<info><authors><author pid="52/960">Farokh B. Bastani</author></authors><title>Relational Programs - An Architecture for Robust Real-Time Safety-Critical Process-Control Systems.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>5-24</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/Bastani99</key><doi>10.1023/A:1018950608266</doi><ee>https://doi.org/10.1023/A:1018950608266</ee><url>https://dblp.org/rec/journals/ansoft/Bastani99</url></info>
+<url>URL#4900598</url>
+</hit>
+<hit score="1" id="4900599">
+<info><authors><author pid="40/6113">Girish Bhat</author><author pid="c/RCleaveland">Rance Cleaveland</author><author pid="84/38">Gerald Lüttgen</author></authors><title>A Practical Approach to Implementing Real-Time Semantics.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>127-155</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/BhatCL99</key><doi>10.1023/A:1018982020561</doi><ee>https://doi.org/10.1023/A:1018982020561</ee><url>https://dblp.org/rec/journals/ansoft/BhatCL99</url></info>
+<url>URL#4900599</url>
+</hit>
+<hit score="1" id="4900600">
+<info><authors><author pid="c/DanielECooke">Daniel E. Cooke</author><author pid="24/2519">David A. Dampier</author></authors><title>A Real-Time Version of SequenceL.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>157-176</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/CookeD99</key><doi>10.1023/A:1018994423287</doi><ee>https://doi.org/10.1023/A:1018994423287</ee><url>https://dblp.org/rec/journals/ansoft/CookeD99</url></info>
+<url>URL#4900600</url>
+</hit>
+<hit score="1" id="4900601">
+<info><authors><author pid="87/1161">Siddhartha R. Dalal</author><author pid="02/2637">Michael S. Hamada</author><author pid="02/1160">Tzyh-Jong Wang</author></authors><title>How to improve performance of software systems - A methodology and a case study for tuning performance.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>53-84</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/DalalHW99</key><doi>10.1023/A:1018910926921</doi><ee>https://doi.org/10.1023/A:1018910926921</ee><url>https://dblp.org/rec/journals/ansoft/DalalHW99</url></info>
+<url>URL#4900601</url>
+</hit>
+<hit score="1" id="4900602">
+<info><authors><author pid="d/YiDeng">Yi Deng 0001</author><author pid="90/6810">Jiacun Wang</author></authors><title>Integrated Architectural Modeling and Analysis for High-Assurance Command and Control System Design.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>47-70</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/DengW99</key><doi>10.1023/A:1018946507357</doi><ee>https://doi.org/10.1023/A:1018946507357</ee><url>https://dblp.org/rec/journals/ansoft/DengW99</url></info>
+<url>URL#4900602</url>
+</hit>
+<hit score="1" id="4900603">
+<info><authors><author pid="38/997">Tadashi Dohi</author><author pid="18/3530">Yasuhiko Nishio</author><author pid="42/473">Shunji Osaki</author></authors><title>Optimal software release scheduling based on artificial neural networks.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>167-185</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/DohiNO99</key><doi>10.1023/A:1018962910992</doi><ee>https://doi.org/10.1023/A:1018962910992</ee><url>https://dblp.org/rec/journals/ansoft/DohiNO99</url></info>
+<url>URL#4900603</url>
+</hit>
+<hit score="1" id="4900604">
+<info><authors><author pid="37/695">Christof Ebert</author><author pid="99/6399">Thomas Liedtke</author><author pid="17/6939">Ekkehard Baisch</author></authors><title>Improving reliability of large software systems.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>3-51</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/EbertLB99</key><doi>10.1023/A:1018971212809</doi><ee>https://doi.org/10.1023/A:1018971212809</ee><url>https://dblp.org/rec/journals/ansoft/EbertLB99</url></info>
+<url>URL#4900604</url>
+</hit>
+<hit score="1" id="4900605">
+<info><authors><author pid="13/179">Amrit L. Goel</author></authors><title>Preface.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>1-2</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/Goel99</key><doi>10.1023/A:1018906826013</doi><ee>https://doi.org/10.1023/A:1018906826013</ee><url>https://dblp.org/rec/journals/ansoft/Goel99</url></info>
+<url>URL#4900605</url>
+</hit>
+<hit score="1" id="4900606">
+<info><authors><author pid="g/SwapnaSGokhale">Swapna S. Gokhale</author><author pid="t/KishorSTrivedi">Kishor S. Trivedi</author></authors><title>A time/structure based software reliability model.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>85-121</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/GokhaleT99</key><doi>10.1023/A:1018923329647</doi><ee>https://doi.org/10.1023/A:1018923329647</ee><url>https://dblp.org/rec/journals/ansoft/GokhaleT99</url></info>
+<url>URL#4900606</url>
+</hit>
+<hit score="1" id="4900607">
+<info><authors><author pid="90/3774">Rick Kazman</author><author pid="74/2158">Mark Klein</author><author pid="32/367">Paul C. Clements</author></authors><title>Evaluating Software Architectures for Real-Time Systems.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>71-93</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/KazmanKC99</key><doi>10.1023/A:1018902725104</doi><ee>https://doi.org/10.1023/A:1018902725104</ee><url>https://dblp.org/rec/journals/ansoft/KazmanKC99</url></info>
+<url>URL#4900607</url>
+</hit>
+<hit score="1" id="4900608">
+<info><authors><author pid="47/1304">Paul Z. Kolano</author><author pid="51/5888">Zhe Dang</author><author pid="k/RAKemmerer">Richard A. Kemmerer</author></authors><title>The Design and Analysis of Real-Time Systems Using the ASTRAL Software Development Environment.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>177-210</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/KolanoDK99</key><doi>10.1023/A:1018934104631</doi><ee>https://doi.org/10.1023/A:1018934104631</ee><url>https://dblp.org/rec/journals/ansoft/KolanoDK99</url></info>
+<url>URL#4900608</url>
+</hit>
+<hit score="1" id="4900609">
+<info><authors><author pid="83/846">Edward A. Lee</author></authors><title>Modeling Concurrent Real-Time Processes Using Discrete Events.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>25-45</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/Lee99</key><doi>10.1023/A:1018998524196</doi><ee>https://doi.org/10.1023/A:1018998524196</ee><url>https://dblp.org/rec/journals/ansoft/Lee99</url></info>
+<url>URL#4900609</url>
+</hit>
+<hit score="1" id="4900610">
+<info><authors><author pid="25/4976">Brian Nielsen</author><author pid="a/GulAAgha">Gul Agha</author></authors><title>Towards Reusable Real-Time Objects.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>257-282</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/NielsenA99</key><doi>10.1023/A:1018986121470</doi><ee>https://doi.org/10.1023/A:1018986121470</ee><url>https://dblp.org/rec/journals/ansoft/NielsenA99</url></info>
+<url>URL#4900610</url>
+</hit>
+<hit score="1" id="4900611">
+<info><authors><author pid="83/6873">Raymond A. Paul</author><author pid="s/JaideepSrivastava">Jaideep Srivastava</author><author pid="w/DumindaWijesekera">Duminda Wijesekera</author></authors><title>Test and evaluation of distributed information system networks.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>289-311</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/PaulSW99</key><doi>10.1023/A:1018979414626</doi><ee>https://doi.org/10.1023/A:1018979414626</ee><url>https://dblp.org/rec/journals/ansoft/PaulSW99</url></info>
+<url>URL#4900611</url>
+</hit>
+<hit score="1" id="4900612">
+<info><authors><author pid="19/5207">Hoang Pham</author><author pid="36/4164">Xuemei Zhang</author></authors><title>Software release policies with gain in reliability justifying the costs.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>147-166</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/PhamZ99</key><doi>10.1023/A:1018958810083</doi><ee>https://doi.org/10.1023/A:1018958810083</ee><url>https://dblp.org/rec/journals/ansoft/PhamZ99</url></info>
+<url>URL#4900612</url>
+</hit>
+<hit score="1" id="4900613">
+<info><authors><author pid="32/6111">Frederick T. Sheldon</author><author pid="76/3390">Stefan Greiner</author></authors><title>Composing, analyzing and validating software models to assess the performability of competing design candidates.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>239-287</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/SheldonG99</key><doi>10.1023/A:1018927430556</doi><ee>https://doi.org/10.1023/A:1018927430556</ee><url>https://dblp.org/rec/journals/ansoft/SheldonG99</url></info>
+<url>URL#4900613</url>
+</hit>
+<hit score="1" id="4900614">
+<info><authors><author pid="31/4030">Oleg Sokolsky</author><author pid="l/InsupLee">Insup Lee</author><author pid="07/6383">Hanêne Ben-Abdallah</author></authors><title>Specification and Analysis of Real-Time Systems with PARAGON.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>211-234</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/SokolskyLB99</key><doi>10.1023/A:1018938205540</doi><ee>https://doi.org/10.1023/A:1018938205540</ee><url>https://dblp.org/rec/journals/ansoft/SokolskyLB99</url></info>
+<url>URL#4900614</url>
+</hit>
+<hit score="1" id="4900615">
+<info><authors><author pid="74/2883">Koichi Tokuno</author><author pid="85/5224">Shigeru Yamada</author></authors><title>Stochastic software safety/reliability measurement and its application.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>123-145</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/TokunoY99</key><doi>10.1023/A:1018967011900</doi><ee>https://doi.org/10.1023/A:1018967011900</ee><url>https://dblp.org/rec/journals/ansoft/TokunoY99</url></info>
+<url>URL#4900615</url>
+</hit>
+<hit score="1" id="4900616">
+<info><authors><author pid="77/1382">Bor-Yuan Tsai</author><author pid="34/2047">Simon Stobart</author><author pid="36/6907">Norman Parrington</author><author pid="181/2829-4">Ian Mitchell 0004</author></authors><title>Automated class testing using threaded multi-way trees to represent the behaviour of state machines.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>203-221</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/TsaiSPM99</key><doi>10.1023/A:1018915027830</doi><ee>https://doi.org/10.1023/A:1018915027830</ee><url>https://dblp.org/rec/journals/ansoft/TsaiSPM99</url></info>
+<url>URL#4900616</url>
+</hit>
+<hit score="1" id="4900617">
+<info><authors><author pid="t/JeffreyJPTsai">Jeffrey J. P. Tsai</author><author pid="67/1187">Kuang Xu</author></authors><title>An Empirical Evaluation of Deadlock Detection in Software Architecture Specifications.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>95-126</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/TsaiX99</key><doi>10.1023/A:1018954709174</doi><ee>https://doi.org/10.1023/A:1018954709174</ee><url>https://dblp.org/rec/journals/ansoft/TsaiX99</url></info>
+<url>URL#4900617</url>
+</hit>
+<hit score="1" id="4900618">
+<info><authors><author pid="w/YingxuWang">Yingxu Wang</author><author pid="32/4354">Graham King</author><author pid="p/DilipPatel">Dilip Patel</author><author pid="28/899">Shushma Patel</author><author pid="17/3050">Alec Dorling</author></authors><title>On Coping with Real-Time Software Dynamic Inconsistency by Built-in Tests.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>283-296</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/WangKPPD99</key><doi>10.1023/A:1018990322378</doi><ee>https://doi.org/10.1023/A:1018990322378</ee><url>https://dblp.org/rec/journals/ansoft/WangKPPD99</url></info>
+<url>URL#4900618</url>
+</hit>
+<hit score="1" id="4900619">
+<info><authors><author pid="85/5224">Shigeru Yamada</author><author pid="37/373">Mitsuhiro Kimura</author></authors><title>Software reliability assessment tool based on object-oriented analysis and its application.</title><venue>Ann. Softw. Eng.</venue><volume>8</volume><pages>223-238</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/YamadaK99</key><doi>10.1023/A:1018919128739</doi><ee>https://doi.org/10.1023/A:1018919128739</ee><url>https://dblp.org/rec/journals/ansoft/YamadaK99</url></info>
+<url>URL#4900619</url>
+</hit>
+<hit score="1" id="4900620">
+<info><authors><author pid="z/HZedan">Hussein Zedan</author><author pid="89/2332">Antonio Cau</author><author pid="65/2429">Zhiqiang Chen</author><author pid="78/4510">Hongji Yang</author></authors><title>ATOM - An Object-based Formal Method for Real-Time Systems.</title><venue>Ann. Softw. Eng.</venue><volume>7</volume><pages>235-256</pages><year>1999</year><type>Journal Articles</type><key>journals/ansoft/ZedanCCY99</key><doi>10.1023/A:1018942406449</doi><ee>https://doi.org/10.1023/A:1018942406449</ee><url>https://dblp.org/rec/journals/ansoft/ZedanCCY99</url></info>
+<url>URL#4900620</url>
+</hit>
+<hit score="1" id="4969366">
+<info><authors><author pid="79/3479">Edward A. Addy</author></authors><title>A Framework for Performing verification and validation in Reuse-Based Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>279-292</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Addy98</key><doi>10.1023/A:1018968222862</doi><ee>https://doi.org/10.1023/A:1018968222862</ee><url>https://dblp.org/rec/journals/ansoft/Addy98</url></info>
+<url>URL#4969366</url>
+</hit>
+<hit score="1" id="4969367">
+<info><authors><author pid="45/5026">Robert L. Baber</author></authors><title>Software Engineering Education - Issues and Alternatives.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>39-59</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Baber98</key><doi>10.1023/A:1018905331039</doi><ee>https://doi.org/10.1023/A:1018905331039</ee><url>https://dblp.org/rec/journals/ansoft/Baber98</url></info>
+<url>URL#4969367</url>
+</hit>
+<hit score="1" id="4969368">
+<info><authors><author pid="87/200">Ted J. Biggerstaff</author></authors><title>A Perspective of Generative Reuse.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>169-226</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Biggerstaff98</key><doi>10.1023/A:1018924407841</doi><ee>https://doi.org/10.1023/A:1018924407841</ee><url>https://dblp.org/rec/journals/ansoft/Biggerstaff98</url></info>
+<url>URL#4969368</url>
+</hit>
+<hit score="1" id="4969369">
+<info><authors><author pid="63/5587">Malcolm Birtle</author></authors><title>Negotiated Learning Contracts in Team Projects.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>323-341</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Birtle98</key><doi>10.1023/A:1018961516018</doi><ee>https://doi.org/10.1023/A:1018961516018</ee><url>https://dblp.org/rec/journals/ansoft/Birtle98</url></info>
+<url>URL#4969369</url>
+</hit>
+<hit score="1" id="4969370">
+<info><authors><author pid="b/DinesBjorner">Dines Bjørner</author><author pid="60/5706">Jorge Cuéllar</author></authors><title>Software Engineering Education - Rôles of Formal Specification and Design Calculi.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>365-409</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/BjornerC98</key><doi>10.1023/A:1018969717835</doi><ee>https://doi.org/10.1023/A:1018969717835</ee><url>https://dblp.org/rec/journals/ansoft/BjornerC98</url></info>
+<url>URL#4969370</url>
+</hit>
+<hit score="1" id="4969371">
+<info><authors><author pid="b/BarryWBoehm">Barry W. Boehm</author><author pid="20/5529">Alexander Egyed</author><author pid="p/DanielPort">Daniel Port</author><author pid="17/5607">Archita Shah</author><author pid="94/3749">Julie Kwan</author><author pid="11/2670">Raymond J. Madachy</author></authors><title>A Stakeholder Win-Win Approach to Software Engineering Education.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>295-321</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/BoehmEPSKM98</key><doi>10.1023/A:1018988827405</doi><ee>https://doi.org/10.1023/A:1018988827405</ee><url>https://dblp.org/rec/journals/ansoft/BoehmEPSKM98</url></info>
+<url>URL#4969371</url>
+</hit>
+<hit score="1" id="4969372">
+<info><authors><author pid="c/PCiancarini">Paolo Ciancarini</author><author pid="21/6419">Cecilia Mascolo</author></authors><title>Using Formal Methods for Teaching Software Engineering - A Tool-Based Approach.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>433-453</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/CiancariniM98</key><doi>10.1023/A:1018921801906</doi><ee>https://doi.org/10.1023/A:1018921801906</ee><url>https://dblp.org/rec/journals/ansoft/CiancariniM98</url></info>
+<url>URL#4969372</url>
+</hit>
+<hit score="1" id="4969373">
+<info><authors><author pid="90/4759">Anthony J. Cowling</author></authors><title>The First Decade of an Undergraduate Degree Programme in Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>61-90</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Cowling98</key><doi>10.1023/A:1018940911475</doi><ee>https://doi.org/10.1023/A:1018940911475</ee><url>https://dblp.org/rec/journals/ansoft/Cowling98</url></info>
+<url>URL#4969373</url>
+</hit>
+<hit score="1" id="4969374">
+<info><authors><author pid="51/6268">Jacob L. Cybulski</author><author pid="51/4438">Ralph D. (Butch) Neal</author><author pid="33/2477">Anthony Kram</author><author pid="77/646">Jeffrey C. Allen</author></authors><title>Reuse of Early Life-Cycle Artifacts - Workproducts, Methods and Tools.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>227-251</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/CybulskiNKA98</key><doi>10.1023/A:1018983220136</doi><ee>https://doi.org/10.1023/A:1018983220136</ee><url>https://dblp.org/rec/journals/ansoft/CybulskiNKA98</url></info>
+<url>URL#4969374</url>
+</hit>
+<hit score="1" id="4969375">
+<info><authors><author pid="d/PJDenning">Peter J. Denning</author></authors><title>Professional software Engineering Education.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>145-166</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Denning98</key><doi>10.1023/A:1018992928313</doi><ee>https://doi.org/10.1023/A:1018992928313</ee><url>https://dblp.org/rec/journals/ansoft/Denning98</url></info>
+<url>URL#4969375</url>
+</hit>
+<hit score="1" id="4969376">
+<info><authors><author pid="87/4938">John M. Favaro</author><author pid="74/4216">Kenneth R. Favaro</author><author pid="41/2888">Paul F. Favaro</author></authors><title>Value Based Software Reuse Investment.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>5-52</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/FavaroFF98</key><doi>10.1023/A:1018976424679</doi><ee>https://doi.org/10.1023/A:1018976424679</ee><url>https://dblp.org/rec/journals/ansoft/FavaroFF98</url></info>
+<url>URL#4969376</url>
+</hit>
+<hit score="1" id="4969377">
+<info><authors><author pid="72/6789">Nick V. Flor</author><author pid="79/1320">F. Javier Lerch</author><author pid="68/6998">Se-Joon Hong</author></authors><title>A Market-Driven Approach to Teaching Software Components Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>223-251</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/FlorLH98</key><doi>10.1023/A:1018913600088</doi><ee>https://doi.org/10.1023/A:1018913600088</ee><url>https://dblp.org/rec/journals/ansoft/FlorLH98</url></info>
+<url>URL#4969377</url>
+</hit>
+<hit score="1" id="4969378">
+<info><authors><author pid="71/18">Dennis J. Frailey</author></authors><title>Opportunities for Software Engineering Education.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>131-144</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Frailey98</key><doi>10.1023/A:1018957315109</doi><ee>https://doi.org/10.1023/A:1018957315109</ee><url>https://dblp.org/rec/journals/ansoft/Frailey98</url></info>
+<url>URL#4969378</url>
+</hit>
+<hit score="1" id="4969379">
+<info><authors><author pid="f/WBFrakes">William B. Frakes</author><author pid="p/RubenPrietoDiaz">Rubén Prieto Díaz</author><author pid="10/5889">Christopher J. Fox</author></authors><title>DARE - Domain Analysis and Reuse Environment.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>125-141</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/FrakesPF98</key><doi>10.1023/A:1018972323770</doi><ee>https://doi.org/10.1023/A:1018972323770</ee><url>https://dblp.org/rec/journals/ansoft/FrakesPF98</url></info>
+<url>URL#4969379</url>
+</hit>
+<hit score="1" id="4969380">
+<info><authors><author pid="85/1583">Carol L. Hoover</author></authors><title>TAP-D - A Model for Developing Specialization Tracks in a Graduate Software Engineering Curriculum.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>253-279</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Hoover98</key><doi>10.1023/A:1018945012384</doi><ee>https://doi.org/10.1023/A:1018945012384</ee><url>https://dblp.org/rec/journals/ansoft/Hoover98</url></info>
+<url>URL#4969380</url>
+</hit>
+<hit score="1" id="4969381">
+<info><authors><author pid="63/1672">Watts S. Humphrey</author></authors><title>Why Don't They Practice What Ee Preach?</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>201-222</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Humphrey98</key><doi>10.1023/A:1018997029222</doi><ee>https://doi.org/10.1023/A:1018997029222</ee><url>https://dblp.org/rec/journals/ansoft/Humphrey98</url></info>
+<url>URL#4969381</url>
+</hit>
+<hit score="1" id="4969382">
+<info><authors><author pid="15/3530">Kyo Chul Kang</author><author pid="59/1633">Sajoong Kim</author><author pid="79/5508">Jaejoon Lee</author><author pid="97/6911">Kijoo Kim</author><author pid="70/303">Euiseob Shin</author><author pid="89/3274">Moonhang Huh</author></authors><title>FORM - A Feature-Oriented Reuse Method with Domain-Specific Reference Architectures.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>143-168</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/KangKLKSH98</key><doi>10.1023/A:1018980625587</doi><ee>https://doi.org/10.1023/A:1018980625587</ee><url>https://dblp.org/rec/journals/ansoft/KangKLKSH98</url></info>
+<url>URL#4969382</url>
+</hit>
+<hit score="1" id="4969383">
+<info><authors><author pid="64/1519">Elizabeth A. Kendall</author></authors><title>Utilizing Patterns and Pattern Languages in Education.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>281-294</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Kendall98</key><doi>10.1023/A:1018965616927</doi><ee>https://doi.org/10.1023/A:1018965616927</ee><url>https://dblp.org/rec/journals/ansoft/Kendall98</url></info>
+<url>URL#4969383</url>
+</hit>
+<hit score="1" id="4969384">
+<info><authors><author pid="87/4375">John C. Knight</author><author pid="63/276">Michael F. Dunn</author></authors><title>Software Quality Through Domain-Driven Certification.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>293-315</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/KnightD98</key><doi>10.1023/A:1018960021044</doi><ee>https://doi.org/10.1023/A:1018960021044</ee><url>https://dblp.org/rec/journals/ansoft/KnightD98</url></info>
+<url>URL#4969384</url>
+</hit>
+<hit score="1" id="4969385">
+<info><authors><author pid="73/5607">W. Lam</author></authors><title>A Case-Study of Requirements Reuse Through Product Families.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>253-277</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Lam98</key><doi>10.1023/A:1018912105115</doi><ee>https://doi.org/10.1023/A:1018912105115</ee><url>https://dblp.org/rec/journals/ansoft/Lam98</url></info>
+<url>URL#4969385</url>
+</hit>
+<hit score="1" id="4969386">
+<info><authors><author pid="79/1320">F. Javier Lerch</author><author pid="72/6789">Nick V. Flor</author><author pid="09/6551">Mark Fichman</author><author pid="68/6998">Se-Joon Hong</author></authors><title>Software Reuse and Competition - Consumer Preferences in a Software Component Market.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>53-83</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/LerchFFH98</key><doi>10.1023/A:1018920306932</doi><ee>https://doi.org/10.1023/A:1018920306932</ee><url>https://dblp.org/rec/journals/ansoft/LerchFFH98</url></info>
+<url>URL#4969386</url>
+</hit>
+<hit score="1" id="4969387">
+<info><authors><author pid="l/TimothyLethbridge">Timothy Lethbridge</author></authors><title>The Relevance of Software Education - A survey and Some Recommendations.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>91-110</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Lethbridge98</key><doi>10.1023/A:1018917700997</doi><ee>https://doi.org/10.1023/A:1018917700997</ee><url>https://dblp.org/rec/journals/ansoft/Lethbridge98</url></info>
+<url>URL#4969387</url>
+</hit>
+<hit score="1" id="4969388">
+<info><authors><author pid="34/4081">Wayne C. Lim</author></authors><title>Strategy-Driven Reuse - Bringing Reuse from the Engineering Department to the Executive Boardroom.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>85-103</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Lim98</key><doi>10.1023/A:1018916206023</doi><ee>https://doi.org/10.1023/A:1018916206023</ee><url>https://dblp.org/rec/journals/ansoft/Lim98</url></info>
+<url>URL#4969388</url>
+</hit>
+<hit score="1" id="4969389">
+<info><authors><author pid="31/1058">Andy Lynex</author><author pid="49/240">Paul J. Layzell</author></authors><title>Organisational Considerations for software Reuse.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>105-124</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/LynexL98</key><doi>10.1023/A:1018928608749</doi><ee>https://doi.org/10.1023/A:1018928608749</ee><url>https://dblp.org/rec/journals/ansoft/LynexL98</url></info>
+<url>URL#4969389</url>
+</hit>
+<hit score="1" id="4969390">
+<info><authors><author pid="99/4849">Yoshihiro Matsumoto</author><author pid="38/3296">Atsushi Yamada</author></authors><title>An Association-Based Management of Reusable Software Components.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>317-347</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/MatsumotoY98</key><doi>10.1023/A:1018908004206</doi><ee>https://doi.org/10.1023/A:1018908004206</ee><url>https://dblp.org/rec/journals/ansoft/MatsumotoY98</url></info>
+<url>URL#4969390</url>
+</hit>
+<hit score="1" id="4969391">
+<info><authors><author pid="91/4770">Nancy R. Mead</author><author pid="t/AJoeTurner">A. Joe Turner</author></authors><title>Current Accreditation, Certification, and Licensure Activities Related to Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>167-180</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/MeadT98</key><doi>10.1023/A:1018973818744</doi><ee>https://doi.org/10.1023/A:1018973818744</ee><url>https://dblp.org/rec/journals/ansoft/MeadT98</url></info>
+<url>URL#4969391</url>
+</hit>
+<hit score="1" id="4969392">
+<info><authors><author pid="m/AliMili">Ali Mili</author><author pid="65/4905">Rym Mili</author><author pid="m/RolandMittermeir">Roland T. Mittermeir</author></authors><title>A Survey of software Reuse Libraries.</title><venue>Ann. Softw. Eng.</venue><volume>5</volume><pages>349-414</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/MiliMM98</key><doi>10.1023/A:1018964121953</doi><ee>https://doi.org/10.1023/A:1018964121953</ee><url>https://dblp.org/rec/journals/ansoft/MiliMM98</url></info>
+<url>URL#4969392</url>
+</hit>
+<hit score="1" id="4969393">
+<info><authors><author pid="92/623">Everald E. Mills</author></authors><title>Metrics in the Software Engineering Curriculum.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>181-200</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Mills98</key><doi>10.1023/A:1018909531948</doi><ee>https://doi.org/10.1023/A:1018909531948</ee><url>https://dblp.org/rec/journals/ansoft/Mills98</url></info>
+<url>URL#4969393</url>
+</hit>
+<hit score="1" id="4969394">
+<info><authors><author pid="p/DLParnas">David Lorge Parnas</author></authors><title>Software Engineering Programmes are not Computer Science Programmes.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>19-37</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Parnas98</key><doi>10.1023/A:1018949113292</doi><ee>https://doi.org/10.1023/A:1018949113292</ee><url>https://dblp.org/rec/journals/ansoft/Parnas98</url></info>
+<url>URL#4969394</url>
+</hit>
+<hit score="1" id="4969395">
+<info><authors><author pid="41/4704">Pierre N. Robillard</author><author pid="r/MartinPRobillard">Martin P. Robillard</author></authors><title>Improving Academic Software Engineering Projects - A Comparative Study of academic and Industry Projects.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>343-363</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/RobillardR98</key><doi>10.1023/A:1018925902814</doi><ee>https://doi.org/10.1023/A:1018925902814</ee><url>https://dblp.org/rec/journals/ansoft/RobillardR98</url></info>
+<url>URL#4969395</url>
+</hit>
+<hit score="1" id="4969396">
+<info><authors><author pid="20/1070">Jawed I. A. Siddiqi</author><author pid="86/5347">Ian C. Morrey</author><author pid="56/5842">Richard Hibberd</author><author pid="27/6519">Graham Buckberry</author></authors><title>Understanding and Exploring Formal Specifications.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>411-432</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/SiddiqiMHB98</key><doi>10.1023/A:1018977919653</doi><ee>https://doi.org/10.1023/A:1018977919653</ee><url>https://dblp.org/rec/journals/ansoft/SiddiqiMHB98</url></info>
+<url>URL#4969396</url>
+</hit>
+<hit score="1" id="4969397">
+<info><authors><author pid="s/IanSommerville">Ian Sommerville</author></authors><title>Systems Engineering for software Engineers.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>111-129</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Sommerville98</key><doi>10.1023/A:1018901230131</doi><ee>https://doi.org/10.1023/A:1018901230131</ee><url>https://dblp.org/rec/journals/ansoft/Sommerville98</url></info>
+<url>URL#4969397</url>
+</hit>
+<hit score="1" id="4969398">
+<info><authors><author pid="19/3163">James E. Tomayko</author></authors><title>Forging a Discipline - An Outline History of software Engineering Education.</title><venue>Ann. Softw. Eng.</venue><volume>6</volume><pages>3-18</pages><year>1998</year><type>Journal Articles</type><key>journals/ansoft/Tomayko98</key><doi>10.1023/A:1018953214201</doi><ee>https://doi.org/10.1023/A:1018953214201</ee><url>https://dblp.org/rec/journals/ansoft/Tomayko98</url></info>
+<url>URL#4969398</url>
+</hit>
+<hit score="1" id="5032073">
+<info><authors><author pid="a/PAmmann">Paul Ammann</author><author pid="03/3711">Dahlard L. Lukes</author><author pid="87/4375">John C. Knight</author></authors><title>Applying Data Redundancy to Differential Equation Solvers.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>65-77</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/AmmannLK97</key><doi>10.1023/A:1018958526071</doi><ee>https://doi.org/10.1023/A:1018958526071</ee><url>https://dblp.org/rec/journals/ansoft/AmmannLK97</url></info>
+<url>URL#5032073</url>
+</hit>
+<hit score="1" id="5032074">
+<info><authors><author pid="08/2084">Mark A. Ardis</author></authors><title>Formal Methods for Telecommunication System Requirements - A Survey of Standardized Languages.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>157-187</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Ardis97</key><doi>10.1023/A:1018981703781</doi><ee>https://doi.org/10.1023/A:1018981703781</ee><url>https://dblp.org/rec/journals/ansoft/Ardis97</url></info>
+<url>URL#5032074</url>
+</hit>
+<hit score="1" id="5032075">
+<info><authors><author pid="71/1552">Valerie Barr</author></authors><title>Rule-Base Coverage Analysis Applied to Test Case Selection.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>171-189</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Barr97</key><doi>10.1023/A:1018910610141</doi><ee>https://doi.org/10.1023/A:1018910610141</ee><url>https://dblp.org/rec/journals/ansoft/Barr97</url></info>
+<url>URL#5032075</url>
+</hit>
+<hit score="1" id="5032076">
+<info><authors><author pid="b/DavidBinkley">David W. Binkley</author></authors><title>C++ in Safety Critical Systems.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>223-234</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Binkley97</key><doi>10.1023/A:1018962626979</doi><ee>https://doi.org/10.1023/A:1018962626979</ee><url>https://dblp.org/rec/journals/ansoft/Binkley97</url></info>
+<url>URL#5032076</url>
+</hit>
+<hit score="1" id="5032077">
+<info><authors><author pid="58/5097">James Kenneth Blundell</author><author pid="76/553">Mary Lou Hines</author><author pid="30/5097">Jerrold Stach</author></authors><title>The Measurement of Software Design Quality.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>235-255</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/BlundellHS97</key><doi>10.1023/A:1018914711050</doi><ee>https://doi.org/10.1023/A:1018914711050</ee><url>https://dblp.org/rec/journals/ansoft/BlundellHS97</url></info>
+<url>URL#5032077</url>
+</hit>
+<hit score="1" id="5032078">
+<info><authors><author pid="c/PCiancarini">Paolo Ciancarini</author><author pid="60/3624">Stelvio Cimato</author><author pid="21/6419">Cecilia Mascolo</author></authors><title>Engineering Formal Requirements - An Analysis and Testing Method for Z Documents.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>189-219</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/CiancariniCM97</key><doi>10.1023/A:1018965316985</doi><ee>https://doi.org/10.1023/A:1018965316985</ee><url>https://dblp.org/rec/journals/ansoft/CiancariniCM97</url></info>
+<url>URL#5032078</url>
+</hit>
+<hit score="1" id="5032079">
+<info><authors><author pid="34/2929">David L. Coleman</author><author pid="86/6821">Albert L. Baker</author></authors><title>Synthesizing Structured Analysis and Object-Based Formal Specifications.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>221-253</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/ColemanB97</key><doi>10.1023/A:1018921517893</doi><ee>https://doi.org/10.1023/A:1018921517893</ee><url>https://dblp.org/rec/journals/ansoft/ColemanB97</url></info>
+<url>URL#5032079</url>
+</hit>
+<hit score="1" id="5032080">
+<info><authors><author pid="43/266">Alan M. Davis</author><author pid="41/2498">Kathleen Jordan</author><author pid="10/5746">Tsuyoshi Nakajima</author></authors><title>Elements Underlying the Specification of Requirements.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>63-100</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/DavisJN97</key><doi>10.1023/A:1018902408324</doi><ee>https://doi.org/10.1023/A:1018902408324</ee><url>https://dblp.org/rec/journals/ansoft/DavisJN97</url></info>
+<url>URL#5032080</url>
+</hit>
+<hit score="1" id="5032081">
+<info><authors><author pid="37/695">Christof Ebert</author></authors><title>Dealing with Nonfunctional Requirements in large Software Systems.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>367-395</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Ebert97</key><doi>10.1023/A:1018933820619</doi><ee>https://doi.org/10.1023/A:1018933820619</ee><url>https://dblp.org/rec/journals/ansoft/Ebert97</url></info>
+<url>URL#5032081</url>
+</hit>
+<hit score="1" id="5032082">
+<info><authors><author pid="40/870">Richard E. Fairley</author><author pid="23/5576">Richard H. Thayer</author></authors><title>The Concept of Operations - The Bridge from Operational Requirements to Technical Specifications.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>417-432</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/FairleyT97</key><doi>10.1023/A:1018985904689</doi><ee>https://doi.org/10.1023/A:1018985904689</ee><url>https://dblp.org/rec/journals/ansoft/FairleyT97</url></info>
+<url>URL#5032082</url>
+</hit>
+<hit score="1" id="5032083">
+<info><authors><author pid="h/RichardGHamlet">Richard G. Hamlet</author></authors><title>An Essay on Software Testing for Quality Assurance - Editor's Introduction.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>1-9</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Hamlet97</key><doi>10.1023/A:1018906509232</doi><ee>https://doi.org/10.1023/A:1018906509232</ee><url>https://dblp.org/rec/journals/ansoft/Hamlet97</url></info>
+<url>URL#5032083</url>
+</hit>
+<hit score="1" id="5032084">
+<info><authors><author pid="55/6876">Herbert Hecht</author><author pid="74/1055">Myron Hecht</author></authors><title>Quality Assurance and Testing for Safety Systems.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>191-200</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/HechtH97</key><doi>10.1023/A:1018927113776</doi><ee>https://doi.org/10.1023/A:1018927113776</ee><url>https://dblp.org/rec/journals/ansoft/HechtH97</url></info>
+<url>URL#5032084</url>
+</hit>
+<hit score="1" id="5032085">
+<info><authors><author pid="13/2435">Pei Hsia</author><author pid="k/DavidChenhoKung">David Chenho Kung</author><author pid="39/4209">Chris Sell</author></authors><title>Software Requirements and acceptance Testing.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>291-317</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/HsiaKS97</key><doi>10.1023/A:1018938021528</doi><ee>https://doi.org/10.1023/A:1018938021528</ee><url>https://dblp.org/rec/journals/ansoft/HsiaKS97</url></info>
+<url>URL#5032085</url>
+</hit>
+<hit score="1" id="5032086">
+<info><authors><author pid="92/1629-1">Michael Jackson 0001</author></authors><title>The Meaning of Requirements.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>5-21</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Jackson97</key><doi>10.1023/A:1018990005598</doi><ee>https://doi.org/10.1023/A:1018990005598</ee><url>https://dblp.org/rec/journals/ansoft/Jackson97</url></info>
+<url>URL#5032086</url>
+</hit>
+<hit score="1" id="5032087">
+<info><authors><author pid="k/HermannKaindl">Hermann Kaindl</author></authors><title>A Practical Approach to Combining Requirements Definition and Object-Oriented Analysis.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>319-343</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Kaindl97</key><doi>10.1023/A:1018954425162</doi><ee>https://doi.org/10.1023/A:1018954425162</ee><url>https://dblp.org/rec/journals/ansoft/Kaindl97</url></info>
+<url>URL#5032087</url>
+</hit>
+<hit score="1" id="5032088">
+<info><authors><author pid="72/880">Robert J. Kosman</author></authors><title>A Two-Step Methodology to Reduce Requirement Defects.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>477-494</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Kosman97</key><doi>10.1023/A:1018925618802</doi><ee>https://doi.org/10.1023/A:1018925618802</ee><url>https://dblp.org/rec/journals/ansoft/Kosman97</url></info>
+<url>URL#5032088</url>
+</hit>
+<hit score="1" id="5032089">
+<info><authors><author pid="67/549">Janusz W. Laski</author></authors><title>Programming Faults and Errors - Towards a Theory of Software Incorrectness.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>79-114</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Laski97</key><doi>10.1023/A:1018966827888</doi><ee>https://doi.org/10.1023/A:1018966827888</ee><url>https://dblp.org/rec/journals/ansoft/Laski97</url></info>
+<url>URL#5032089</url>
+</hit>
+<hit score="1" id="5032090">
+<info><authors><author pid="79/1320">F. Javier Lerch</author><author pid="81/1039">Deborah J. Ballou</author><author pid="80/3397">Donald E. Harter</author></authors><title>Using Simulation-Based Experiments for Software Requirements Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>345-366</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/LerchBH97</key><doi>10.1023/A:1018942122436</doi><ee>https://doi.org/10.1023/A:1018942122436</ee><url>https://dblp.org/rec/journals/ansoft/LerchBH97</url></info>
+<url>URL#5032090</url>
+</hit>
+<hit score="1" id="5032091">
+<info><authors><author pid="90/2223">François Lustman</author></authors><title>A Formal Approach to Scenario Integration.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>255-271</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Lustman97</key><doi>10.1023/A:1018973501964</doi><ee>https://doi.org/10.1023/A:1018973501964</ee><url>https://dblp.org/rec/journals/ansoft/Lustman97</url></info>
+<url>URL#5032091</url>
+</hit>
+<hit score="1" id="5032092">
+<info><authors><author pid="49/3478">Robyn R. Lutz</author><author pid="98/2606">Robert M. Woodhouse</author></authors><title>Requirements Analysis Using Forward and backward Search.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>459-475</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/LutzW97</key><doi>10.1023/A:1018929719710</doi><ee>https://doi.org/10.1023/A:1018929719710</ee><url>https://dblp.org/rec/journals/ansoft/LutzW97</url></info>
+<url>URL#5032092</url>
+</hit>
+<hit score="1" id="5032093">
+<info><authors><author pid="91/4770">Nancy R. Mead</author></authors><title>Software Requirements Engineering - Preface.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>1-3</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Mead97</key><url>https://dblp.org/rec/journals/ansoft/Mead97</url></info>
+<url>URL#5032093</url>
+</hit>
+<hit score="1" id="5032094">
+<info><authors><author pid="06/3364">Christoph C. Michael</author><author pid="27/5522">Jeffrey M. Voas</author></authors><title>The Ability of Directed Tests to Predict Software Quality.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>31-64</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/MichaelV97</key><doi>10.1023/A:1018918911958</doi><ee>https://doi.org/10.1023/A:1018918911958</ee><url>https://dblp.org/rec/journals/ansoft/MichaelV97</url></info>
+<url>URL#5032094</url>
+</hit>
+<hit score="1" id="5032095">
+<info><authors><author pid="16/952">Brian Mitchell</author><author pid="52/5436">Steven J. Zeil</author></authors><title>Modeling Reliability Growth During Non-Representative Testing.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>11-29</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/MitchellZ97</key><doi>10.1023/A:1018970928797</doi><ee>https://doi.org/10.1023/A:1018970928797</ee><url>https://dblp.org/rec/journals/ansoft/MitchellZ97</url></info>
+<url>URL#5032095</url>
+</hit>
+<hit score="1" id="5032096">
+<info><authors><author pid="23/502">Amit M. Paradkar</author><author pid="65/2833">Kuo-Chung Tai</author><author pid="v/MladenAVouk">Mladen A. Vouk</author></authors><title>Specification-Based Testing Using Cause-Effect Graphs.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>133-157</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/ParadkarTV97</key><doi>10.1023/A:1018979130614</doi><ee>https://doi.org/10.1023/A:1018979130614</ee><url>https://dblp.org/rec/journals/ansoft/ParadkarTV97</url></info>
+<url>URL#5032096</url>
+</hit>
+<hit score="1" id="5032097">
+<info><authors><author pid="p/ColinPotts">Colin Potts</author><author pid="10/625">Idris Hsi</author></authors><title>Abstraction and Context in Requirements Engineering - Toward a Synthesis.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>23-61</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/PottsH97</key><doi>10.1023/A:1018994106507</doi><ee>https://doi.org/10.1023/A:1018994106507</ee><url>https://dblp.org/rec/journals/ansoft/PottsH97</url></info>
+<url>URL#5032097</url>
+</hit>
+<hit score="1" id="5032098">
+<info><authors><author pid="08/3239">Balasubramaniam Ramesh</author><author pid="65/6182">Curtis Stubbs</author><author pid="08/5114">Timothy Powers</author><author pid="94/5326">Michael Edwards</author></authors><title>Requirements Traceability - Theory and Practice.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>397-415</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/RameshSPE97</key><doi>10.1023/A:1018969401055</doi><ee>https://doi.org/10.1023/A:1018969401055</ee><url>https://dblp.org/rec/journals/ansoft/RameshSPE97</url></info>
+<url>URL#5032098</url>
+</hit>
+<hit score="1" id="5032099">
+<info><authors><author pid="20/1070">Jawed I. A. Siddiqi</author><author pid="86/5347">Ian C. Morrey</author><author pid="r/CRRoast">Chris Roast</author><author pid="74/1821">Mehmet Bülent Özcan</author></authors><title>Towards Quality Requirements via Animated Formal Apecifications.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>131-155</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/SiddiqiMRO97</key><doi>10.1023/A:1018977602872</doi><ee>https://doi.org/10.1023/A:1018977602872</ee><url>https://dblp.org/rec/journals/ansoft/SiddiqiMRO97</url></info>
+<url>URL#5032099</url>
+</hit>
+<hit score="1" id="5032100">
+<info><authors><author pid="s/IanSommerville">Ian Sommerville</author><author pid="s/PeterSawyer">Peter Sawyer</author></authors><title>Viewpoints - Principles, Problems and a Practical Approach to Requirements Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>101-130</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/SommervilleS97</key><doi>10.1023/A:1018946223345</doi><ee>https://doi.org/10.1023/A:1018946223345</ee><url>https://dblp.org/rec/journals/ansoft/SommervilleS97</url></info>
+<url>URL#5032100</url>
+</hit>
+<hit score="1" id="5032101">
+<info><authors><author pid="13/1166">George Spanoudakis</author><author pid="f/AFinkelstein">Anthony Finkelstein</author></authors><title>Reconciling Requirements - A Method for Managing Interference, Inconsistency and Conflict.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>433-457</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/SpanoudakisF97</key><doi>10.1023/A:1018998207415</doi><ee>https://doi.org/10.1023/A:1018998207415</ee><url>https://dblp.org/rec/journals/ansoft/SpanoudakisF97</url></info>
+<url>URL#5032101</url>
+</hit>
+<hit score="1" id="5032102">
+<info><authors><author pid="t/JeffTian">Jeff Tian</author><author pid="19/5541">Joe Palma</author></authors><title>Test Workload Measurement and Reliability Analysis for Large Commercial Software Systems.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>201-222</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/TianP97</key><doi>10.1023/A:1018923012867</doi><ee>https://doi.org/10.1023/A:1018923012867</ee><url>https://dblp.org/rec/journals/ansoft/TianP97</url></info>
+<url>URL#5032102</url>
+</hit>
+<hit score="1" id="5032103">
+<info><authors><author pid="78/6063">Sunil Vadera</author><author pid="38/2268">Farid Meziane</author></authors><title>Tools for Producing Formal specifications - A view of Current Architectures and Future Directions.</title><venue>Ann. Softw. Eng.</venue><volume>3</volume><pages>273-290</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/VaderaM97</key><doi>10.1023/A:1018950324254</doi><ee>https://doi.org/10.1023/A:1018950324254</ee><url>https://dblp.org/rec/journals/ansoft/VaderaM97</url></info>
+<url>URL#5032103</url>
+</hit>
+<hit score="1" id="5032104">
+<info><authors><author pid="01/3800">Tomas Vagoun</author><author pid="71/1004">Alan R. Hevner</author></authors><title>Feasible Input Domain Partitioning in Software Testing - RCS case Study.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>159-170</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/VagounH97</key><doi>10.1023/A:1018931214684</doi><ee>https://doi.org/10.1023/A:1018931214684</ee><url>https://dblp.org/rec/journals/ansoft/VagounH97</url></info>
+<url>URL#5032104</url>
+</hit>
+<hit score="1" id="5032105">
+<info><authors><author pid="w/JamesAWhittaker">James A. Whittaker</author></authors><title>Stochastic Software Testing.</title><venue>Ann. Softw. Eng.</venue><volume>4</volume><pages>115-131</pages><year>1997</year><type>Journal Articles</type><key>journals/ansoft/Whittaker97</key><doi>10.1023/A:1018975029705</doi><ee>https://doi.org/10.1023/A:1018975029705</ee><url>https://dblp.org/rec/journals/ansoft/Whittaker97</url></info>
+<url>URL#5032105</url>
+</hit>
+<hit score="1" id="5086770">
+<info><authors><author pid="b/GradyBooch">Grady Booch</author></authors><title>Managing Object-Oriented Software Development.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>237-258</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/Booch96</key><doi>10.1007/BF02063812</doi><ee>https://doi.org/10.1007/BF02063812</ee><url>https://dblp.org/rec/journals/ansoft/Booch96</url></info>
+<url>URL#5086770</url>
+</hit>
+<hit score="1" id="5086771">
+<info><authors><author pid="46/1336">Brendan G. Cain</author><author pid="c/JCoplien">James Coplien</author><author pid="51/190">Neil B. Harrison</author></authors><title>Social Patterns in Productive Software Development Organizations.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>259-286</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/CainCH96</key><doi>10.1007/BF02063813</doi><ee>https://doi.org/10.1007/BF02063813</ee><url>https://dblp.org/rec/journals/ansoft/CainCH96</url></info>
+<url>URL#5086771</url>
+</hit>
+<hit score="1" id="5086772">
+<info><authors><author pid="29/4739">T. Case</author><author pid="45/5440">Brian Henderson-Sellers</author><author pid="l/GCLow">Graham C. Low</author></authors><title>A Generic Object-Oriented Design Methodology Incorporating Database Considerations.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>5-24</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/CaseHL96</key><doi>10.1007/BF02063804</doi><ee>https://doi.org/10.1007/BF02063804</ee><url>https://dblp.org/rec/journals/ansoft/CaseHL96</url></info>
+<url>URL#5086772</url>
+</hit>
+<hit score="1" id="5086773">
+<info><authors><author pid="d/MaheshHDodani">Mahesh H. Dodani</author></authors><title>Formal Methods for Object-Oriented Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>121-160</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/Dodani96</key><doi>10.1007/BF02063808</doi><ee>https://doi.org/10.1007/BF02063808</ee><url>https://dblp.org/rec/journals/ansoft/Dodani96</url></info>
+<url>URL#5086773</url>
+</hit>
+<hit score="1" id="5086774">
+<info><authors><author pid="d/DovDori">Dov Dori</author><author pid="19/2947">Moshe Goodman</author></authors><title>From Object-Process Analysis to Object-Process Design.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>25-50</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/DoriG96</key><doi>10.1007/BF02063805</doi><ee>https://doi.org/10.1007/BF02063805</ee><url>https://dblp.org/rec/journals/ansoft/DoriG96</url></info>
+<url>URL#5086774</url>
+</hit>
+<hit score="1" id="5086775">
+<info><authors><author pid="32/670">Lu Jian</author></authors><title>Developing Parallel Object-Oriented Programs in the Framework of VDM.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>199-211</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/Jian96</key><doi>10.1007/BF02063810</doi><ee>https://doi.org/10.1007/BF02063810</ee><url>https://dblp.org/rec/journals/ansoft/Jian96</url></info>
+<url>URL#5086775</url>
+</hit>
+<hit score="1" id="5086776">
+<info><authors><author pid="63/6046">Jyhjong Lin</author><author pid="k/DavidChenhoKung">David Chenho Kung</author><author pid="13/2435">Pei Hsia</author></authors><title>Object-Oriented Specification and Formal Verification of Real-Time Systems.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>161-198</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/LinKH96</key><doi>10.1007/BF02063809</doi><ee>https://doi.org/10.1007/BF02063809</ee><url>https://dblp.org/rec/journals/ansoft/LinKH96</url></info>
+<url>URL#5086776</url>
+</hit>
+<hit score="1" id="5086777">
+<info><authors><author pid="m/JohnDMcGregor">John D. McGregor</author></authors><title>Preface - Object-Oriented Software Engineering - Foundations and Techniques.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>1-3</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/McGregor96</key><url>https://dblp.org/rec/journals/ansoft/McGregor96</url></info>
+<url>URL#5086777</url>
+</hit>
+<hit score="1" id="5086778">
+<info><authors><author pid="m/JohnDMcGregor">John D. McGregor</author><author pid="m/BrianAMalloy">Brian A. Malloy</author><author pid="07/2394">Rebecca L. Siegmund</author></authors><title>A Comprehensive Program Representation of Object-Oriented Software.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>51-91</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/McGregorMS96</key><doi>10.1007/BF02063806</doi><ee>https://doi.org/10.1007/BF02063806</ee><url>https://dblp.org/rec/journals/ansoft/McGregorMS96</url></info>
+<url>URL#5086778</url>
+</hit>
+<hit score="1" id="5086779">
+<info><authors><author pid="p/ASParrish">Allen S. Parrish</author><author pid="c/DavidCordes">David Cordes</author><author pid="09/7037">Dennis Brown</author></authors><title>An Environment to Support Micro-Incremental Class Development.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>213-236</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/ParrishCB96</key><doi>10.1007/BF02063811</doi><ee>https://doi.org/10.1007/BF02063811</ee><url>https://dblp.org/rec/journals/ansoft/ParrishCB96</url></info>
+<url>URL#5086779</url>
+</hit>
+<hit score="1" id="5086780">
+<info><authors><author pid="42/2483">Lonnie R. Welch</author><author pid="87/269">Mrinalini Lankala</author><author pid="84/6907">William H. Farr</author><author pid="41/1098">Dieter K. Hammer</author></authors><title>Metrics for Quality and Concurrency in Object-Based Systems.</title><venue>Ann. Softw. Eng.</venue><volume>2</volume><pages>93-119</pages><year>1996</year><type>Journal Articles</type><key>journals/ansoft/WelchLFH96</key><doi>10.1007/BF02063807</doi><ee>https://doi.org/10.1007/BF02063807</ee><url>https://dblp.org/rec/journals/ansoft/WelchLFH96</url></info>
+<url>URL#5086780</url>
+</hit>
+<hit score="1" id="5137670">
+<info><authors><author pid="b/BarryWBoehm">Barry W. Boehm</author><author pid="19/3454">Bradford Clark</author><author pid="h/EllisHorowitz">Ellis Horowitz</author><author pid="70/6440">J. Christopher Westland</author><author pid="11/2670">Raymond J. Madachy</author><author pid="47/3137">Richard W. Selby</author></authors><title>Cost Models for Future Software Life Cycle Processes - COCOMO 2.0.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>57-94</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/BoehmCHWMS95</key><doi>10.1007/BF02249046</doi><ee>https://doi.org/10.1007/BF02249046</ee><url>https://dblp.org/rec/journals/ansoft/BoehmCHWMS95</url></info>
+<url>URL#5137670</url>
+</hit>
+<hit score="1" id="5137671">
+<info><authors><author pid="63/1672">Watts S. Humphrey</author></authors><title>Introducing the Personal Software Process.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>311-325</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/Humphrey95</key><doi>10.1007/BF02249055</doi><ee>https://doi.org/10.1007/BF02249055</ee><url>https://dblp.org/rec/journals/ansoft/Humphrey95</url></info>
+<url>URL#5137671</url>
+</hit>
+<hit score="1" id="5137672">
+<info><authors><author pid="40/641">Chris F. Kemerer</author></authors><title>Software Complexity and Software Maintenance - A Survey of Empirical Research.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>1-22</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/Kemerer95</key><doi>10.1007/BF02249043</doi><ee>https://doi.org/10.1007/BF02249043</ee><url>https://dblp.org/rec/journals/ansoft/Kemerer95</url></info>
+<url>URL#5137672</url>
+</hit>
+<hit score="1" id="5137673">
+<info><authors><author pid="k/TMKhoshgoftaar">Taghi M. Khoshgoftaar</author><author pid="15/3326">Abhijit S. Pandya</author><author pid="10/5072">David L. Lanning</author></authors><title>Application of Neural Networks for Predicting Program Faults.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>141-154</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/KhoshgoftaarPL95</key><doi>10.1007/BF02249049</doi><ee>https://doi.org/10.1007/BF02249049</ee><url>https://dblp.org/rec/journals/ansoft/KhoshgoftaarPL95</url></info>
+<url>URL#5137673</url>
+</hit>
+<hit score="1" id="5137674">
+<info><authors><author pid="m/JohnCMunson">John C. Munson</author></authors><title>Software Measurement - Problems and Practice.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>255-285</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/Munson95</key><doi>10.1007/BF02249053</doi><ee>https://doi.org/10.1007/BF02249053</ee><url>https://dblp.org/rec/journals/ansoft/Munson95</url></info>
+<url>URL#5137674</url>
+</hit>
+<hit score="1" id="5137675">
+<info><authors><author pid="97/2422">Gerald E. Murine</author><author pid="30/1055">B. J. Murine</author></authors><title>Implementing a Software Quality Metric Program Based on the Rome Laboratory Initiatives.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>155-177</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/MurineM95</key><doi>10.1007/BF02249050</doi><ee>https://doi.org/10.1007/BF02249050</ee><url>https://dblp.org/rec/journals/ansoft/MurineM95</url></info>
+<url>URL#5137675</url>
+</hit>
+<hit score="1" id="5137676">
+<info><authors><author pid="73/1640">Shari Lawrence Pfleeger</author></authors><title>Experimental Design and Analysis in Software Engineering.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>219-253</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/Pfleeger95</key><doi>10.1007/BF02249052</doi><ee>https://doi.org/10.1007/BF02249052</ee><url>https://dblp.org/rec/journals/ansoft/Pfleeger95</url></info>
+<url>URL#5137676</url>
+</hit>
+<hit score="1" id="5137677">
+<info><authors><author pid="64/3016">Norman F. Schneidewind</author></authors><title>Software Metrics Validation - Space Shuttle flight Software Example.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>287-309</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/Schneidewind95</key><doi>10.1007/BF02249054</doi><ee>https://doi.org/10.1007/BF02249054</ee><url>https://dblp.org/rec/journals/ansoft/Schneidewind95</url></info>
+<url>URL#5137677</url>
+</hit>
+<hit score="1" id="5137678">
+<info><authors><author pid="83/896">Robert C. Tausworthe</author></authors><title>Software Quality Management Through Process and Product Modeling.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>119-139</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/Tausworthe95</key><doi>10.1007/BF02249048</doi><ee>https://doi.org/10.1007/BF02249048</ee><url>https://dblp.org/rec/journals/ansoft/Tausworthe95</url></info>
+<url>URL#5137678</url>
+</hit>
+<hit score="1" id="5137679">
+<info><authors><author pid="89/1611">Joel Troster</author><author pid="t/JeffTian">Jeff Tian</author></authors><title>Measurement and Defect Modeling for a Legacy Software System.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>95-118</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/TrosterT95</key><doi>10.1007/BF02249047</doi><ee>https://doi.org/10.1007/BF02249047</ee><url>https://dblp.org/rec/journals/ansoft/TrosterT95</url></info>
+<url>URL#5137679</url>
+</hit>
+<hit score="1" id="5137680">
+<info><authors><author pid="42/2483">Lonnie R. Welch</author><author pid="68/19">Guohui Yu</author><author pid="90/5969">Jack P. C. Verhoosel</author><author pid="13/266">J. A. Haney</author><author pid="92/753">Arthur L. Samuel</author><author pid="20/4362">P. Ng</author></authors><title>Metrics for Assessment of Designs and Implementations During Reengineering of Computer-Based Systems.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>179-217</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/WelchYVHSN95</key><doi>10.1007/BF02249051</doi><ee>https://doi.org/10.1007/BF02249051</ee><url>https://dblp.org/rec/journals/ansoft/WelchYVHSN95</url></info>
+<url>URL#5137680</url>
+</hit>
+<hit score="1" id="5137681">
+<info><authors><author pid="15/10348">Xiaobao Yu</author><author pid="38/5857">David Alex Lamb</author></authors><title>Metrics Applicable to Software Design.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>23-41</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/YuL95</key><doi>10.1007/BF02249044</doi><ee>https://doi.org/10.1007/BF02249044</ee><url>https://dblp.org/rec/journals/ansoft/YuL95</url></info>
+<url>URL#5137681</url>
+</hit>
+<hit score="1" id="5137682">
+<info><authors><author pid="15/6609">Wayne M. Zage</author><author pid="20/6008">Dolores M. Zage</author><author pid="33/1771">C. Wilburn</author></authors><title>Avoiding Metric Monsters - A Design Metrics Approach.</title><venue>Ann. Softw. Eng.</venue><volume>1</volume><pages>43-55</pages><year>1995</year><type>Journal Articles</type><key>journals/ansoft/ZageZW95</key><doi>10.1007/BF02249045</doi><ee>https://doi.org/10.1007/BF02249045</ee><url>https://dblp.org/rec/journals/ansoft/ZageZW95</url></info>
+<url>URL#5137682</url>
+</hit>
+</hits>
+</result>
